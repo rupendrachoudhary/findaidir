@@ -1,0 +1,2 @@
+# Redirect www to non-www
+https://www.findaidir.com/* https://findaidir.com/:splat 301

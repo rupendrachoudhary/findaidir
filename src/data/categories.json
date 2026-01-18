@@ -1,0 +1,1472 @@
+[
+  {
+    "name": "ai agents",
+    "slug": "ai-agents",
+    "count": 168
+  },
+  {
+    "name": "ai chatbots",
+    "slug": "ai-chatbots",
+    "count": 115
+  },
+  {
+    "name": "customer support",
+    "slug": "customer-support",
+    "count": 111
+  },
+  {
+    "name": "marketing",
+    "slug": "marketing",
+    "count": 110
+  },
+  {
+    "name": "research",
+    "slug": "research",
+    "count": 94
+  },
+  {
+    "name": "finance",
+    "slug": "finance",
+    "count": 93
+  },
+  {
+    "name": "health",
+    "slug": "health",
+    "count": 83
+  },
+  {
+    "name": "Other",
+    "slug": "other",
+    "count": 76
+  },
+  {
+    "name": "project management",
+    "slug": "project-management",
+    "count": 73
+  },
+  {
+    "name": "personal assistant",
+    "slug": "personal-assistant",
+    "count": 72
+  },
+  {
+    "name": "education",
+    "slug": "education",
+    "count": 70
+  },
+  {
+    "name": "sales assistant",
+    "slug": "sales-assistant",
+    "count": 67
+  },
+  {
+    "name": "AI Trip Planner",
+    "slug": "ai-trip-planner",
+    "count": 61
+  },
+  {
+    "name": "low-code/no-code",
+    "slug": "low-codeno-code",
+    "count": 61
+  },
+  {
+    "name": "image editing",
+    "slug": "image-editing",
+    "count": 60
+  },
+  {
+    "name": "AI Healthcare Advisor",
+    "slug": "ai-healthcare-advisor",
+    "count": 57
+  },
+  {
+    "name": "design generators",
+    "slug": "design-generators",
+    "count": 56
+  },
+  {
+    "name": "code assistant",
+    "slug": "code-assistant",
+    "count": 55
+  },
+  {
+    "name": "writing generators",
+    "slug": "writing-generators",
+    "count": 53
+  },
+  {
+    "name": "E-commerce Assistant",
+    "slug": "e-commerce-assistant",
+    "count": 52
+  },
+  {
+    "name": "image generators",
+    "slug": "image-generators",
+    "count": 52
+  },
+  {
+    "name": "ai detection",
+    "slug": "ai-detection",
+    "count": 52
+  },
+  {
+    "name": "Prompt",
+    "slug": "prompt",
+    "count": 51
+  },
+  {
+    "name": "AI Code Assistant",
+    "slug": "ai-code-assistant",
+    "count": 51
+  },
+  {
+    "name": "video generators",
+    "slug": "video-generators",
+    "count": 51
+  },
+  {
+    "name": "AI Tools Directory",
+    "slug": "ai-tools-directory",
+    "count": 50
+  },
+  {
+    "name": "AI Dating Assistant",
+    "slug": "ai-dating-assistant",
+    "count": 50
+  },
+  {
+    "name": "AI Chatbot",
+    "slug": "ai-chatbot",
+    "count": 49
+  },
+  {
+    "name": "video editing",
+    "slug": "video-editing",
+    "count": 49
+  },
+  {
+    "name": "workflows",
+    "slug": "workflows",
+    "count": 49
+  },
+  {
+    "name": "AI Life Coach",
+    "slug": "ai-life-coach",
+    "count": 47
+  },
+  {
+    "name": "AI Interview Coach",
+    "slug": "ai-interview-coach",
+    "count": 47
+  },
+  {
+    "name": "AI App Builder",
+    "slug": "ai-app-builder",
+    "count": 47
+  },
+  {
+    "name": "Cover Letter Generator",
+    "slug": "cover-letter-generator",
+    "count": 46
+  },
+  {
+    "name": "human resources",
+    "slug": "human-resources",
+    "count": 46
+  },
+  {
+    "name": "SEO",
+    "slug": "seo",
+    "count": 45
+  },
+  {
+    "name": "AI Course Creator",
+    "slug": "ai-course-creator",
+    "count": 43
+  },
+  {
+    "name": "e-commerce",
+    "slug": "e-commerce",
+    "count": 43
+  },
+  {
+    "name": "social media",
+    "slug": "social-media",
+    "count": 43
+  },
+  {
+    "name": "legal",
+    "slug": "legal",
+    "count": 43
+  },
+  {
+    "name": "AI Video Generator",
+    "slug": "ai-video-generator",
+    "count": 42
+  },
+  {
+    "name": "AI Trading Bot",
+    "slug": "ai-trading-bot",
+    "count": 42
+  },
+  {
+    "name": "AI API Designer",
+    "slug": "ai-api-designer",
+    "count": 42
+  },
+  {
+    "name": "startup tools",
+    "slug": "startup-tools",
+    "count": 42
+  },
+  {
+    "name": "AI Education Assistant",
+    "slug": "ai-education-assistant",
+    "count": 40
+  },
+  {
+    "name": "AI Project Manager",
+    "slug": "ai-project-manager",
+    "count": 39
+  },
+  {
+    "name": "Sales Assistant",
+    "slug": "sales-assistant",
+    "count": 38
+  },
+  {
+    "name": "AI Audio Enhancer",
+    "slug": "ai-audio-enhancer",
+    "count": 38
+  },
+  {
+    "name": "AI Content Generator",
+    "slug": "ai-content-generator",
+    "count": 37
+  },
+  {
+    "name": "AI Business Ideas Generator",
+    "slug": "ai-business-ideas-generator",
+    "count": 37
+  },
+  {
+    "name": "AI Character",
+    "slug": "ai-character",
+    "count": 36
+  },
+  {
+    "name": "AI Accounting Assistant",
+    "slug": "ai-accounting-assistant",
+    "count": 35
+  },
+  {
+    "name": "AI Recruiting Assistant",
+    "slug": "ai-recruiting-assistant",
+    "count": 35
+  },
+  {
+    "name": "AI Image Enhancer",
+    "slug": "ai-image-enhancer",
+    "count": 34
+  },
+  {
+    "name": "AI Cooking Assistant",
+    "slug": "ai-cooking-assistant",
+    "count": 33
+  },
+  {
+    "name": "AI Background Remover",
+    "slug": "ai-background-remover",
+    "count": 33
+  },
+  {
+    "name": "3D",
+    "slug": "3d",
+    "count": 33
+  },
+  {
+    "name": "AI Art Generator",
+    "slug": "ai-art-generator",
+    "count": 32
+  },
+  {
+    "name": "AI Form & Survey Creator",
+    "slug": "ai-form-survey-creator",
+    "count": 32
+  },
+  {
+    "name": "AI Checker Essay",
+    "slug": "ai-checker-essay",
+    "count": 32
+  },
+  {
+    "name": "AI SEO Optimizer",
+    "slug": "ai-seo-optimizer",
+    "count": 32
+  },
+  {
+    "name": "summarizer",
+    "slug": "summarizer",
+    "count": 32
+  },
+  {
+    "name": "AI Ad Creative Generator",
+    "slug": "ai-ad-creative-generator",
+    "count": 31
+  },
+  {
+    "name": "AI Mental Health Support",
+    "slug": "ai-mental-health-support",
+    "count": 31
+  },
+  {
+    "name": "AI Game Assistant",
+    "slug": "ai-game-assistant",
+    "count": 31
+  },
+  {
+    "name": "AI Gift Idea Generator",
+    "slug": "ai-gift-idea-generator",
+    "count": 31
+  },
+  {
+    "name": "AI Fitness Trainer",
+    "slug": "ai-fitness-trainer",
+    "count": 30
+  },
+  {
+    "name": "Text to Image Generator",
+    "slug": "text-to-image-generator",
+    "count": 30
+  },
+  {
+    "name": "AI Advertising Assistant",
+    "slug": "ai-advertising-assistant",
+    "count": 30
+  },
+  {
+    "name": "AI Productivity Tools",
+    "slug": "ai-productivity-tools",
+    "count": 30
+  },
+  {
+    "name": "AI Content Repurposer",
+    "slug": "ai-content-repurposer",
+    "count": 30
+  },
+  {
+    "name": "AI Quiz Generator",
+    "slug": "ai-quiz-generator",
+    "count": 30
+  },
+  {
+    "name": "AI Music Generator",
+    "slug": "ai-music-generator",
+    "count": 29
+  },
+  {
+    "name": "AI Interior & Room Designer",
+    "slug": "ai-interior-room-designer",
+    "count": 29
+  },
+  {
+    "name": "AI Website Builder",
+    "slug": "ai-website-builder",
+    "count": 29
+  },
+  {
+    "name": "website builders",
+    "slug": "website-builders",
+    "count": 29
+  },
+  {
+    "name": "Translation Assistant",
+    "slug": "translation-assistant",
+    "count": 27
+  },
+  {
+    "name": "AI Email Marketing Assistant",
+    "slug": "ai-email-marketing-assistant",
+    "count": 27
+  },
+  {
+    "name": "AI Profile Picture Generator",
+    "slug": "ai-profile-picture-generator",
+    "count": 27
+  },
+  {
+    "name": "copywriting",
+    "slug": "copywriting",
+    "count": 27
+  },
+  {
+    "name": "AI CRM Assistant",
+    "slug": "ai-crm-assistant",
+    "count": 26
+  },
+  {
+    "name": "Domain Name Generator",
+    "slug": "domain-name-generator",
+    "count": 26
+  },
+  {
+    "name": "music",
+    "slug": "music",
+    "count": 26
+  },
+  {
+    "name": "AI Creative Writing",
+    "slug": "ai-creative-writing",
+    "count": 25
+  },
+  {
+    "name": "AI Knowledge Base",
+    "slug": "ai-knowledge-base",
+    "count": 25
+  },
+  {
+    "name": "AI Cover Generator",
+    "slug": "ai-cover-generator",
+    "count": 25
+  },
+  {
+    "name": "AI Note-Taking Assistant",
+    "slug": "ai-note-taking-assistant",
+    "count": 25
+  },
+  {
+    "name": "email assistant",
+    "slug": "email-assistant",
+    "count": 25
+  },
+  {
+    "name": "Newsletter Generator",
+    "slug": "newsletter-generator",
+    "count": 24
+  },
+  {
+    "name": "Legal Assistant",
+    "slug": "legal-assistant",
+    "count": 24
+  },
+  {
+    "name": "Resume Builder",
+    "slug": "resume-builder",
+    "count": 24
+  },
+  {
+    "name": "Homework Helper",
+    "slug": "homework-helper",
+    "count": 24
+  },
+  {
+    "name": "AI Tutorial Creator",
+    "slug": "ai-tutorial-creator",
+    "count": 24
+  },
+  {
+    "name": "search engine",
+    "slug": "search-engine",
+    "count": 24
+  },
+  {
+    "name": "transcriber",
+    "slug": "transcriber",
+    "count": 24
+  },
+  {
+    "name": "presentations",
+    "slug": "presentations",
+    "count": 24
+  },
+  {
+    "name": "AI Story Writing",
+    "slug": "ai-story-writing",
+    "count": 23
+  },
+  {
+    "name": "AI Book Writing",
+    "slug": "ai-book-writing",
+    "count": 22
+  },
+  {
+    "name": "Large Language Models (LLMs)",
+    "slug": "large-language-models-llms",
+    "count": 22
+  },
+  {
+    "name": "AI Animated Video Creator",
+    "slug": "ai-animated-video-creator",
+    "count": 22
+  },
+  {
+    "name": "AI Video Recording",
+    "slug": "ai-video-recording",
+    "count": 22
+  },
+  {
+    "name": "AI Celebrity Voice Generator",
+    "slug": "ai-celebrity-voice-generator",
+    "count": 22
+  },
+  {
+    "name": "AI Search Engine",
+    "slug": "ai-search-engine",
+    "count": 22
+  },
+  {
+    "name": "AI Code Generator",
+    "slug": "ai-code-generator",
+    "count": 21
+  },
+  {
+    "name": "AI Analytics Assistant",
+    "slug": "ai-analytics-assistant",
+    "count": 21
+  },
+  {
+    "name": "AI Roadmap Generator",
+    "slug": "ai-roadmap-generator",
+    "count": 21
+  },
+  {
+    "name": "Investing Assistant",
+    "slug": "investing-assistant",
+    "count": 21
+  },
+  {
+    "name": "Research Tool",
+    "slug": "research-tool",
+    "count": 20
+  },
+  {
+    "name": "AI Meeting Assistant",
+    "slug": "ai-meeting-assistant",
+    "count": 20
+  },
+  {
+    "name": "AI Coaching",
+    "slug": "ai-coaching",
+    "count": 20
+  },
+  {
+    "name": "AI Selfie & Portrait Editor",
+    "slug": "ai-selfie-portrait-editor",
+    "count": 20
+  },
+  {
+    "name": "AI Customer Service Assistant",
+    "slug": "ai-customer-service-assistant",
+    "count": 20
+  },
+  {
+    "name": "gaming",
+    "slug": "gaming",
+    "count": 20
+  },
+  {
+    "name": "text to speech",
+    "slug": "text-to-speech",
+    "count": 20
+  },
+  {
+    "name": "AI SQL Query Builder",
+    "slug": "ai-sql-query-builder",
+    "count": 19
+  },
+  {
+    "name": "AI Consulting Assistant",
+    "slug": "ai-consulting-assistant",
+    "count": 19
+  },
+  {
+    "name": "AI 3D Model Generator",
+    "slug": "ai-3d-model-generator",
+    "count": 19
+  },
+  {
+    "name": "AI Podcast Assistant",
+    "slug": "ai-podcast-assistant",
+    "count": 19
+  },
+  {
+    "name": "Digital Marketing Generator",
+    "slug": "digital-marketing-generator",
+    "count": 19
+  },
+  {
+    "name": "AI Logo Generator",
+    "slug": "ai-logo-generator",
+    "count": 19
+  },
+  {
+    "name": "AI Data Mining",
+    "slug": "ai-data-mining",
+    "count": 19
+  },
+  {
+    "name": "AI Presentation Generator",
+    "slug": "ai-presentation-generator",
+    "count": 19
+  },
+  {
+    "name": "spreadsheets",
+    "slug": "spreadsheets",
+    "count": 19
+  },
+  {
+    "name": "AI Image Scanner",
+    "slug": "ai-image-scanner",
+    "count": 18
+  },
+  {
+    "name": "AI Blog Writer",
+    "slug": "ai-blog-writer",
+    "count": 18
+  },
+  {
+    "name": "real estate",
+    "slug": "real-estate",
+    "count": 18
+  },
+  {
+    "name": "translator",
+    "slug": "translator",
+    "count": 18
+  },
+  {
+    "name": "AI Knowledge Graph",
+    "slug": "ai-knowledge-graph",
+    "count": 17
+  },
+  {
+    "name": "AI Hashtag Assistant",
+    "slug": "ai-hashtag-assistant",
+    "count": 17
+  },
+  {
+    "name": "AI Documents Assistant",
+    "slug": "ai-documents-assistant",
+    "count": 17
+  },
+  {
+    "name": "Blockchain Tools",
+    "slug": "blockchain-tools",
+    "count": 17
+  },
+  {
+    "name": "AI Speech Recognition",
+    "slug": "ai-speech-recognition",
+    "count": 17
+  },
+  {
+    "name": "fun tools",
+    "slug": "fun-tools",
+    "count": 17
+  },
+  {
+    "name": "travel",
+    "slug": "travel",
+    "count": 17
+  },
+  {
+    "name": "AI Lead Generation",
+    "slug": "ai-lead-generation",
+    "count": 16
+  },
+  {
+    "name": "AI Website Designer",
+    "slug": "ai-website-designer",
+    "count": 16
+  },
+  {
+    "name": "AI Workflow Manager",
+    "slug": "ai-workflow-manager",
+    "count": 16
+  },
+  {
+    "name": "AI Fun Tools",
+    "slug": "ai-fun-tools",
+    "count": 16
+  },
+  {
+    "name": "AI PDF Processor",
+    "slug": "ai-pdf-processor",
+    "count": 16
+  },
+  {
+    "name": "AI Religious Guide",
+    "slug": "ai-religious-guide",
+    "count": 16
+  },
+  {
+    "name": "AI Twitter Marketing Assistant",
+    "slug": "ai-twitter-marketing-assistant",
+    "count": 16
+  },
+  {
+    "name": "AI Content Detector",
+    "slug": "ai-content-detector",
+    "count": 16
+  },
+  {
+    "name": "AI Team Collaboration Tool",
+    "slug": "ai-team-collaboration-tool",
+    "count": 16
+  },
+  {
+    "name": "text to video",
+    "slug": "text-to-video",
+    "count": 16
+  },
+  {
+    "name": "AI Task Manager",
+    "slug": "ai-task-manager",
+    "count": 15
+  },
+  {
+    "name": "AI Review Assistant",
+    "slug": "ai-review-assistant",
+    "count": 15
+  },
+  {
+    "name": "Bio Link Generator",
+    "slug": "bio-link-generator",
+    "count": 15
+  },
+  {
+    "name": "AI Instagram Marketing Assistant",
+    "slug": "ai-instagram-marketing-assistant",
+    "count": 15
+  },
+  {
+    "name": "AI Design Generator",
+    "slug": "ai-design-generator",
+    "count": 15
+  },
+  {
+    "name": "fashion",
+    "slug": "fashion",
+    "count": 15
+  },
+  {
+    "name": "text to image",
+    "slug": "text-to-image",
+    "count": 15
+  },
+  {
+    "name": "prompt generators",
+    "slug": "prompt-generators",
+    "count": 15
+  },
+  {
+    "name": "AI Speech Synthesis",
+    "slug": "ai-speech-synthesis",
+    "count": 14
+  },
+  {
+    "name": "AI Voice Assistant",
+    "slug": "ai-voice-assistant",
+    "count": 14
+  },
+  {
+    "name": "AI Girlfriend",
+    "slug": "ai-girlfriend",
+    "count": 14
+  },
+  {
+    "name": "AI Facebook Marketing Assistant",
+    "slug": "ai-facebook-marketing-assistant",
+    "count": 14
+  },
+  {
+    "name": "AI Reply Assistant",
+    "slug": "ai-reply-assistant",
+    "count": 13
+  },
+  {
+    "name": "AI Testing & QA",
+    "slug": "ai-testing-qa",
+    "count": 12
+  },
+  {
+    "name": "Web Scraping Tool",
+    "slug": "web-scraping-tool",
+    "count": 12
+  },
+  {
+    "name": "AI YouTube Marketing Assistant",
+    "slug": "ai-youtube-marketing-assistant",
+    "count": 12
+  },
+  {
+    "name": "Text to Video Generator",
+    "slug": "text-to-video-generator",
+    "count": 12
+  },
+  {
+    "name": "AI Plagiarism Checker",
+    "slug": "ai-plagiarism-checker",
+    "count": 12
+  },
+  {
+    "name": "AI Developer Tools",
+    "slug": "ai-developer-tools",
+    "count": 12
+  },
+  {
+    "name": "SQL",
+    "slug": "sql",
+    "count": 12
+  },
+  {
+    "name": "AI Email Generator",
+    "slug": "ai-email-generator",
+    "count": 11
+  },
+  {
+    "name": "AI Photography Assistant",
+    "slug": "ai-photography-assistant",
+    "count": 11
+  },
+  {
+    "name": "Image to Image Converter",
+    "slug": "image-to-image-converter",
+    "count": 11
+  },
+  {
+    "name": "AI Social Media Manager",
+    "slug": "ai-social-media-manager",
+    "count": 11
+  },
+  {
+    "name": "audio editing",
+    "slug": "audio-editing",
+    "count": 11
+  },
+  {
+    "name": "AI Photo Restoration",
+    "slug": "ai-photo-restoration",
+    "count": 10
+  },
+  {
+    "name": "Marketing Plan Generator",
+    "slug": "marketing-plan-generator",
+    "count": 10
+  },
+  {
+    "name": "Captions & Subtitle Generator",
+    "slug": "captions-subtitle-generator",
+    "count": 10
+  },
+  {
+    "name": "AI Personalized Video Creator",
+    "slug": "ai-personalized-video-creator",
+    "count": 10
+  },
+  {
+    "name": "AI Contract Management",
+    "slug": "ai-contract-management",
+    "count": 10
+  },
+  {
+    "name": "AI Bio Generator",
+    "slug": "ai-bio-generator",
+    "count": 10
+  },
+  {
+    "name": "Summarizer",
+    "slug": "summarizer",
+    "count": 10
+  },
+  {
+    "name": "fitness",
+    "slug": "fitness",
+    "count": 10
+  },
+  {
+    "name": "AI Knowledge Management",
+    "slug": "ai-knowledge-management",
+    "count": 9
+  },
+  {
+    "name": "No-Code & Low-Code Platform",
+    "slug": "no-code-low-code-platform",
+    "count": 9
+  },
+  {
+    "name": "AI Code Refactoring",
+    "slug": "ai-code-refactoring",
+    "count": 9
+  },
+  {
+    "name": "AI Parenting Assistant",
+    "slug": "ai-parenting-assistant",
+    "count": 9
+  },
+  {
+    "name": "AI Wallpaper Generator",
+    "slug": "ai-wallpaper-generator",
+    "count": 9
+  },
+  {
+    "name": "NSFW Content Generator",
+    "slug": "nsfw-content-generator",
+    "count": 9
+  },
+  {
+    "name": "AI Product Description Generator",
+    "slug": "ai-product-description-generator",
+    "count": 9
+  },
+  {
+    "name": "AI Document Extractor",
+    "slug": "ai-document-extractor",
+    "count": 9
+  },
+  {
+    "name": "logo generator",
+    "slug": "logo-generator",
+    "count": 9
+  },
+  {
+    "name": "stock trading",
+    "slug": "stock-trading",
+    "count": 9
+  },
+  {
+    "name": "AI Graphic Design Assistant",
+    "slug": "ai-graphic-design-assistant",
+    "count": 8
+  },
+  {
+    "name": "Paraphraser",
+    "slug": "paraphraser",
+    "count": 8
+  },
+  {
+    "name": "AI Grammar Checker",
+    "slug": "ai-grammar-checker",
+    "count": 8
+  },
+  {
+    "name": "AI Anime Art Creator",
+    "slug": "ai-anime-art-creator",
+    "count": 8
+  },
+  {
+    "name": "AI Word Processor",
+    "slug": "ai-word-processor",
+    "count": 8
+  },
+  {
+    "name": "AI Voice Cloning",
+    "slug": "ai-voice-cloning",
+    "count": 8
+  },
+  {
+    "name": "AI Ad Generator",
+    "slug": "ai-ad-generator",
+    "count": 8
+  },
+  {
+    "name": "AI Recipe Generator",
+    "slug": "ai-recipe-generator",
+    "count": 7
+  },
+  {
+    "name": "Speech-to-Text Converter",
+    "slug": "speech-to-text-converter",
+    "count": 7
+  },
+  {
+    "name": "AI Document Assistant",
+    "slug": "ai-document-assistant",
+    "count": 7
+  },
+  {
+    "name": "AI Response Generator",
+    "slug": "ai-response-generator",
+    "count": 7
+  },
+  {
+    "name": "AI Scheduling Assistant",
+    "slug": "ai-scheduling-assistant",
+    "count": 7
+  },
+  {
+    "name": "AI Diagram Generator",
+    "slug": "ai-diagram-generator",
+    "count": 7
+  },
+  {
+    "name": "AI Rewriter",
+    "slug": "ai-rewriter",
+    "count": 7
+  },
+  {
+    "name": "Code Explanation Tool",
+    "slug": "code-explanation-tool",
+    "count": 7
+  },
+  {
+    "name": "paraphrasing",
+    "slug": "paraphrasing",
+    "count": 7
+  },
+  {
+    "name": "AI Email Writer",
+    "slug": "ai-email-writer",
+    "count": 6
+  },
+  {
+    "name": "Transcription Tool",
+    "slug": "transcription-tool",
+    "count": 6
+  },
+  {
+    "name": "General Writing Assistant",
+    "slug": "general-writing-assistant",
+    "count": 6
+  },
+  {
+    "name": "Photo & Image Editor",
+    "slug": "photo-image-editor",
+    "count": 6
+  },
+  {
+    "name": "Copywriting Assistant",
+    "slug": "copywriting-assistant",
+    "count": 6
+  },
+  {
+    "name": "AI File Manager",
+    "slug": "ai-file-manager",
+    "count": 6
+  },
+  {
+    "name": "AI Emoji Creator",
+    "slug": "ai-emoji-creator",
+    "count": 6
+  },
+  {
+    "name": "AI Browser Builder",
+    "slug": "ai-browser-builder",
+    "count": 6
+  },
+  {
+    "name": "AI Script Writing",
+    "slug": "ai-script-writing",
+    "count": 6
+  },
+  {
+    "name": "AI UGC Video Generator",
+    "slug": "ai-ugc-video-generator",
+    "count": 6
+  },
+  {
+    "name": "AI Sports Analyst",
+    "slug": "ai-sports-analyst",
+    "count": 6
+  },
+  {
+    "name": "AI Colorizer",
+    "slug": "ai-colorizer",
+    "count": 6
+  },
+  {
+    "name": "AI Mind Mapping Tool",
+    "slug": "ai-mind-mapping-tool",
+    "count": 6
+  },
+  {
+    "name": "AI Icon Designer",
+    "slug": "ai-icon-designer",
+    "count": 6
+  },
+  {
+    "name": "AI Monitor & Report Builder",
+    "slug": "ai-monitor-report-builder",
+    "count": 6
+  },
+  {
+    "name": "gift ideas",
+    "slug": "gift-ideas",
+    "count": 6
+  },
+  {
+    "name": "AI Manga & Comic Creator",
+    "slug": "ai-manga-comic-creator",
+    "count": 5
+  },
+  {
+    "name": "Tax Assistant",
+    "slug": "tax-assistant",
+    "count": 5
+  },
+  {
+    "name": "Text-to-Speech Converter",
+    "slug": "text-to-speech-converter",
+    "count": 5
+  },
+  {
+    "name": "AI Spreadsheet Assistant",
+    "slug": "ai-spreadsheet-assistant",
+    "count": 5
+  },
+  {
+    "name": "AI Short Clips Generator",
+    "slug": "ai-short-clips-generator",
+    "count": 5
+  },
+  {
+    "name": "Writing Assistants",
+    "slug": "writing-assistants",
+    "count": 5
+  },
+  {
+    "name": "AI Rap Generator",
+    "slug": "ai-rap-generator",
+    "count": 5
+  },
+  {
+    "name": "AI Anime & Cartoon Generator",
+    "slug": "ai-anime-cartoon-generator",
+    "count": 5
+  },
+  {
+    "name": "NFT Generator",
+    "slug": "nft-generator",
+    "count": 5
+  },
+  {
+    "name": "Recording Tool",
+    "slug": "recording-tool",
+    "count": 5
+  },
+  {
+    "name": "avatars",
+    "slug": "avatars",
+    "count": 5
+  },
+  {
+    "name": "cartoon generators",
+    "slug": "cartoon-generators",
+    "count": 5
+  },
+  {
+    "name": "storyteller",
+    "slug": "storyteller",
+    "count": 5
+  },
+  {
+    "name": "Academic Paper Assistant",
+    "slug": "academic-paper-assistant",
+    "count": 4
+  },
+  {
+    "name": "Image to Video Converter",
+    "slug": "image-to-video-converter",
+    "count": 4
+  },
+  {
+    "name": "AI Lip Sync Generator",
+    "slug": "ai-lip-sync-generator",
+    "count": 4
+  },
+  {
+    "name": "AI Tattoo Designer",
+    "slug": "ai-tattoo-designer",
+    "count": 4
+  },
+  {
+    "name": "Novel Generator",
+    "slug": "novel-generator",
+    "count": 4
+  },
+  {
+    "name": "Writing Assistant",
+    "slug": "writing-assistant",
+    "count": 4
+  },
+  {
+    "name": "AI Thumbnail Maker",
+    "slug": "ai-thumbnail-maker",
+    "count": 4
+  },
+  {
+    "name": "religion",
+    "slug": "religion",
+    "count": 4
+  },
+  {
+    "name": "AI Text Detector",
+    "slug": "ai-text-detector",
+    "count": 3
+  },
+  {
+    "name": "AI Video Editor",
+    "slug": "ai-video-editor",
+    "count": 3
+  },
+  {
+    "name": "Quotes Generator",
+    "slug": "quotes-generator",
+    "count": 3
+  },
+  {
+    "name": "AI Photo Enhancer",
+    "slug": "ai-photo-enhancer",
+    "count": 3
+  },
+  {
+    "name": "other",
+    "slug": "other",
+    "count": 3
+  },
+  {
+    "name": "AI Pattern Generator",
+    "slug": "ai-pattern-generator",
+    "count": 3
+  },
+  {
+    "name": "Design Assistant",
+    "slug": "design-assistant",
+    "count": 3
+  },
+  {
+    "name": "AI",
+    "slug": "ai",
+    "count": 3
+  },
+  {
+    "name": "AI SOP",
+    "slug": "ai-sop",
+    "count": 3
+  },
+  {
+    "name": "portrait generators",
+    "slug": "portrait-generators",
+    "count": 3
+  },
+  {
+    "name": "video enhancer",
+    "slug": "video-enhancer",
+    "count": 3
+  },
+  {
+    "name": "Letter Writer",
+    "slug": "letter-writer",
+    "count": 2
+  },
+  {
+    "name": "AI Voice Chat Generator",
+    "slug": "ai-voice-chat-generator",
+    "count": 2
+  },
+  {
+    "name": "AI Image Segmentation",
+    "slug": "ai-image-segmentation",
+    "count": 2
+  },
+  {
+    "name": "prompt",
+    "slug": "prompt",
+    "count": 2
+  },
+  {
+    "name": "AI Noise Cancellation",
+    "slug": "ai-noise-cancellation",
+    "count": 2
+  },
+  {
+    "name": "AI Joke",
+    "slug": "ai-joke",
+    "count": 2
+  },
+  {
+    "name": "AI Singing Voice Generator",
+    "slug": "ai-singing-voice-generator",
+    "count": 2
+  },
+  {
+    "name": "AI Design Assistant",
+    "slug": "ai-design-assistant",
+    "count": 2
+  },
+  {
+    "name": "Essay Writer",
+    "slug": "essay-writer",
+    "count": 2
+  },
+  {
+    "name": "Voice & Audio Editing",
+    "slug": "voice-audio-editing",
+    "count": 2
+  },
+  {
+    "name": "Handwriting",
+    "slug": "handwriting",
+    "count": 2
+  },
+  {
+    "name": "AI TikTok Marketing Assistant",
+    "slug": "ai-tiktok-marketing-assistant",
+    "count": 2
+  },
+  {
+    "name": "AI Video Enhancer",
+    "slug": "ai-video-enhancer",
+    "count": 2
+  },
+  {
+    "name": "Report Generator",
+    "slug": "report-generator",
+    "count": 1
+  },
+  {
+    "name": "Text-to-Music Generator",
+    "slug": "text-to-music-generator",
+    "count": 1
+  },
+  {
+    "name": "AI Poem & Poetry Generator",
+    "slug": "ai-poem-poetry-generator",
+    "count": 1
+  },
+  {
+    "name": "Handwriting Simulator",
+    "slug": "handwriting-simulator",
+    "count": 1
+  },
+  {
+    "name": "AI Landing Page Builder",
+    "slug": "ai-landing-page-builder",
+    "count": 1
+  },
+  {
+    "name": "AI Real Estate Assistant",
+    "slug": "ai-real-estate-assistant",
+    "count": 1
+  },
+  {
+    "name": "AI Customer Feedback Insights",
+    "slug": "ai-customer-feedback-insights",
+    "count": 1
+  },
+  {
+    "name": "AI Content Converter",
+    "slug": "ai-content-converter",
+    "count": 1
+  },
+  {
+    "name": "AI Coloring Pages Generator",
+    "slug": "ai-coloring-pages-generator",
+    "count": 1
+  },
+  {
+    "name": "AI Large Language Models (LLMs)",
+    "slug": "ai-large-language-models-llms",
+    "count": 1
+  },
+  {
+    "name": "AI Development",
+    "slug": "ai-development",
+    "count": 1
+  },
+  {
+    "name": "AI Extension",
+    "slug": "ai-extension",
+    "count": 1
+  },
+  {
+    "name": "AI Networking Assistant",
+    "slug": "ai-networking-assistant",
+    "count": 1
+  },
+  {
+    "name": "AI Development Tools",
+    "slug": "ai-development-tools",
+    "count": 1
+  },
+  {
+    "name": "AI Workflow Automation",
+    "slug": "ai-workflow-automation",
+    "count": 1
+  },
+  {
+    "name": "HomeGardenAI",
+    "slug": "homegardenai",
+    "count": 1
+  },
+  {
+    "name": "Investing",
+    "slug": "investing",
+    "count": 1
+  },
+  {
+    "name": "AI Business Automation Assistant",
+    "slug": "ai-business-automation-assistant",
+    "count": 1
+  },
+  {
+    "name": "AI Companion",
+    "slug": "ai-companion",
+    "count": 1
+  },
+  {
+    "name": "AI Information Assistant",
+    "slug": "ai-information-assistant",
+    "count": 1
+  },
+  {
+    "name": "AI Business Intelligence",
+    "slug": "ai-business-intelligence",
+    "count": 1
+  },
+  {
+    "name": "AI Manga Translator",
+    "slug": "ai-manga-translator",
+    "count": 1
+  },
+  {
+    "name": "AI Image Extender",
+    "slug": "ai-image-extender",
+    "count": 1
+  },
+  {
+    "name": "AI-Powered Customizable Information Digest",
+    "slug": "ai-powered-customizable-information-digest",
+    "count": 1
+  },
+  {
+    "name": "AI Writing and Memory Assistant",
+    "slug": "ai-writing-and-memory-assistant",
+    "count": 1
+  },
+  {
+    "name": "AI Content Creation Tool",
+    "slug": "ai-content-creation-tool",
+    "count": 1
+  },
+  {
+    "name": "AI Photo Editing",
+    "slug": "ai-photo-editing",
+    "count": 1
+  },
+  {
+    "name": "AI Home Automation",
+    "slug": "ai-home-automation",
+    "count": 1
+  },
+  {
+    "name": "AI Blog Assistant",
+    "slug": "ai-blog-assistant",
+    "count": 1
+  },
+  {
+    "name": "AI GIF Generator",
+    "slug": "ai-gif-generator",
+    "count": 1
+  }
+]
