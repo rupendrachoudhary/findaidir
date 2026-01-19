@@ -6,6 +6,7 @@
     "dev": "next dev",
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "build": "npm run generate-sitemap && next build",
+    "build:cloudflare": "node scripts/build-cloudflare.js",
     "start": "next start",
     "lint": "eslint"
   },
