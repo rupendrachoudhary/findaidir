@@ -71,18 +71,18 @@ export default function RootLayout({
           crossOrigin="anonymous"
         /> */}
 
-        {/* Google Analytics - Uncomment and add your GA ID */}
-        {/* <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" />
+        {/* Google Analytics */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-SJYR8RJY3X" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-XXXXXXXXXX');
+              gtag('config', 'G-SJYR8RJY3X');
             `,
           }}
-        /> */}
+        />
       </head>
       <body className={`${poppins.variable} font-sans antialiased`}>
         <div className="flex min-h-screen flex-col">
