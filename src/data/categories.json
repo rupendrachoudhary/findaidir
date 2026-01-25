@@ -2,12 +2,12 @@
   {
     "name": "ai agents",
     "slug": "ai-agents",
-    "count": 168
+    "count": 175
   },
   {
     "name": "ai chatbots",
     "slug": "ai-chatbots",
-    "count": 115
+    "count": 120
   },
   {
     "name": "customer support",
@@ -40,14 +40,14 @@
     "count": 76
   },
   {
+    "name": "personal assistant",
+    "slug": "personal-assistant",
+    "count": 74
+  },
+  {
     "name": "project management",
     "slug": "project-management",
     "count": 73
-  },
-  {
-    "name": "personal assistant",
-    "slug": "personal-assistant",
-    "count": 72
   },
   {
     "name": "education",
@@ -60,13 +60,18 @@
     "count": 67
   },
   {
-    "name": "AI Trip Planner",
-    "slug": "ai-trip-planner",
-    "count": 61
+    "name": "code assistant",
+    "slug": "code-assistant",
+    "count": 67
   },
   {
     "name": "low-code/no-code",
-    "slug": "low-codeno-code",
+    "slug": "low-code-no-code",
+    "count": 62
+  },
+  {
+    "name": "AI Trip Planner",
+    "slug": "ai-trip-planner",
     "count": 61
   },
   {
@@ -85,14 +90,9 @@
     "count": 56
   },
   {
-    "name": "code assistant",
-    "slug": "code-assistant",
-    "count": 55
-  },
-  {
     "name": "writing generators",
     "slug": "writing-generators",
-    "count": 53
+    "count": 54
   },
   {
     "name": "E-commerce Assistant",
@@ -102,6 +102,11 @@
   {
     "name": "image generators",
     "slug": "image-generators",
+    "count": 52
+  },
+  {
+    "name": "video generators",
+    "slug": "video-generators",
     "count": 52
   },
   {
@@ -117,11 +122,6 @@
   {
     "name": "AI Code Assistant",
     "slug": "ai-code-assistant",
-    "count": 51
-  },
-  {
-    "name": "video generators",
-    "slug": "video-generators",
     "count": 51
   },
   {
