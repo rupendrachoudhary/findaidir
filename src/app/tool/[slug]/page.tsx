@@ -2,11 +2,12 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowLeft, ExternalLink, Tag, Folder } from 'lucide-react';
+import { ArrowLeft, ExternalLink, Tag, Folder, Calendar } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent } from '@/components/ui/card';
 import ToolCard from '@/components/ToolCard';
+import ShareButton from '@/components/ShareButton';
 import { getToolBySlug, getToolsByCategory, getAllTools } from '@/lib/data';
 
 interface PageProps {
@@ -153,13 +154,20 @@ export default async function ToolPage({ params }: PageProps) {
                     </div>
                   )}
 
-                  {/* CTA Button */}
-                  <Button asChild size="lg" className="gap-2 bg-gradient-to-r from-primary via-secondary to-accent hover:opacity-90 shadow-lg hover:shadow-xl transition-all">
-                    <a href={tool.website} target="_blank" rel="noopener noreferrer">
-                      Visit Website
-                      <ExternalLink className="h-4 w-4" />
-                    </a>
-                  </Button>
+                  {/* CTA Button and Share */}
+                  <div className="flex flex-wrap items-center gap-4">
+                    <Button asChild size="lg" className="gap-2 bg-gradient-to-r from-primary via-secondary to-accent hover:opacity-90 shadow-lg hover:shadow-xl transition-all">
+                      <a href={tool.website} target="_blank" rel="noopener noreferrer">
+                        Visit Website
+                        <ExternalLink className="h-4 w-4" />
+                      </a>
+                    </Button>
+
+                    <ShareButton
+                      title={tool.name}
+                      description={tool.description}
+                    />
+                  </div>
                 </div>
               </div>
             </CardContent>
@@ -191,6 +199,21 @@ export default async function ToolPage({ params }: PageProps) {
                         </a>
                       </dd>
                     </div>
+                    {tool.dateAdded && (
+                      <div>
+                        <dt className="text-sm text-muted-foreground flex items-center gap-1">
+                          <Calendar className="h-3 w-3" />
+                          Added
+                        </dt>
+                        <dd className="font-medium">
+                          {new Date(tool.dateAdded).toLocaleDateString('en-US', {
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                          })}
+                        </dd>
+                      </div>
+                    )}
                   </dl>
                 </div>
               </div>

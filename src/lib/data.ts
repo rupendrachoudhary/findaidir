@@ -1,9 +1,18 @@
 import toolsData from '@/data/tools.json';
 import categoriesData from '@/data/categories.json';
+import metadataData from '@/data/metadata.json';
 import { Tool, Category, PaginatedResult } from '@/types';
 
 const tools: Tool[] = toolsData as Tool[];
 const categories: Category[] = categoriesData as Category[];
+
+export interface SiteMetadata {
+  lastUpdated: string;
+  toolCount: number;
+  newThisWeek: number;
+}
+
+const metadata: SiteMetadata = metadataData as SiteMetadata;
 
 export function getAllTools(): Tool[] {
   return tools;
@@ -99,4 +108,82 @@ export function getTotalToolsCount(): number {
 
 export function getTotalCategoriesCount(): number {
   return categories.length;
+}
+
+// New functions for "New This Week" and sorting
+
+export function getMetadata(): SiteMetadata {
+  return metadata;
+}
+
+/**
+ * Check if a date is within the last N days
+ */
+export function isWithinDays(dateString: string, days: number): boolean {
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffTime = now.getTime() - date.getTime();
+  const diffDays = diffTime / (1000 * 60 * 60 * 24);
+  return diffDays <= days;
+}
+
+/**
+ * Get tools added within the last N days
+ */
+export function getNewTools(days: number = 7): Tool[] {
+  return tools
+    .filter(tool => tool.dateAdded && isWithinDays(tool.dateAdded, days))
+    .sort((a, b) => new Date(b.dateAdded).getTime() - new Date(a.dateAdded).getTime());
+}
+
+/**
+ * Get the most recently added tools
+ */
+export function getRecentTools(count: number = 8): Tool[] {
+  return [...tools]
+    .sort((a, b) => {
+      const dateA = a.dateAdded ? new Date(a.dateAdded).getTime() : 0;
+      const dateB = b.dateAdded ? new Date(b.dateAdded).getTime() : 0;
+      return dateB - dateA;
+    })
+    .slice(0, count);
+}
+
+/**
+ * Sort tools by various criteria
+ */
+export type SortOption = 'newest' | 'oldest' | 'az' | 'za' | 'popular';
+
+export function sortTools(toolsList: Tool[], sortBy: SortOption): Tool[] {
+  const sorted = [...toolsList];
+
+  switch (sortBy) {
+    case 'newest':
+      return sorted.sort((a, b) => {
+        const dateA = a.dateAdded ? new Date(a.dateAdded).getTime() : 0;
+        const dateB = b.dateAdded ? new Date(b.dateAdded).getTime() : 0;
+        return dateB - dateA;
+      });
+    case 'oldest':
+      return sorted.sort((a, b) => {
+        const dateA = a.dateAdded ? new Date(a.dateAdded).getTime() : 0;
+        const dateB = b.dateAdded ? new Date(b.dateAdded).getTime() : 0;
+        return dateA - dateB;
+      });
+    case 'az':
+      return sorted.sort((a, b) => a.name.localeCompare(b.name));
+    case 'za':
+      return sorted.sort((a, b) => b.name.localeCompare(a.name));
+    case 'popular':
+    default:
+      // Keep original order (which is by popularity/featured)
+      return sorted;
+  }
+}
+
+/**
+ * Get count of new tools this week
+ */
+export function getNewToolsCount(days: number = 7): number {
+  return getNewTools(days).length;
 }

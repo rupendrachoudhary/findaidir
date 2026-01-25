@@ -1,26 +1,40 @@
 'use client';
 
 import { useMemo } from 'react';
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import ToolCard from '@/components/ToolCard';
 import SearchBar from '@/components/SearchBar';
 import Pagination from '@/components/Pagination';
-import { getAllTools, getAllCategories } from '@/lib/data';
+import { getAllTools, getAllCategories, sortTools, SortOption } from '@/lib/data';
 import Link from 'next/link';
 import { Badge } from '@/components/ui/badge';
+import { ArrowUpDown, Sparkles } from 'lucide-react';
+
+// Check if a date is within the last N days
+function isWithinDays(dateString: string | undefined, days: number): boolean {
+  if (!dateString) return false;
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffTime = now.getTime() - date.getTime();
+  const diffDays = diffTime / (1000 * 60 * 60 * 24);
+  return diffDays <= days;
+}
 
 export default function ToolsPageClient() {
   const searchParams = useSearchParams();
+  const router = useRouter();
 
   const query = searchParams.get('q') || '';
   const page = parseInt(searchParams.get('page') || '1', 10);
   const categorySlug = searchParams.get('category') || '';
+  const sort = (searchParams.get('sort') || 'popular') as SortOption;
+  const newOnly = searchParams.get('new') === 'true';
   const pageSize = 24;
 
   const allTools = useMemo(() => getAllTools(), []);
   const categories = useMemo(() => getAllCategories(), []);
 
-  // Filter tools based on search and category
+  // Filter tools based on search, category, and new filter
   const filteredTools = useMemo(() => {
     let result = allTools;
 
@@ -38,8 +52,36 @@ export default function ToolsPageClient() {
       );
     }
 
+    // Filter to only new tools if enabled
+    if (newOnly) {
+      result = result.filter(tool => isWithinDays(tool.dateAdded, 7));
+    }
+
+    // Apply sorting
+    result = sortTools(result, sort);
+
     return result;
-  }, [allTools, query, categorySlug]);
+  }, [allTools, query, categorySlug, newOnly, sort]);
+
+  // Handle sort change
+  const handleSortChange = (value: string) => {
+    const params = new URLSearchParams(searchParams.toString());
+    params.set('sort', value);
+    params.delete('page'); // Reset to page 1 when sorting
+    router.push(`/tools/?${params.toString()}`);
+  };
+
+  // Toggle new filter
+  const toggleNewFilter = () => {
+    const params = new URLSearchParams(searchParams.toString());
+    if (newOnly) {
+      params.delete('new');
+    } else {
+      params.set('new', 'true');
+    }
+    params.delete('page'); // Reset to page 1
+    router.push(`/tools/?${params.toString()}`);
+  };
 
   // Paginate
   const total = filteredTools.length;
@@ -51,6 +93,8 @@ export default function ToolsPageClient() {
   const paginationParams: Record<string, string> = {};
   if (query) paginationParams.q = query;
   if (categorySlug) paginationParams.category = categorySlug;
+  if (sort !== 'popular') paginationParams.sort = sort;
+  if (newOnly) paginationParams.new = 'true';
 
   return (
     <div className="container mx-auto px-4 py-12">
@@ -70,14 +114,49 @@ export default function ToolsPageClient() {
 
       {/* Search and Filters */}
       <div className="mb-8 space-y-4">
-        <SearchBar
-          placeholder="Search AI tools..."
-          className="max-w-xl"
-          defaultValue={query}
-        />
+        <div className="flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
+          <SearchBar
+            placeholder="Search AI tools..."
+            className="max-w-xl w-full sm:w-auto"
+            defaultValue={query}
+          />
 
-        {/* Category Filter Pills */}
+          {/* Sort Dropdown */}
+          <div className="flex items-center gap-2">
+            <ArrowUpDown className="h-4 w-4 text-muted-foreground" />
+            <select
+              value={sort}
+              onChange={(e) => handleSortChange(e.target.value)}
+              className="h-10 px-3 py-2 rounded-md border border-input bg-background text-sm ring-offset-background focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 cursor-pointer"
+            >
+              <option value="newest">Newest First</option>
+              <option value="popular">Popular</option>
+              <option value="az">A-Z</option>
+              <option value="za">Z-A</option>
+            </select>
+          </div>
+        </div>
+
+        {/* Filter Pills */}
         <div className="flex flex-wrap gap-2">
+          {/* New This Week Filter */}
+          <button onClick={toggleNewFilter}>
+            <Badge
+              variant={newOnly ? 'default' : 'outline'}
+              className={`cursor-pointer transition-all ${
+                newOnly
+                  ? 'bg-gradient-to-r from-emerald-500 to-green-500 hover:from-emerald-600 hover:to-green-600 border-0'
+                  : 'border-emerald-500/50 text-emerald-600 hover:bg-emerald-500/10'
+              }`}
+            >
+              <Sparkles className="h-3 w-3 mr-1" />
+              New This Week
+            </Badge>
+          </button>
+
+          <div className="w-px h-6 bg-border mx-1" />
+
+          {/* Category Filter Pills */}
           <Link href="/tools/">
             <Badge
               variant={!categorySlug ? 'default' : 'secondary'}
@@ -87,7 +166,7 @@ export default function ToolsPageClient() {
             </Badge>
           </Link>
           {categories.slice(0, 15).map((cat) => (
-            <Link key={cat.slug} href={`/tools/?category=${cat.slug}`}>
+            <Link key={cat.slug} href={`/tools/?category=${cat.slug}${sort !== 'popular' ? `&sort=${sort}` : ''}${newOnly ? '&new=true' : ''}`}>
               <Badge
                 variant={categorySlug === cat.slug ? 'default' : 'secondary'}
                 className="cursor-pointer hover:bg-primary/80"

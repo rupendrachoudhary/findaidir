@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { ExternalLink, ArrowRight, Star, Sparkles } from 'lucide-react';
+import { ExternalLink, ArrowRight, Star, Sparkles, Zap } from 'lucide-react';
 import { Card, CardContent, CardFooter, CardHeader } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -11,9 +11,20 @@ import { useState } from 'react';
 
 interface ToolCardProps {
   tool: Tool;
+  showNewBadge?: boolean;
 }
 
-export default function ToolCard({ tool }: ToolCardProps) {
+// Check if a date is within the last N days
+function isWithinDays(dateString: string | undefined, days: number): boolean {
+  if (!dateString) return false;
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffTime = now.getTime() - date.getTime();
+  const diffDays = diffTime / (1000 * 60 * 60 * 24);
+  return diffDays <= days;
+}
+
+export default function ToolCard({ tool, showNewBadge = false }: ToolCardProps) {
   const [imgError, setImgError] = useState(false);
 
   // Get icon based on category
@@ -42,10 +53,13 @@ export default function ToolCard({ tool }: ToolCardProps) {
   // Use affiliate URL if available, otherwise use regular website URL
   const externalUrl = tool.affiliateUrl || tool.website;
 
+  // Check if tool is new (added within last 7 days)
+  const isNew = showNewBadge || isWithinDays(tool.dateAdded, 7);
+
   return (
-    <Card className={`group h-full flex flex-col hover:shadow-xl transition-all duration-300 hover:border-primary/50 hover:-translate-y-1 bg-gradient-to-br from-card to-card/80 relative ${tool.isSponsored ? 'ring-2 ring-primary/30' : ''} ${tool.isFeatured ? 'ring-2 ring-yellow-500/30' : ''}`}>
-      {/* Sponsored/Featured Badge */}
-      {(tool.isSponsored || tool.isFeatured) && (
+    <Card className={`group h-full flex flex-col hover:shadow-xl transition-all duration-300 hover:border-primary/50 hover:-translate-y-1 bg-gradient-to-br from-card to-card/80 relative ${tool.isSponsored ? 'ring-2 ring-primary/30' : ''} ${tool.isFeatured ? 'ring-2 ring-yellow-500/30' : ''} ${isNew && !tool.isSponsored && !tool.isFeatured ? 'ring-2 ring-emerald-500/30' : ''}`}>
+      {/* Sponsored/Featured/New Badge */}
+      {(tool.isSponsored || tool.isFeatured || isNew) && (
         <div className="absolute -top-2 -right-2 z-10">
           {tool.isSponsored ? (
             <span className="inline-flex items-center gap-1 px-2 py-1 text-[10px] font-semibold rounded-full bg-gradient-to-r from-primary to-secondary text-white shadow-lg">
@@ -56,6 +70,11 @@ export default function ToolCard({ tool }: ToolCardProps) {
             <span className="inline-flex items-center gap-1 px-2 py-1 text-[10px] font-semibold rounded-full bg-gradient-to-r from-yellow-500 to-orange-500 text-white shadow-lg">
               <Star className="h-3 w-3" />
               Featured
+            </span>
+          ) : isNew ? (
+            <span className="inline-flex items-center gap-1 px-2 py-1 text-[10px] font-semibold rounded-full bg-gradient-to-r from-emerald-500 to-green-500 text-white shadow-lg animate-pulse">
+              <Zap className="h-3 w-3" />
+              New
             </span>
           ) : null}
         </div>

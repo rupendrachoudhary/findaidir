@@ -1,0 +1,96 @@
+name: Discover New AI Tools
+
+on:
+  schedule:
+    # Run weekly on Monday at 6 AM UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    # Allow manual trigger from GitHub UI
+    inputs:
+      dry_run:
+        description: 'Dry run (no changes)'
+        required: false
+        default: 'false'
+        type: boolean
+      source:
+        description: 'Specific source to run'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - github
+          - hackernews
+          - rss
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: ai-tools-directory/package-lock.json
+
+      - name: Install dependencies
+        working-directory: ai-tools-directory
+        run: npm ci
+
+      - name: Run discovery script
+        working-directory: ai-tools-directory
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" == "true" ]; then
+            node scripts/discover-tools.js --dry-run
+          elif [ "${{ github.event.inputs.source }}" != "all" ] && [ -n "${{ github.event.inputs.source }}" ]; then
+            node scripts/discover-tools.js --source=${{ github.event.inputs.source }}
+          else
+            node scripts/discover-tools.js
+          fi
+
+      - name: Regenerate sitemap
+        working-directory: ai-tools-directory
+        run: npm run generate-sitemap
+
+      - name: Check for changes
+        id: git-check
+        working-directory: ai-tools-directory
+        run: |
+          git diff --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true' && github.event.inputs.dry_run != 'true'
+        working-directory: ai-tools-directory
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "chore: add new AI tools [auto]
+
+          Discovered and added new AI tools from:
+          - GitHub Trending
+          - Hacker News (Show HN)
+          - AI News RSS feeds
+
+          This is an automated commit from the weekly discovery workflow."
+          git push
+
+      - name: Create summary
+        if: always()
+        run: |
+          echo "## Workflow Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.git-check.outputs.changes }}" == "true" ]; then
+            echo "✅ New tools were discovered and added." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No new tools found this run." >> $GITHUB_STEP_SUMMARY
+          fi

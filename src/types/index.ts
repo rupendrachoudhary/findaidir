@@ -7,6 +7,7 @@ export interface Tool {
   tags: string[];
   description: string;
   website: string;
+  dateAdded: string; // ISO date: "2025-01-25"
   // Monetization fields (optional)
   isSponsored?: boolean;
   isFeatured?: boolean;

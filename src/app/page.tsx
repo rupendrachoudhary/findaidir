@@ -1,22 +1,42 @@
 import Link from 'next/link';
-import { ArrowRight, Sparkles, Zap, Search as SearchIcon, Layers, Rocket } from 'lucide-react';
+import { ArrowRight, Sparkles, Zap, Search as SearchIcon, Layers, Rocket, Clock } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import SearchBar from '@/components/SearchBar';
 import ToolCard from '@/components/ToolCard';
 import CategoryCard from '@/components/CategoryCard';
 import Newsletter from '@/components/Newsletter';
+import NewThisWeek from '@/components/NewThisWeek';
 import {
   getFeaturedTools,
   getPopularCategories,
   getTotalToolsCount,
-  getTotalCategoriesCount
+  getTotalCategoriesCount,
+  getMetadata,
+  getNewToolsCount
 } from '@/lib/data';
+
+// Format relative time for "last updated"
+function getRelativeTime(dateString: string): string {
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffMs = now.getTime() - date.getTime();
+  const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+  if (diffHours < 1) return 'Just now';
+  if (diffHours < 24) return `${diffHours} hour${diffHours > 1 ? 's' : ''} ago`;
+  if (diffDays < 7) return `${diffDays} day${diffDays > 1 ? 's' : ''} ago`;
+  return date.toLocaleDateString();
+}
 
 export default function HomePage() {
   const featuredTools = getFeaturedTools(12);
   const popularCategories = getPopularCategories(12);
   const totalTools = getTotalToolsCount();
   const totalCategories = getTotalCategoriesCount();
+  const metadata = getMetadata();
+  const newThisWeek = getNewToolsCount(7);
+  const lastUpdatedText = getRelativeTime(metadata.lastUpdated);
 
   return (
     <>
@@ -106,16 +126,19 @@ export default function HomePage() {
             </div>
             <div className="text-center">
               <div className="flex items-center justify-center gap-2 mb-2">
-                <div className="p-2 rounded-lg bg-gradient-to-br from-accent to-primary">
-                  <Sparkles className="h-4 w-4 text-white" />
+                <div className="p-2 rounded-lg bg-gradient-to-br from-emerald-500 to-green-500">
+                  <Clock className="h-4 w-4 text-white" />
                 </div>
-                <span className="text-3xl font-bold bg-gradient-to-r from-accent to-primary bg-clip-text text-transparent">Daily</span>
+                <span className="text-3xl font-bold bg-gradient-to-r from-emerald-500 to-green-500 bg-clip-text text-transparent">{newThisWeek > 0 ? newThisWeek : 'Fresh'}</span>
               </div>
-              <p className="text-sm text-muted-foreground">Updates</p>
+              <p className="text-sm text-muted-foreground">{newThisWeek > 0 ? 'New This Week' : 'Updates'}</p>
             </div>
           </div>
         </div>
       </section>
+
+      {/* New This Week */}
+      <NewThisWeek count={8} />
 
       {/* Popular Categories */}
       <section className="py-16 md:py-24">

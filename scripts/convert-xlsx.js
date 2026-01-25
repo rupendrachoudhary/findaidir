@@ -5,6 +5,26 @@ const path = require('path');
 // New tools to add (Dec 2025 - Jan 2026)
 // Using lowercase category names to match existing conventions
 const newTools = [
+  // Popular Tools (User Requested - Jan 2026)
+  { name: "Claude Code", category: "code assistant", tags: "AI coding, CLI, Anthropic", description: "Anthropic's AI-powered coding assistant and CLI tool", website: "https://claude.ai" },
+  { name: "Cursor", category: "code assistant", tags: "AI IDE, code editor", description: "AI-first code editor built on VS Code", website: "https://cursor.com" },
+  { name: "Windsurf", category: "code assistant", tags: "AI IDE, Codeium", description: "AI-powered IDE by Codeium", website: "https://codeium.com/windsurf" },
+  { name: "Gemini CLI", category: "code assistant", tags: "Google, CLI, terminal", description: "Google's command-line AI coding assistant", website: "https://github.com/google-gemini/gemini-cli" },
+  { name: "v0 by Vercel", category: "code assistant", tags: "UI generation, React", description: "AI-powered UI component generator", website: "https://v0.dev" },
+  { name: "Bolt.new", category: "code assistant", tags: "full-stack, browser IDE", description: "AI full-stack app builder in browser", website: "https://bolt.new" },
+  { name: "Lovable", category: "code assistant", tags: "app builder, no-code", description: "AI-powered app development platform", website: "https://lovable.dev" },
+  { name: "Devin", category: "ai agents", tags: "autonomous coding, software engineer", description: "First AI software engineer agent", website: "https://devin.ai" },
+  { name: "Manus AI", category: "ai agents", tags: "autonomous agent, general purpose", description: "General-purpose autonomous AI agent", website: "https://manus.ai" },
+  { name: "Perplexity", category: "search engine", tags: "AI search, research", description: "AI-powered search engine with citations", website: "https://perplexity.ai" },
+  { name: "NotebookLM", category: "research", tags: "Google, document analysis", description: "Google's AI research and note-taking tool", website: "https://notebooklm.google" },
+  { name: "WisprFlow", category: "personal assistant", tags: "voice, transcription", description: "Voice-to-text AI assistant", website: "https://wisprflow.ai" },
+  { name: "Stitch by Google", category: "design generators", tags: "UI design, Google", description: "Google's AI design tool", website: "https://stitch.withgoogle.com" },
+  { name: "ClawdBot", category: "ai chatbots", tags: "Discord, Claude", description: "Claude-powered Discord bot", website: "https://clawdbot.com" },
+  { name: "Replit Agent", category: "code assistant", tags: "browser IDE, AI coding", description: "AI coding agent in Replit", website: "https://replit.com" },
+  { name: "Aider", category: "code assistant", tags: "CLI, pair programming, open source", description: "AI pair programming in terminal", website: "https://aider.chat" },
+  { name: "Continue", category: "code assistant", tags: "VS Code, open source", description: "Open source AI code assistant", website: "https://continue.dev" },
+  { name: "Pieces", category: "code assistant", tags: "snippets, context", description: "AI-powered code snippet manager", website: "https://pieces.app" },
+
   // Coding Agents & IDEs
   { name: "OpenCode", category: "code assistant", tags: "AI coding agent, terminal, open source", description: "Open-source AI coding agent with Claude Code-level capabilities, model-agnostic", website: "https://opencode.ai" },
   { name: "Goose", category: "code assistant", tags: "AI agent, automation, open source", description: "Local extensible AI agent that installs, executes, edits, and tests with any LLM", website: "https://github.com/block/goose" },
@@ -91,12 +111,22 @@ for (const tool of newTools) {
 
 console.log(`\nAdded ${addedCount} new tools`);
 
+// Get today's date in ISO format
+const TODAY = new Date().toISOString().split('T')[0];
+const BASELINE_DATE = '2025-01-01';
+
+// Set of new tool names (lowercase) - these get today's date
+const newToolNames = new Set(newTools.map(t => t.name.toLowerCase()));
+
 // Convert to tools.json format
 const tools = data.map((row, index) => {
   const name = row['Tool Name'] || '';
   const category = row['Category'] || 'Other';
   const tagsStr = row['Tags'] || category;
   const tags = tagsStr.split(',').map(t => t.trim()).filter(t => t);
+
+  // Use today's date for new tools, baseline for existing
+  const dateAdded = newToolNames.has(name.toLowerCase().trim()) ? TODAY : BASELINE_DATE;
 
   return {
     id: index + 1,
@@ -106,7 +136,8 @@ const tools = data.map((row, index) => {
     categorySlug: slugify(category),
     tags: tags.length > 0 ? tags : [category],
     description: (row['Description'] || '').trim(),
-    website: (row['Website Link'] || '').trim()
+    website: (row['Website Link'] || '').trim(),
+    dateAdded: dateAdded
   };
 });
 
