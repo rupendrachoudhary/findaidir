@@ -3,6 +3,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Terms of Service',
   description: 'Terms of Service for Find AI Dir - Read our terms and conditions for using our AI tools directory.',
+  alternates: {
+    canonical: '/terms/',
+  },
 };
 
 export default function TermsPage() {

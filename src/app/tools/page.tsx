@@ -5,6 +5,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Browse All AI Tools',
   description: 'Explore our complete directory of 6000+ AI tools. Search and filter to find the perfect AI solution for your needs.',
+  alternates: {
+    canonical: '/tools/',
+  },
 };
 
 function ToolsLoadingSkeleton() {

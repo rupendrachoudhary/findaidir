@@ -7,6 +7,9 @@ import { getTotalToolsCount, getTotalCategoriesCount } from '@/lib/data';
 export const metadata: Metadata = {
   title: 'About Us',
   description: 'Learn about Find AI Dir - The largest AI tools directory helping users discover the perfect AI solutions for their needs.',
+  alternates: {
+    canonical: '/about/',
+  },
 };
 
 export default function AboutPage() {

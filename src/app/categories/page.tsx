@@ -7,6 +7,9 @@ import { Card, CardContent } from '@/components/ui/card';
 export const metadata: Metadata = {
   title: 'AI Tool Categories',
   description: 'Browse AI tools by category. Explore 290+ categories including chatbots, image generators, writing assistants, and more.',
+  alternates: {
+    canonical: '/categories/',
+  },
 };
 
 export default function CategoriesPage() {

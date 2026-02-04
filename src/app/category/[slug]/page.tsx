@@ -21,6 +21,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${category.name} - AI Tools`,
     description: `Discover ${category.count} AI tools in the ${category.name} category. Find the best AI solutions for your needs.`,
+    alternates: {
+      canonical: `/category/${category.slug}/`,
+    },
     openGraph: {
       title: `${category.name} - AI Tools Directory`,
       description: `Explore ${category.count} AI tools in the ${category.name} category.`,

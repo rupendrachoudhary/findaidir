@@ -6,6 +6,9 @@ import ContactForm from '@/components/ContactForm';
 export const metadata: Metadata = {
   title: 'Contact Us',
   description: 'Get in touch with Find AI Dir. We\'d love to hear from you about tool submissions, advertising, partnerships, or general inquiries.',
+  alternates: {
+    canonical: '/contact/',
+  },
 };
 
 export default function ContactPage() {

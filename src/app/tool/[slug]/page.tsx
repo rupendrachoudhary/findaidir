@@ -25,6 +25,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: tool.name,
     description: tool.description,
+    alternates: {
+      canonical: `/tool/${tool.slug}/`,
+    },
     openGraph: {
       title: `${tool.name} - AI Tools Directory`,
       description: tool.description,

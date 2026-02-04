@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowRight, Sparkles, Zap, Search as SearchIcon, Layers, Rocket, Clock } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -14,6 +15,12 @@ import {
   getMetadata,
   getNewToolsCount
 } from '@/lib/data';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: '/',
+  },
+};
 
 // Format relative time for "last updated"
 function getRelativeTime(dateString: string): string {

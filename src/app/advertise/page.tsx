@@ -6,6 +6,9 @@ import { Button } from '@/components/ui/button';
 export const metadata: Metadata = {
   title: 'Advertise With Us',
   description: 'Reach thousands of AI enthusiasts, developers, and businesses. Advertise your AI tool or service on Find AI Dir.',
+  alternates: {
+    canonical: '/advertise/',
+  },
 };
 
 export default function AdvertisePage() {

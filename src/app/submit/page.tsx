@@ -5,6 +5,9 @@ import { Check, Zap, Star, Rocket } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Submit Your AI Tool',
   description: 'Get your AI tool listed in our directory of 6000+ AI tools. Reach thousands of potential users looking for AI solutions.',
+  alternates: {
+    canonical: '/submit/',
+  },
 };
 
 export default function SubmitPage() {
