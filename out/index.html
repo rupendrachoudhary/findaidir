@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FindAIDir - AI Tools Directory for Finance Teams</title>
+    <meta
+      name="description"
+      content="Discover verified AI tools for finance, research, compliance, modeling, and operations."
+    />
+    <meta name="theme-color" content="#0f6f5c" />
+    <meta property="og:title" content="FindAIDir - AI Tools Directory" />
+    <meta
+      property="og:description"
+      content="Verified AI tools directory focused on finance, operations, research, and growth."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://findaidir.com/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FindAIDir - AI Tools Directory" />
+    <meta
+      name="twitter:description"
+      content="Discover and filter verified AI tools with live-link validation."
+    />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="canonical" href="https://findaidir.com/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#toolGrid">Skip to results</a>
+    <div class="bg-overlay"></div>
+    <header class="site-header">
+      <div class="wrap">
+        <p class="eyebrow">Monetizable Directory Infrastructure</p>
+        <h1>AI Tools Directory</h1>
+        <p class="subtitle">Built for financial use-cases: analysis, reporting, ops, and growth.</p>
+        <div class="headline-stats" aria-label="Directory highlights">
+          <span id="statTools">Verified links only</span>
+          <span>Cloudflare-ready</span>
+          <span>Fast indexed search</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="control-panel">
+        <form id="filters" class="filters" autocomplete="off">
+          <label>
+            Search
+            <input id="searchInput" name="q" type="search" placeholder="Tool, tag, or feature" />
+          </label>
+          <label>
+            Category
+            <select id="categorySelect" name="category">
+              <option value="">All categories</option>
+            </select>
+          </label>
+          <label>
+            Sort
+            <select id="sortSelect" name="sort">
+              <option value="name_asc">Name (A-Z)</option>
+              <option value="name_desc">Name (Z-A)</option>
+              <option value="newest">Recently added</option>
+            </select>
+          </label>
+          <button id="applyBtn" type="submit">Apply</button>
+          <button id="resetBtn" type="button" class="ghost">Reset</button>
+        </form>
+      </section>
+
+      <section class="sponsor-strip" aria-label="Sponsored placement">
+        <div class="sponsor-card">
+          <span>Sponsored Slot</span>
+          <strong>Promote your AI finance product</strong>
+          <a href="#" aria-label="Sponsor contact">Contact for placement</a>
+        </div>
+      </section>
+
+      <section class="results-meta">
+        <p id="resultCount">Loading tools...</p>
+        <p id="queryPerf" class="query-perf"></p>
+      </section>
+
+      <section>
+        <ul id="toolGrid" class="tool-grid" aria-live="polite"></ul>
+        <p id="emptyState" class="empty hidden">No tools matched these filters.</p>
+      </section>
+
+      <nav class="pagination">
+        <button id="prevPage" type="button">Previous</button>
+        <span id="pageIndicator">Page 1</span>
+        <button id="nextPage" type="button">Next</button>
+      </nav>
+    </main>
+
+    <footer class="site-footer wrap">
+      <p>Use this listing for discovery. Validate compliance requirements before adoption.</p>
+    </footer>
+
+    <noscript>
+      <p class="wrap">This directory requires JavaScript to search and filter tools.</p>
+    </noscript>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "FindAIDir",
+        "url": "https://findaidir.com/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://findaidir.com/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script src="/app.js" defer></script>
+  </body>
+</html>
