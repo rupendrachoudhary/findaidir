@@ -4,9 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "wrangler dev",
+    "dev": "wrangler dev --config wrangler.worker.toml",
     "dev:pages": "wrangler pages dev public --d1 DB",
-    "deploy": "wrangler deploy",
+    "deploy": "wrangler deploy --config wrangler.worker.toml",
     "deploy:pages": "wrangler pages deploy public",
     "db:migrate": "wrangler d1 migrations apply ai_tools_directory",
     "db:seed": "wrangler d1 execute ai_tools_directory --file=data/seed.sql",

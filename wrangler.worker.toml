@@ -1,6 +1,11 @@
 name = "ai-tools-directory"
-pages_build_output_dir = "public"
+main = "src/worker.js"
 compatibility_date = "2026-02-18"
+workers_dev = true
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
 
 [[d1_databases]]
 binding = "DB"
