@@ -1,0 +1,1160 @@
+Tool Name,Category,Website Link,status,error
+Voice Clone,AI Content Generator,https://voice-cloner.com/,404,
+Ghibli AI,AI Art Generator,https://ghibliai.im/,-1,"Cannot connect to host ghibliai.im:443 ssl:default [nodename nor servname provided, or not known]"
+OctoComics,AI Manga & Comic Creator,https://www.octocomics.com/,-1,"Cannot connect to host www.octocomics.com:443 ssl:default [nodename nor servname provided, or not known]"
+Temp Mail,AI Email Generator,https://tempmail100.com/,404,
+Nemotron AI,AI Document Assistant,https://nemotronai.net/,-1,"Cannot connect to host nemotronai.net:443 ssl:default [nodename nor servname provided, or not known]"
+Personal Voice and Vision Assistant,AI Life Coach,https://unitor.ai/,-1,"Cannot connect to host unitor.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Sound of Text,AI Speech Synthesis,https://soundoftext.app/,-1,"Cannot connect to host soundoftext.app:443 ssl:default [nodename nor servname provided, or not known]"
+SQLBuilder.ai,AI SQL Query Builder,https://sqlbuilder.ai/,-1,"Cannot connect to host sqlbuilder.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Data Hivemind,AI Consulting Assistant,https://datahivemind.com/,404,
+EcomAdPro,AI Ad Creative Generator,https://ecomadpro.com/,404,
+HearThem,AI Form & Survey Creator,https://hearthem.io/,-1,Connection timeout to host https://hearthem.io/
+Dola,AI Life Coach,https://hidola.ai/,-1,"Cannot connect to host hidola.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AI Interviewer Pro,AI Interview Coach,https://ai-interviewerpro.com/,-1,"Cannot connect to host ai-interviewerpro.com:443 ssl:default [nodename nor servname provided, or not known]"
+Mistral,AI Knowledge Graph,https://www.usemistral.com/,404,
+readingclub.ai,AI Creative Writing,https://www.readingclub.ai/,-1,"Cannot connect to host www.readingclub.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Webfity,AI Website Designer,https://webfity.com/,-1,Timeout on reading data from socket
+Ink to Ivy,AI Checker Essay,https://www.inktoivy.com/,-1,"Cannot connect to host www.inktoivy.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Kaedim 3D Marketplace,AI 3D Model Generator,https://marketplace.kaedim3d.com/,-1,"Cannot connect to host marketplace.kaedim3d.com:443 ssl:default [nodename nor servname provided, or not known]"
+Apixio,AI Healthcare Advisor,https://apixio.com/,404,
+Creatoor AI,AI Cover Generator,https://creatoorai.com/,-1,Cannot connect to host creatoorai.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Oops Busted,AI Dating Assistant,https://oopsbusted.com/,404,
+ODDY,Research Tool,https://oddy.design/,-1,"Cannot connect to host oddy.design:443 ssl:default [nodename nor servname provided, or not known]"
+Photo Journey AI,AI Photo Restoration,https://photojourney.ai/,-1,"Cannot connect to host photojourney.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+EarnAI,AI Trading Bot,https://earnai.com/,-1,"Cannot connect to host earnai.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+AI Chatbot for Personal Trainers,AI Fitness Trainer,https://steelbrro.com/,-1,"Cannot connect to host steelbrro.com:443 ssl:default [nodename nor servname provided, or not known]"
+CueLab CRM,AI CRM Assistant,https://cuelab.app/,-1,"Cannot connect to host cuelab.app:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cuelab.app'."
+Fireside,AI Story Writing,https://www.fireside-story.com/,-1,"Cannot connect to host www.fireside-story.com:443 ssl:default [nodename nor servname provided, or not known]"
+PRTY,AI Meeting Assistant,https://prty.sh/,-1,"Cannot connect to host prty.sh:443 ssl:default [nodename nor servname provided, or not known]"
+ContentQuiver,Newsletter Generator,https://contentquiver.com/,-1,"Cannot connect to host contentquiver.com:443 ssl:default [Connect call failed ('185.228.44.68', 443)]"
+CSV to API,AI API Designer,https://www.csvapi.com/,404,
+Sofon,AI Knowledge Base,https://sofon.xyz/,-1,"Cannot connect to host sofon.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+Softr AI,AI App Builder,https://www.sociallysourcedstartupideas.xyz/,-1,"Cannot connect to host www.sociallysourcedstartupideas.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+NoteTakers IO,AI Note-Taking Assistant,https://notetakers.io/,-1,"Cannot connect to host notetakers.io:443 ssl:default [nodename nor servname provided, or not known]"
+Iconi Ai,AI Code Generator,https://iconiai.com/,-1,Cannot connect to host iconiai.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Octokit,AI Game Assistant,https://beta.octokit.co/,-1,"Cannot connect to host beta.octokit.co:443 ssl:default [Connect call failed ('14.225.219.170', 443)]"
+Luzia: Your intelligent assistant at a click,AI Life Coach,https://luzia.com/,-1,Cannot connect to host www.luzia.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Big Metrics SEO Platform,AI SEO Optimizer,https://bigmetrics.io/,-1,Cannot connect to host bigmetrics.io:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+SuperTasks.io,AI Task Manager,https://www.supertasks.io/,-1,Cannot connect to host www.supertasks.io:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+AI Art Master,AI Art Generator,https://aiartmaster.co/,500,
+Paraphrasing Tool - Free AI Paraphraser,Paraphraser,https://paraphrasingtoolfree.com/,-1,"Cannot connect to host paraphrasingtoolfree.com:443 ssl:default [nodename nor servname provided, or not known]"
+DubSync.AI,Captions & Subtitle Generator,https://dubsync.ai/,-1,"Cannot connect to host dubsync.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Artivatic,AI Healthcare Advisor,https://artivatic.ai/,-1,Cannot connect to host artivatic.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Kokoro TTS,AI Audio Enhancer,https://kokorotts.cc/,-1,"Cannot connect to host kokorotts.cc:443 ssl:default [nodename nor servname provided, or not known]"
+Remove Shadow,AI Image Enhancer,https://removeshadow.com/,-1,"Cannot connect to host removeshadow.com:443 ssl:default [nodename nor servname provided, or not known]"
+AI Directories,AI Tools Directory,https://aidirectories.cc/,-1,"Cannot connect to host aidirectories.cc:443 ssl:default [nodename nor servname provided, or not known]"
+Pixar Persona,AI Character,https://www.pixarpersona.com/,-1,Timeout on reading data from socket
+SOAPME.AI,AI Healthcare Advisor,https://soapme.ai/,-1,"Cannot connect to host soapme.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'soapme.ai'. ("
+LawCrawl,Legal Assistant,https://lawcrawl.com/,-1,"Cannot connect to host lawcrawl.com:443 ssl:default [nodename nor servname provided, or not known]"
+Aidomain,Domain Name Generator,https://aidomain.online/,-1,"Cannot connect to host aidomain.online:443 ssl:default [Connect call failed ('213.186.33.5', 443)]"
+ReportGPT,AI Documents Assistant,https://report-gpt.marvinvr.ai/,-1,"Cannot connect to host report-gpt.marvinvr.ai:443 ssl:default [nodename nor servname provided, or not known]"
+BeautyPlus,AI Background Remover,https://www.beautyplus.com/,-1,Connection timeout to host https://www.beautyplus.com/
+Chat with YouTube Videos,AI Education Assistant,https://chattubeai.com/,-1,Timeout on reading data from socket
+FuddleAI,AI Cooking Assistant,https://fuddle.ai/,404,
+Best AI Headshot Generator Ever,AI Profile Picture Generator,https://aiphoto.studio/,-1,"Cannot connect to host aiphoto.studio:443 ssl:default [nodename nor servname provided, or not known]"
+Heeps,General Writing Assistant,https://heeps.ai/,-1,"Cannot connect to host heeps.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Magic Prompt,Prompt,https://magic-prompt.net/,-1,Timeout on reading data from socket
+OpenAI Sora,Text to Video Generator,https://usesora.net/,-1,"Cannot connect to host usesora.net:443 ssl:default [nodename nor servname provided, or not known]"
+GrabText,AI Image Scanner,https://grabtext.ai/,-1,"Cannot connect to host grabtext.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Google Gemma Chat,Large Language Models (LLMs),https://google-gemma.com/,-1,"Cannot connect to host google-gemma.com:443 ssl:default [nodename nor servname provided, or not known]"
+Sora,Text to Video Generator,https://sora.cand.top/,-1,"Cannot connect to host sora.cand.top:443 ssl:default [nodename nor servname provided, or not known]"
+Meetingly,AI Video Recording,https://meetingly.co/,403,
+InsightQ.ai,AI Roadmap Generator,https://www.insightq.ai/,-1,"Cannot connect to host www.insightq.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Powerlab,Copywriting Assistant,https://powerlab.com.co/,-1,"Cannot connect to host powerlab.com.co:443 ssl:default [nodename nor servname provided, or not known]"
+Translatespace,Translation Assistant,https://www.translatespace.com/,-1,Connection timeout to host https://www.translatespace.com/
+AI Bard PDF,AI PDF Processor,https://aibardpdf.com/,520,
+ILLA,AI Workflow Manager,https://illacloud.com/,-1,"Cannot connect to host illacloud.com:443 ssl:default [nodename nor servname provided, or not known]"
+Faith,AI Religious Guide,https://namastefaith.com/,-1,"Cannot connect to host namastefaith.com:443 ssl:default [Connect call failed ('146.148.220.158', 443)]"
+3pi.ai,AI Content Repurposer,https://3pi.ai/,-1,"Cannot connect to host 3pi.ai:443 ssl:default [nodename nor servname provided, or not known]"
+MailEcho,AI Email Marketing Assistant,https://www.mailecho.io/,-1,"Cannot connect to host www.mailecho.io:443 ssl:default [nodename nor servname provided, or not known]"
+Birdbanner,AI Twitter Marketing Assistant,https://birdbanner.com/,404,
+Elite Corporate Shots,AI Profile Picture Generator,https://elitecorporateshots.pics/,-1,"Cannot connect to host elitecorporateshots.pics:443 ssl:default [nodename nor servname provided, or not known]"
+Sheet Copilot,AI Spreadsheet Assistant,https://sheetcopilot.ai/,-1,"Cannot connect to host sheetcopilot.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AI Sora Tech,AI Video Generator,https://aisoratech.com/,-1,"Cannot connect to host aisoratech.com:443 ssl:default [nodename nor servname provided, or not known]"
+Writing Sparrow,AI Blog Writer,https://writingsparrow.com/,-1,"Cannot connect to host writingsparrow.com:443 ssl:default [nodename nor servname provided, or not known]"
+PrometAI,Marketing Plan Generator,https://prometai.app/,-1,"400, message='Got more than 8190 bytes (13500) when reading Header value is too long.', url='https://prometai.app/'"
+Sorahub,Image to Video Converter,https://www.sorahub.app/,-1,"Cannot connect to host www.sorahub.app:443 ssl:default [nodename nor servname provided, or not known]"
+Image to Prompt Generator,Prompt,https://image2prompt.io/,-1,"Cannot connect to host image2prompt.io:443 ssl:default [nodename nor servname provided, or not known]"
+Face Shape Detect,AI Content Detector,https://www.faceshapedetect.com/,-1,"Cannot connect to host www.faceshapedetect.com:443 ssl:default [nodename nor servname provided, or not known]"
+Wan AI,AI Video Generator,https://wan21.net/,-1,"Cannot connect to host wan21.net:443 ssl:default [nodename nor servname provided, or not known]"
+Lazy AI,Prompt,https://www.getlazy.ai/,-1,Connection timeout to host https://www.getlazy.ai/
+LowPriceTravels,AI Trip Planner,https://lowpricetravels.com/,-1,"Cannot connect to host newtripideas.com:443 ssl:default [nodename nor servname provided, or not known]"
+Userview,Report Generator,https://userview.ai/,-1,"Cannot connect to host userview.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Gemini,AI Chatbot,https://geminiapk.com/,-1,"Cannot connect to host geminiapk.com:443 ssl:default [nodename nor servname provided, or not known]"
+MagicAds,AI Advertising Assistant,https://magicads.ai/,-1,"Cannot connect to host magicads.ai:443 ssl:default [nodename nor servname provided, or not known]"
+QaffAI,Digital Marketing Generator,https://qaff.ai/,-1,"Cannot connect to host qaff.ai:443 ssl:default [nodename nor servname provided, or not known]"
+EasyReview,AI Review Assistant,https://easyreview.ai/,-1,"Cannot connect to host easyreview.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AI CRM,AI CRM Assistant,https://crm.aimarketing.software/,-1,"Cannot connect to host crm.aimarketing.software:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for"
+KudasAI,AI Meeting Assistant,https://www.kudasai.io/,404,
+Wondera,AI Audio Enhancer,https://www.wondera.io/,-1,Cannot connect to host www.wondera.io:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Kuasar Video,AI Hashtag Assistant,https://kuasarvideo.com/,-1,"Cannot connect to host kuasarvideo.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kuasarv"
+Organiser,AI Photo Restoration,https://organiserapp.com/,-1,Connection timeout to host https://organiserapp.com/
+BulkContent.AI,AI SEO Optimizer,https://bulkcontent.ai/,-1,"Cannot connect to host bulkcontent.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Gumdrop,AI Life Coach,https://gumdropit.com/,404,
+The Indie AI Code Assistant,Paraphraser,https://microbyte.app/,-1,"Cannot connect to host microbyte.app:443 ssl:default [nodename nor servname provided, or not known]"
+AI Wallpapers With Your Name,AI Wallpaper Generator,https://wallpaper.ee/,-1,"Cannot connect to host wallpaper.ee:443 ssl:default [nodename nor servname provided, or not known]"
+Real Mock Interviews,AI Interview Coach,https://realmockinterviews.com/,-1,"Cannot connect to host realmockinterviews.com:443 ssl:default [nodename nor servname provided, or not known]"
+Team Assessment,AI Coaching,https://teamassessment.co/,-1,Cannot connect to host teamassessment.co:443 ssl:default [[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1129)]
+Airlight,AI Browser Builder,https://www.airlight.pro/,503,
+Swipify,AI Ad Creative Generator,https://swipify.ai/,-1,"Cannot connect to host swipify.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Maika AI,General Writing Assistant,https://maika.ai/,-1,"Cannot connect to host maika.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'maika.ai'. (_s"
+Broadcast,AI Meeting Assistant,https://withbroadcast.com/,525,
+Destocker,AI Image Enhancer,https://www.destocker.ai/,-1,"Cannot connect to host www.destocker.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Modeli.ai,Photo & Image Editor,https://modeli.ai/en,-1,"Cannot connect to host modeli.ai:443 ssl:default [nodename nor servname provided, or not known]"
+WizFairy,AI Creative Writing,https://wizfairy.com/,-1,"Cannot connect to host wizfairy.com:443 ssl:default [nodename nor servname provided, or not known]"
+SneakerLogoAi,AI Logo Generator,https://www.sneakerlogoai.com/,-1,"Cannot connect to host www.sneakerlogoai.com:443 ssl:default [Connect call failed ('160.202.84.79', 443)]"
+Explorify,AI Trip Planner,https://www.tryexplorify.com/,-1,"Cannot connect to host www.tryexplorify.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+ScanIt.IO,AI Image Scanner,https://scanit.ectlogistics.net/,-1,"Cannot connect to host scanit.ectlogistics.net:443 ssl:default [nodename nor servname provided, or not known]"
+Resumenalyzer,Resume Builder,https://www.resumenalyzer.com/,-1,Cannot connect to host www.resumenalyzer.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+RedditChatLab,AI Business Ideas Generator,https://redditchatlab.com/,-1,Connection timeout to host https://redditchatlab.com/
+D&D Character Portraits,AI Character,https://www.dndcharacterportraits.com/,-1,"Cannot connect to host www.dndcharacterportraits.com:443 ssl:default [nodename nor servname provided, or not known]"
+Ella the Elf,AI Gift Idea Generator,https://ellagiftfinder.com/,-1,"Cannot connect to host ellagiftfinder.com:443 ssl:default [nodename nor servname provided, or not known]"
+BannerGate,AI Advertising Assistant,https://www.bannergate.ai/,-1,"Cannot connect to host www.bannergate.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AIRoomGenerator,AI Interior & Room Designer,https://airoomgenerator.com/,-1,Connection timeout to host https://airoomgenerator.com/
+Babel Dish,Translation Assistant,https://babeldish.app/,-1,"Cannot connect to host babeldish.app:443 ssl:default [nodename nor servname provided, or not known]"
+Codara - AI Code Reviewer,AI Code Assistant,https://codara.io/,403,
+DeSpam,AI API Designer,https://despam.io/,-1,"Cannot connect to host despam.io:443 ssl:default [nodename nor servname provided, or not known]"
+PixCanva,AI Profile Picture Generator,https://www.pixcanva.com/,-1,"Cannot connect to host www.pixcanva.com:443 ssl:default [nodename nor servname provided, or not known]"
+Naria - Stories Crafted by You,AI Book Writing,https://www.naria.ai/,-1,"Cannot connect to host www.naria.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Ubique,Sales Assistant,https://ubique.live/,-1,"Cannot connect to host ubique.live:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+InfluencerFarm,AI Profile Picture Generator,https://influencerfarm.io/,-1,Cannot connect to host influencerfarm.io:443 ssl:default [[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1129)]
+5letter-words.com,AI Word Processor,https://5letter-words.com/,-1,Connection timeout to host https://5letter-words.com/
+Podmob,Newsletter Generator,https://www.podmob.com/,-1,"Cannot connect to host www.podmob.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Brill,AI Task Manager,https://brillai.co/,-1,"Cannot connect to host brillai.co:443 ssl:default [nodename nor servname provided, or not known]"
+JrSDR,Sales Assistant,https://jrsdr.com/,-1,"Cannot connect to host jrsdr.com:443 ssl:default [nodename nor servname provided, or not known]"
+SpeakTrackAI,AI Life Coach,https://speaktrack.ai/,-1,"Cannot connect to host speaktrack.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Designly AI,AI Website Designer,https://designlyai.com/,-1,"Cannot connect to host designlyai.com:443 ssl:default [nodename nor servname provided, or not known]"
+PalyPDF,AI Documents Assistant,https://palypdf.com/,-1,"Cannot connect to host palypdf.com:443 ssl:default [nodename nor servname provided, or not known]"
+A.I. Prompt Marketplace,Prompt,https://vibeprompts.com/,429,
+Captiwiz,AI Emoji Creator,https://captiwiz.com/,-1,Connection timeout to host https://captiwiz.com/
+BodyCompAI,AI Fitness Trainer,https://bodycompai.com/,-1,"Cannot connect to host bodycompai.com:443 ssl:default [nodename nor servname provided, or not known]"
+FAIND,AI Dating Assistant,https://faind.net/,-1,"Cannot connect to host faind.net:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+MyInvestment-AI,Investing Assistant,https://myinvestment-ai.com/,-1,"Cannot connect to host myinvestment-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+EstateText,AI Bio Generator,https://www.estatetext.com/,-1,Connection timeout to host https://www.estatetext.com/
+Instyll - Supercharged markdown notes,AI Note-Taking Assistant,https://instyll.dev/,-1,Connection timeout to host https://instyll.dev/
+ERP AI,AI Accounting Assistant,https://mejerpai.com/,-1,"Cannot connect to host mejerpai.com:443 ssl:default [nodename nor servname provided, or not known]"
+FocalStudio: AI-Powered Product Photography,AI Ad Creative Generator,https://focalstudio.ai/,-1,Cannot connect to host focalstudio.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Appastic,AI Review Assistant,https://www.appastic.com/,-1,"Cannot connect to host www.appastic.com:443 ssl:default [nodename nor servname provided, or not known]"
+Habit Hero,AI Life Coach,https://habit-hero.app/,-1,"Cannot connect to host habit-hero.app:443 ssl:default [nodename nor servname provided, or not known]"
+Adapt My CV,Cover Letter Generator,https://www.adaptmycv.com/,-1,"Cannot connect to host www.adaptmycv.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+SaaSlidator,AI Business Ideas Generator,https://saaslidator.com/,-1,"Cannot connect to host saaslidator.com:443 ssl:default [nodename nor servname provided, or not known]"
+FusionArt AI,AI Profile Picture Generator,https://www.fusionartai.com/3d-social-media-profiles-maker,403,
+Huntd,AI Business Ideas Generator,https://huntd.xyz/,-1,"Cannot connect to host huntd.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+Span - AI Viral Content Studio,AI Animated Video Creator,https://span.lol/,403,
+ChatGPT Finder,AI File Manager,https://chatgptfinder.app/,-1,"Cannot connect to host chatgptfinder.app:443 ssl:default [nodename nor servname provided, or not known]"
+Life2vec AI Death Calculator Online,AI Life Coach,https://life2vecdeathcalculator.com/,-1,"Cannot connect to host life2vecdeathcalculator.com:443 ssl:default [nodename nor servname provided, or not known]"
+Coin Wizard,AI Trading Bot,https://coinwizard.ai/,-1,"Cannot connect to host coinwizard.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Revamped,Newsletter Generator,https://revamped.io/,-1,Cannot connect to host revamped.io:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Surfer,AI Content Generator,https://get.surferseo.com/r70lc3csst68,404,
+Deepfakes.lol,AI Celebrity Voice Generator,https://deepfakes.lol/,402,
+E1U Life All-in-one marketing platform,AI CRM Assistant,https://e1ulife.com/,-1,Timeout on reading data from socket
+Toplyne,AI Advertising Assistant,https://toplyne.io/,404,
+Kolors Virtual Try On,AI Creative Writing,https://thevirtualtryon.com/,-1,"Cannot connect to host thevirtualtryon.com:443 ssl:default [nodename nor servname provided, or not known]"
+Dovideo AI,AI Video Generator,https://dovideo.io/,403,
+ZeroGPT,AI Content Detector,https://zero-gpt.io/,-1,"Cannot connect to host zero-gpt.io:443 ssl:default [nodename nor servname provided, or not known]"
+TikTok Emoji - TikTok Emoji Generator,AI Emoji Creator,https://tiktok-emoji.com/,-1,"Cannot connect to host tiktok-emoji.com:443 ssl:default [nodename nor servname provided, or not known]"
+Dropscale,E-commerce Assistant,https://dropscale.com/,-1,"Cannot connect to host dropscale.com:443 ssl:default [nodename nor servname provided, or not known]"
+Augie,AI UGC Video Generator,https://meetaugie.com/,-1,"Cannot connect to host meetaugie.com:443 ssl:default [nodename nor servname provided, or not known]"
+EvolveAi,AI Fitness Trainer,https://evolveai.app/,-1,Cannot connect to host evolveai.app:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Remodeled AI,AI Interior & Room Designer,https://remodeled.ai/,403,
+SetGuest,AI Trip Planner,https://setguest.com/,-1,"Cannot connect to host setguest.com:443 ssl:default [nodename nor servname provided, or not known]"
+Copilot,Resume Builder,https://copilot.us/,405,Timeout on reading data from socket
+Wu Tang Name Generator,AI Fun Tools,https://wutangclannamegenerators.com/,-1,"Cannot connect to host wutangclannamegenerators.com:443 ssl:default [nodename nor servname provided, or not known]"
+LiveLink,AI Ad Generator,https://livelink.vip/,-1,Connection timeout to host https://livelink.vip/
+Unhinged AI,AI Character,https://unhinged.ai/,402,
+Gauthmath,AI Chatbot,https://gauthmath.com/,403,
+Career.io,AI Consulting Assistant,https://career.io/,-1,Cannot connect to host career.io:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+OptionsPro,AI Trading Bot,https://optionspro.io/,-1,"Cannot connect to host optionspro.io:443 ssl:default [nodename nor servname provided, or not known]"
+Melobytes.com,Text-to-Music Generator,https://melobytes.com/,403,
+Aftershoot,AI Photography Assistant,https://aftershoot.com/,-1,Cannot connect to host aftershoot.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Amplemarket,Sales Assistant,https://grow.amplemarket.com/56ezihg99dkh,404,
+Study Hero,Homework Helper,https://studyhero.ai/,-1,Cannot connect to host studyhero.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+ReelCraft,AI Animated Video Creator,https://reelcraft.ai/,-1,"Cannot connect to host reelcraft.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SurferPips,AI Trading Bot,https://surferpips.com/,-1,"Cannot connect to host surferpips.com:443 ssl:default [nodename nor servname provided, or not known]"
+Grow My Small Business - AI,AI Business Ideas Generator,https://growmysmallbusiness-ai.com/,-1,"Cannot connect to host growmysmallbusiness-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Digital Friends,AI Character,https://digitalfriends.io/,-1,"Cannot connect to host digitalfriends.io:443 ssl:default [nodename nor servname provided, or not known]"
+AI Monstaz,AI Anime & Cartoon Generator,https://aimonstaz.com/,-1,"Cannot connect to host aimonstaz.com:443 ssl:default [nodename nor servname provided, or not known]"
+Adflare.ai,AI Thumbnail Maker,https://adflare.ai/,-1,"Cannot connect to host adflare.ai:443 ssl:default [nodename nor servname provided, or not known]"
+NFT Collection Generator | AI,NFT Generator,https://www.ainftgenerator.site/,-1,"Cannot connect to host andrescardonafotografo.com:443 ssl:default [Multiple exceptions: [Errno 61] Connect call failed ('194.67.71.71', 443), [Errno 61] Connect call failed ('2a00:f940:4::10', 443, 0,"
+UTOPIA,AI Tools Directory,https://utopiacriativa.com/,-1,"Cannot connect to host utopiacriativa.com:443 ssl:default [nodename nor servname provided, or not known]"
+Nurovant AI,AI Education Assistant,https://www.nurovant.com/,-1,Cannot connect to host www.placementpro.online:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Rezumeify,AI Cover Generator,https://rezumeify.com/,-1,"Cannot connect to host rezumeify.com:443 ssl:default [nodename nor servname provided, or not known]"
+AI Navigation,AI Presentation Generator,https://www.aigc-uni.com/,-1,"Cannot connect to host www.aigc-uni.com:443 ssl:default [nodename nor servname provided, or not known]"
+AiTatto,AI Tattoo Designer,https://www.aitatto.com/,521,
+Disney Pixar Dog AI,Image to Image Converter,https://www.disneypixardogai.com/,-1,"Cannot connect to host www.disneypixardogai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Tailbox,AI Trip Planner,https://tailbox.com/,404,
+Huudle,AI Project Manager,https://www.huudle.io/,503,
+Shopilot,AI Gift Idea Generator,https://tryshopilot.com/,-1,"Cannot connect to host tryshopilot.com:443 ssl:default [Multiple exceptions: [Errno 61] Connect call failed ('194.67.71.152', 443), [Errno 61] Connect call failed ('2a00:f940:4::10', 443, 0, 0)]"
+Resume Copilot,AI Recruiting Assistant,https://www.recruitment-copilot.com/,-1,"Cannot connect to host www.recruitment-copilot.com:443 ssl:default [Connect call failed ('38.48.212.181', 443)]"
+Perdopo AI,AI Knowledge Management,https://www.perdopo.com/,-1,"Cannot connect to host www.perdopo.com:443 ssl:default [nodename nor servname provided, or not known]"
+TasteBuddy,AI Cooking Assistant,https://tastebuddy.ai/,-1,"Cannot connect to host tastebuddy.ai:443 ssl:default [nodename nor servname provided, or not known]"
+CoachPoints AI,AI Coaching,https://coachpoints.ai/,-1,"Cannot connect to host coachpoints.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AvatarCraft,AI Profile Picture Generator,https://avatarcraft.ai/,-1,"Cannot connect to host avatarcraft.ai:443 ssl:default [nodename nor servname provided, or not known]"
+MeslAI,AI Celebrity Voice Generator,https://meslai.app/,404,
+MagicDocs,AI Documents Assistant,https://magicdocuments.ai/,-1,"Cannot connect to host magicdocuments.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Gauss Box,AI Project Manager,https://gaussbox.com/,404,
+Qualli,AI Form & Survey Creator,https://usequalli.com/,404,
+Make Me Epic,AI Fun Tools,https://makemeepic.app/,-1,"Cannot connect to host makemeepic.app:443 ssl:default [nodename nor servname provided, or not known]"
+Local Buddy,AI Trip Planner,https://www.localbuddy.info/,404,
+Stability AI Video Generator,AI Animated Video Creator,https://stability-ai-video-generater.com/,-1,"Cannot connect to host stability-ai-video-generater.com:443 ssl:default [nodename nor servname provided, or not known]"
+Gondolin,AI Browser Builder,https://trygondolin.com/,-1,"Cannot connect to host trygondolin.com:443 ssl:default [nodename nor servname provided, or not known]"
+Doctrina AI,AI Education Assistant,https://doctrina-ai.com/,-1,"Cannot connect to host doctrina-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+GiveawayAI,Digital Marketing Generator,https://giveawayai.org/,404,
+Rednit,AI Dating Assistant,https://rednit.fun/,-1,"Cannot connect to host rednit.fun:443 ssl:default [nodename nor servname provided, or not known]"
+Reverb Street,AI Podcast Assistant,https://reverbstreet.com/,-1,"Cannot connect to host reverbstreet.com:443 ssl:default [nodename nor servname provided, or not known]"
+HypeIndex,AI Trading Bot,https://www.hypeindex.com/,-1,Cannot connect to host www.hypeindex.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+GoodWorkVibes,AI Task Manager,https://goodworkvibes.io/,-1,"Cannot connect to host goodworkvibes.io:443 ssl:default [nodename nor servname provided, or not known]"
+AI2DocReview,AI Healthcare Advisor,https://www.ai2docreview.com/,-1,"Cannot connect to host www.ai2docreview.com:443 ssl:default [nodename nor servname provided, or not known]"
+DeepEyes - Web3 Data Analytics,AI Data Mining,https://deepeyes.io/,-1,"Cannot connect to host deepeyes.io:443 ssl:default [nodename nor servname provided, or not known]"
+Maildrill,AI Email Generator,https://maildrill.app/,-1,Cannot connect to host maildrill.app:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Video Summary AI,AI Short Clips Generator,https://videosummaryai.co/,-1,Cannot connect to host videosummaryai.co:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Monoid,AI Workflow Manager,https://monoid.so/,-1,"Cannot connect to host monoid.so:443 ssl:default [nodename nor servname provided, or not known]"
+SantaGPT,AI Gift Idea Generator,https://santagpt.in/,-1,"Cannot connect to host santagpt.in:443 ssl:default [nodename nor servname provided, or not known]"
+CGDream,AI Content Generator,https://cgdream.ai/,403,
+Language Learning Games by AI,AI Game Assistant,https://langlearngames.com/,-1,"Cannot connect to host langlearngames.com:443 ssl:default [nodename nor servname provided, or not known]"
+Mistral 7B,AI Tools Directory,https://mistral-7b.com/,-1,"Cannot connect to host mistral-7b.com:443 ssl:default [nodename nor servname provided, or not known]"
+Chatio,AI Reply Assistant,https://www.chatio.ai/,-1,Cannot connect to host www.chatio.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Meaningful,AI Form & Survey Creator,https://meaningfulcx.com/,-1,Connection timeout to host https://meaningfulcx.com/
+Itair,AI Trip Planner,https://www.itair.io/,503,
+Gangr.ai - DTF gang sheet builder,AI Background Remover,https://gangr.ai/,403,
+Instabooks AI,AI Tutorial Creator,https://instabooks.ai/,-1,"Cannot connect to host instabooks.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Hirebird.me,AI Recruiting Assistant,https://hirebird.me/,-1,"Cannot connect to host hirebird.me:443 ssl:default [nodename nor servname provided, or not known]"
+Alice - AI Wonderland,AI Girlfriend,https://alice-ai.com/,-1,Connection timeout to host https://alice-ai.com/
+Interview Mentor AI,AI Interview Coach,https://www.interviewmentorai.com/,-1,"Cannot connect to host www.interviewmentorai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Log4U,AI Interview Coach,https://log4u.info/,-1,"Cannot connect to host log4u.info:443 ssl:default [nodename nor servname provided, or not known]"
+AliceCam.ai,AI Selfie & Portrait Editor,https://alicecam.ai/,-1,"Cannot connect to host alicecam.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SelfPubKit,AI Website Builder,https://selfpubkit.com/,-1,"Cannot connect to host selfpubkit.com:443 ssl:default [Connect call failed ('104.143.129.175', 443)]"
+ChowBuddy,AI Cooking Assistant,https://chowbuddy.bot/,-1,Connection timeout to host https://chowbuddy.bot/
+Search a GPT,AI Tools Directory,https://www.searchagpt.com/,-1,"Cannot connect to host www.searchagpt.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www."
+MockMan,AI Interview Coach,https://app.mockman.in/,-1,"Cannot connect to host app.mockman.in:443 ssl:default [nodename nor servname provided, or not known]"
+GPT Directory,AI Tools Directory,https://gptdirectory.cc/,-1,"Cannot connect to host gptdirectory.cc:443 ssl:default [nodename nor servname provided, or not known]"
+WhatGPTs,AI Tools Directory,https://whatgpts.com/,-1,"Cannot connect to host whatgpts.com:443 ssl:default [nodename nor servname provided, or not known]"
+Community Hub,AI Product Description Generator,https://sesamelabs.xyz/,502,
+Supatale - Fairy Tales for Everyone,AI Story Writing,https://supatale.com/,-1,Cannot connect to host supatale.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+SharkTank AI,AI Business Ideas Generator,https://www.sharktank-ai.com/,-1,"Cannot connect to host www.sharktank-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+DefinityLegend,AI Roadmap Generator,https://www.definitylegend.com/,-1,"Cannot connect to host www.definitylegend.com:443 ssl:default [nodename nor servname provided, or not known]"
+MealForMe,AI Cooking Assistant,https://mealforme.io/,-1,"Cannot connect to host mealforme.io:443 ssl:default [nodename nor servname provided, or not known]"
+Apollo Co-Pilot,AI Coaching,https://www.apollo-copilot.com/,-1,"Cannot connect to host www.apollo-copilot.com:443 ssl:default [nodename nor servname provided, or not known]"
+FetchFox,Web Scraping Tool,https://fetchfoxai.com/,-1,Connection timeout to host https://fetchfoxai.com/
+ChatGPT Dialog Puzzle Game,AI Game Assistant,https://modelleai.com/,-1,Server disconnected
+Dating CoPilot,AI Dating Assistant,https://datingcopilot.co/,-1,"Cannot connect to host datingcopilot.co:443 ssl:default [nodename nor servname provided, or not known]"
+CleverCharts AI,AI SQL Query Builder,https://cleverchartsai.com/,-1,Cannot connect to host cleverchartsai.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+CustomGPTsList,AI Word Processor,https://customgptslist.com/,-1,"Cannot connect to host customgptslist.com:443 ssl:default [nodename nor servname provided, or not known]"
+Foliko,AI Trading Bot,https://folikoinsights.com/,-1,Connection timeout to host https://folikoinsights.com/
+Product Prompt,Prompt,https://productprompt.ai/,-1,"Cannot connect to host productprompt.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SafyrusAI,AI Code Assistant,https://www.safyrus.codes/,-1,"Cannot connect to host www.safyrus.codes:443 ssl:default [nodename nor servname provided, or not known]"
+MagicDash,AI SQL Query Builder,https://getmagicdashai.com/,-1,"Cannot connect to host getmagicdashai.com:443 ssl:default [nodename nor servname provided, or not known]"
+TaleAI,AI Story Writing,https://taleai.io/,-1,Cannot connect to host taleai.io:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+GTM Guy,AI Business Ideas Generator,https://gtmguy.ai/,403,
+Sora AI: AI Video Generator Redefining Visual Storytelling,AI Video Generator,https://www.soraaivideo.co/,-1,"Cannot connect to host www.soraaivideo.co:443 ssl:default [nodename nor servname provided, or not known]"
+Image2Prompt,AI Image Scanner,https://image2prompt.org/,-1,"Cannot connect to host image2prompt.org:443 ssl:default [nodename nor servname provided, or not known]"
+AI Tools Explorer,AI Tools Directory,https://aiex.me/,403,
+SortBird,AI Twitter Marketing Assistant,https://www.sortbird.com/,-1,"Cannot connect to host www.sortbird.com:443 ssl:default [nodename nor servname provided, or not known]"
+CompanyCraft,AI Business Ideas Generator,https://www.companycraft.ai/,-1,"Cannot connect to host www.companycraft.ai:443 ssl:default [nodename nor servname provided, or not known]"
+EnfinBref.io,AI Content Detector,https://enfinbref.io/en,-1,"Cannot connect to host enfinbref.io:443 ssl:default [nodename nor servname provided, or not known]"
+TrendTweet,AI Twitter Marketing Assistant,https://tweettrends.co/,-1,Connection timeout to host https://tweettrends.co/
+Limeline.ai,AI Meeting Assistant,https://limeline.ai/,-1,Connection timeout to host https://limeline.ai/
+ABox,AI Celebrity Voice Generator,https://www.aboxapps.com/,-1,Timeout on reading data from socket
+PageBot,AI Customer Service Assistant,https://thepagebot.com/,-1,"Cannot connect to host thepagebot.com:443 ssl:default [nodename nor servname provided, or not known]"
+Video GPT,AI Personalized Video Creator,https://video-gpt.io/,-1,"Cannot connect to host video-gpt.io:443 ssl:default [nodename nor servname provided, or not known]"
+MyiQ.Ai,AI Accounting Assistant,https://www.myiq.ai/,-1,"Cannot connect to host www.myiq.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Hairui Legal,AI Knowledge Management,https://www.hairuilegal.com/,-1,Cannot connect to host www.hairuilegal.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Spelliy,AI Rewriter,https://www.spelliy.com/,-1,"Cannot connect to host www.spelliy.com:443 ssl:default [nodename nor servname provided, or not known]"
+Teachify,AI Coaching,https://www.teachify.online/,-1,"Cannot connect to host www.teachify.online:443 ssl:default [nodename nor servname provided, or not known]"
+Cookii,AI Cooking Assistant,https://cookii.io/,-1,"Cannot connect to host cookii.io:443 ssl:default [nodename nor servname provided, or not known]"
+Apply Script,AI Recruiting Assistant,https://www.applyscript.com/,-1,Connection timeout to host https://www.applyscript.com/
+Pawsome Namer - Pet Name Generator,AI Bio Generator,https://pawsomenamer.com/,-1,Cannot connect to host pawsomenamer.com:443 ssl:default [None]
+Alvatix,AI Trading Bot,https://www.alvatix.com/,-1,Cannot connect to host www.alvatix.com:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+AIHairstylist.com,AI Image Enhancer,https://aihairstylist.com/,-1,Connection timeout to host https://aihairstylist.com/
+Kumo Study,AI Note-Taking Assistant,https://www.kumostudy.com/,-1,"Cannot connect to host www.kumostudy.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.k"
+Claros,AI Chatbot,https://www.claros.so/,-1,"Cannot connect to host www.claros.so:443 ssl:default [nodename nor servname provided, or not known]"
+TNAC.ai,Homework Helper,https://tnac.ai/,-1,Cannot connect to host tnac.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Obiklip,AI Podcast Assistant,https://obiklip.com/,-1,Timeout on reading data from socket
+Video My Listing,AI Personalized Video Creator,https://www.videomylisting.com/,-1,Connection timeout to host https://www.videomylisting.com/
+GoPDF,AI PDF Processor,https://gopdf.io/,-1,Cannot connect to host gopdf.io:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+IconAI.Shop,AI Icon Designer,https://iconai.shop/,-1,"Cannot connect to host iconai.shop:443 ssl:default [nodename nor servname provided, or not known]"
+DALL-E 3,Text to Image Generator,https://dalle3.org/,-1,"Cannot connect to host dalle3.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')]"
+Petals,AI Pattern Generator,https://petals.design/,-1,Connection timeout to host https://petals.design/
+ProductPics.ai,AI Photography Assistant,https://productpics.ai/,-1,"Cannot connect to host productpics.ai:443 ssl:default [nodename nor servname provided, or not known]"
+KnowSilos,AI Knowledge Graph,https://www.knowsilos.com/,-1,"Cannot connect to host www.knowsilos.com:443 ssl:default [nodename nor servname provided, or not known]"
+Acrostic AI,AI Creative Writing,https://www.acrostic.ai/,-1,"Cannot connect to host www.acrostic.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Janitor AI,AI Chatbot,https://janitorai.com/,403,
+FurryAI,AI Art Generator,https://furryai.org/,-1,Connection timeout to host https://furryai.org/
+Bell,AI Life Coach,https://hereforyou.app/,404,
+Domains By Ai,Domain Name Generator,https://www.domainsby.ai/,-1,"Cannot connect to host www.domainsby.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Decode.tax,Tax Assistant,https://decode.tax/,404,
+WeAreHiring.AI,Bio Link Generator,https://wearehiring.ai/,-1,"Cannot connect to host wearehiring.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Bizway,AI Roadmap Generator,https://bizway.io/,404,
+AppManager,AI App Builder,https://appmanager.ai/,-1,"Cannot connect to host appmanager.ai:443 ssl:default [nodename nor servname provided, or not known]"
+FoxAcid.ai,AI Personalized Video Creator,https://foxacid.ai/,-1,"Cannot connect to host foxacid.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Marenda,AI Cooking Assistant,https://marenda.app/,-1,"Cannot connect to host marenda.app:443 ssl:default [nodename nor servname provided, or not known]"
+Speech Meter,AI Speech Recognition,https://speechmeter.com/,404,
+Skills Up,AI Quiz Generator,https://www.skillsupapp.com/,-1,"Cannot connect to host www.skillsupapp.com:443 ssl:default [nodename nor servname provided, or not known]"
+Cover Letter Writer,Cover Letter Generator,https://coverletters.work/,402,
+SmartBrandly,Domain Name Generator,https://smartbrandly.com/,-1,"Cannot connect to host smartbrandly.com:443 ssl:default [nodename nor servname provided, or not known]"
+BuildMeACoverLetter,Cover Letter Generator,https://www.buildmeacoverletter.com/,404,
+Prompt Masters,Prompt,https://www.promptmasters.club/,-1,"Cannot connect to host www.promptmasters.club:443 ssl:default [nodename nor servname provided, or not known]"
+SmartSlide,AI Presentation Generator,https://www.smartslide.ai/,-1,"Cannot connect to host www.smartslide.ai:443 ssl:default [nodename nor servname provided, or not known]"
+DefiPe,AI Trading Bot,https://defipe.io/,-1,"Cannot connect to host defipe.io:443 ssl:default [nodename nor servname provided, or not known]"
+UltraReals,AI Hashtag Assistant,https://ultrareals.com/,-1,"Cannot connect to host ultrareals.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ultrarea"
+CreatorMind,Newsletter Generator,https://creatormind.co/,-1,"Cannot connect to host creatormind.co:443 ssl:default [nodename nor servname provided, or not known]"
+Prime Candidate,AI Recruiting Assistant,https://www.primecandidate.ai/,-1,"Cannot connect to host www.primecandidate.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Filebox,Prompt,https://filebox.ai/,404,
+DeepUnitAI,AI Code Generator,https://deepunit.ai/,-1,"Cannot connect to host deepunit.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Minerva,AI Tutorial Creator,https://minervaknows.com/,-1,"Cannot connect to host minervaknows.com:443 ssl:default [nodename nor servname provided, or not known]"
+FollowFox,Text to Image Generator,https://followfox.ai/,-1,"Cannot connect to host followfox.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+Copyly,AI Grammar Checker,https://www.copyly.io/,-1,"Cannot connect to host www.copyly.io:443 ssl:default [nodename nor servname provided, or not known]"
+Browser Buddy,AI Browser Builder,https://browserbuddy.sh/,403,
+GetGloby,Translation Assistant,https://www.getgloby.com/,-1,Cannot connect to host www.getgloby.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Mastermallow,AI Audio Enhancer,https://mastermallow.com/,521,
+Mystoria.xyz,AI Story Writing,https://mystoria.xyz/,-1,"Cannot connect to host mystoria.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+Ephes Creations,AI Tattoo Designer,https://ephes-creations.com/,-1,"Cannot connect to host ephes-creations.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'eph"
+ByteBricks.ai,AI API Designer,https://bytebricks.ai/,500,
+TheHomeDecorAI,AI Interior & Room Designer,https://thehomedecorai.com/,-1,"Cannot connect to host thehomedecorai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Interior Render AI,AI Interior & Room Designer,https://interior-ai.design/,-1,"Cannot connect to host interior-ai.design:443 ssl:default [nodename nor servname provided, or not known]"
+Astroship Social Ideas & Plans,AI Facebook Marketing Assistant,https://socialplans.co/,-1,"Cannot connect to host socialplans.co:443 ssl:default [nodename nor servname provided, or not known]"
+Alphadoc,AI API Designer,https://alphadoc.io/,-1,"Cannot connect to host alphadoc.io:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'alphadoc.io"
+MailAgent.AI,AI Email Marketing Assistant,https://mailagent.ai/,-1,"Cannot connect to host mailagent.ai:443 ssl:default [nodename nor servname provided, or not known]"
+The Daily Dad Joke,AI Fun Tools,https://dailydadjoke.app/,-1,"Cannot connect to host dailydadjoke.app:443 ssl:default [nodename nor servname provided, or not known]"
+MasteredNow,AI Audio Enhancer,https://masterednow.com/,-1,"Cannot connect to host masterednow.com:443 ssl:default [nodename nor servname provided, or not known]"
+Supertest,AI Code Assistant,https://supertest.ai/,-1,"Cannot connect to host supertest.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Moonvalley,AI Content Generator,https://www.moonvalley.ai/,-1,Cannot connect to host www.moonvalley.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Omnes.Link,Bio Link Generator,https://omnes.link/,-1,Cannot connect to host omnes.link:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+X-Me - x-me.world | AI Video Generator,AI Video Recording,https://x-me.world/,-1,"Cannot connect to host x-me.world:443 ssl:default [nodename nor servname provided, or not known]"
+Claude,Large Language Models (LLMs),https://www.anthropic.com/news/memory,404,
+Chat PDF Free,AI PDF Processor,https://chat-pdf.net/,404,
+Imagine Anything,Text to Image Generator,https://www.imagineanything.ai/,-1,"Cannot connect to host www.imagineanything.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Jotters Pad - Premium Writing Made Effortless with AI,AI Poem & Poetry Generator,https://www.jotterspad.com/,-1,Timeout on reading data from socket
+Studyflash,Homework Helper,https://studyflash.ai/,404,
+Graphzila,AI Knowledge Graph,https://graphzila.com/,-1,"Cannot connect to host graphzila.com:443 ssl:default [Connect call failed ('34.92.50.100', 443)]"
+Kropply,Code Explanation Tool,https://kropply.com/,-1,Cannot connect to host kropply.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Snappy,AI Gift Idea Generator,https://www.snappygifts.com/,-1,Connection timeout to host https://www.snappygifts.com/
+TldrGPT.net,Summarizer,https://www.tldrgpt.net/,503,
+QuizMixer,AI Quiz Generator,https://quizmixer.xyz/,-1,"Cannot connect to host quizmixer.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+CloudStudio,AI Noise Cancellation,https://cloudstudio.ai/,-1,"Cannot connect to host cloudstudio.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AskYoutube,AI YouTube Marketing Assistant,https://www.askyoutube.ai/,-1,"Cannot connect to host www.askyoutube.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Spicytool,AI Advertising Assistant,https://spicytool.net/en,404,
+Clevis,AI App Builder,https://clevis.app/,-1,"Cannot connect to host clevis.app:443 ssl:default [nodename nor servname provided, or not known]"
+Siesta,AI Word Processor,https://siestaguides.com/,-1,"Cannot connect to host siestaguides.com:443 ssl:default [nodename nor servname provided, or not known]"
+Supademo,AI Tutorial Creator,https://supademo.com/,-1,Cannot connect to host supademo.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Medvise,AI Healthcare Advisor,https://www.medvise.ai/,-1,"Cannot connect to host www.medvise.ai:443 ssl:default [nodename nor servname provided, or not known]"
+GoToMarket-AI,AI Consulting Assistant,https://www.gotomarket-ai.com/,-1,"Cannot connect to host www.gotomarket-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Recipeasy,AI Cooking Assistant,https://recipeasy.xyz/,404,
+Kazava,AI Dating Assistant,https://kazava.ai/,-1,"Cannot connect to host kazava.ai:443 ssl:default [nodename nor servname provided, or not known]"
+ImprovalAI,AI Image Enhancer,https://improvalai.com/,-1,"Cannot connect to host improvalai.com:443 ssl:default [nodename nor servname provided, or not known]"
+TravelGenie,AI Trip Planner,https://travelgenie.world/,404,
+Taste Bud,AI Cooking Assistant,https://taste-bud.io/,-1,Connection timeout to host https://taste-bud.io/
+Hai,AI Dating Assistant,https://www.hai.xyz/,-1,"Cannot connect to host www.hai.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+CharmedAI,AI Game Assistant,https://charmed.ai/,-1,"Cannot connect to host charmed.ai:443 ssl:default [nodename nor servname provided, or not known]"
+TheB.AI,Large Language Models (LLMs),https://www.theb.ai/,-1,"Cannot connect to host www.theb.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Dymaxion,AI Design Generator,https://www.dymaxion.design/,-1,"Cannot connect to host www.dymaxion.design:443 ssl:default [nodename nor servname provided, or not known]"
+Cambrean,AI Monitor & Report Builder,https://cambrean.com/,404,
+Wizilink,AI Project Manager,https://wizilink.ai/,-1,"Cannot connect to host wizilink.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Drafts AI,AI SEO Optimizer,https://drafts.sh/,-1,Connection timeout to host https://drafts.sh/
+TripZi,AI Trip Planner,http://trytripzi.com/,404,
+Magicsnap,AI Profile Picture Generator,https://magicsnap.ai/,404,
+Repodex,AI Code Refactoring,https://www.repodex.ai/,-1,"Cannot connect to host www.repodex.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Waspnote,AI Note-Taking Assistant,https://waspnote.com/,-1,"Cannot connect to host www.waspnote.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.wa"
+GoWhisper,AI Roadmap Generator,https://gowhisper.io/,-1,"Cannot connect to host gowhisper.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+Imcaption,Captions & Subtitle Generator,https://imcaption.com/,-1,"Cannot connect to host imcaption.com:443 ssl:default [nodename nor servname provided, or not known]"
+ListenMonster,AI Audio Enhancer,https://listenmonster.com/,521,
+Investor Radar,Investing Assistant,https://investorradar.io/,-1,Connection timeout to host https://investorradar.io/
+AskMore,AI Interview Coach,https://askmore.ai/,503,
+Take Care,AI Healthcare Advisor,https://www.takecare.uk/,-1,Connection timeout to host https://www.takecare.uk/
+Moemate,AI Profile Picture Generator,https://www.moemate.io/,-1,"Cannot connect to host www.moemate.io:443 ssl:default [nodename nor servname provided, or not known]"
+Old English Translator,Translation Assistant,https://oldenglishtranslator.one/,-1,"Cannot connect to host oldenglishtranslator.one:443 ssl:default [nodename nor servname provided, or not known]"
+Expify.AI,AI Tools Directory,https://www.expify.ai/,-1,Connection timeout to host https://www.expify.ai/
+Meeting Summarizer,AI Meeting Assistant,https://meetingsummarizer.com/,-1,"Cannot connect to host meetingsummarizer.com:443 ssl:default [nodename nor servname provided, or not known]"
+LLMFORMAT.COM,AI Code Assistant,https://www.llmformat.com/,-1,"Cannot connect to host www.llmformat.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.l"
+Website,AI Dating Assistant,https://www.sexpertai.com/,404,
+ideator.dev,AI Business Ideas Generator,https://ideator.dev/,-1,"Cannot connect to host ideator.dev:443 ssl:default [nodename nor servname provided, or not known]"
+Coverwraiter,Cover Letter Generator,https://www.coverwraiter.com/,-1,"Cannot connect to host www.coverwraiter.com:443 ssl:default [nodename nor servname provided, or not known]"
+Magic Profile,AI Dating Assistant,https://magicprofile.ai/,-1,"Cannot connect to host magicprofile.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Triplay.ai,AI Trip Planner,https://triplay.ai/,-1,"Cannot connect to host triplay.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Meet Mine AI,AI Character,https://meetmine.ai/,-1,"Cannot connect to host meetmine.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Automated Trading Portfolios,AI Trading Bot,https://lendalcopy.com/,-1,"Cannot connect to host lendalcopy.com:443 ssl:default [nodename nor servname provided, or not known]"
+Texthub AI,AI Blog Writer,https://www.texthubai.com/,-1,Cannot connect to host www.texthubai.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+SkillOk,Cover Letter Generator,https://skillok.app/,-1,Connection timeout to host https://skillok.app/
+Amazing.cv,Resume Builder,https://amazing.cv/,-1,"Cannot connect to host amazing.cv:443 ssl:default [nodename nor servname provided, or not known]"
+OpenChat,AI Business Ideas Generator,https://openchatjobs.com/,-1,"Cannot connect to host openchatjobs.com:443 ssl:default [nodename nor servname provided, or not known]"
+Passarel,AI Knowledge Base,https://www.passarel.app/,-1,"Cannot connect to host www.passarel.app:443 ssl:default [nodename nor servname provided, or not known]"
+Savvy Planning Systems,AI Project Manager,https://savvy-systems.com/,-1,"Cannot connect to host savvy-systems.com:443 ssl:default [nodename nor servname provided, or not known]"
+charades.ai,AI Game Assistant,https://charades.ai/,-1,"Cannot connect to host charades.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'charades.ai"
+Math-X,Homework Helper,https://www.xmath.ai/,-1,"Cannot connect to host www.xmath.ai:443 ssl:default [nodename nor servname provided, or not known]"
+ApplyWiz Job Automations,AI Recruiting Assistant,https://apply-wiz.com/,-1,"Cannot connect to host apply-wiz.com:443 ssl:default [Connect call failed ('104.222.253.239', 443)]"
+Nextminds,AI Coaching,https://www.nextminds.in/,-1,"Cannot connect to host www.nextminds.in:443 ssl:default [nodename nor servname provided, or not known]"
+Notion Chatbot,AI Knowledge Base,https://lexy.so/,500,
+AI Text Insights,Code Explanation Tool,https://filechatai.com/,-1,"Cannot connect to host filechatai.com:443 ssl:default [nodename nor servname provided, or not known]"
+PDF Coach,AI Creative Writing,http://pdf.coach/,-1,Connection timeout to host http://pdf.coach/
+Strangify,AI Mental Health Support,https://strangify.com/,-1,"Cannot connect to host strangify.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Kaddo,AI Gift Idea Generator,https://kaddo.io/,-1,"Cannot connect to host kaddo.io:443 ssl:default [nodename nor servname provided, or not known]"
+Lorai,AI Cover Generator,https://www.lorai.art/,404,
+Yadget,AI Video Generator,https://yadget.co/,-1,"Cannot connect to host yadget.co:443 ssl:default [nodename nor servname provided, or not known]"
+Considerful,AI Team Collaboration Tool,https://considerful.com/,-1,"Cannot connect to host considerful.com:443 ssl:default [nodename nor servname provided, or not known]"
+PDFChat,AI PDF Processor,https://pdfchat.in/,-1,Cannot connect to host pdfchat.in:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+CodeStory,AI Code Refactoring,https://codestory.ai/,404,
+Raay,AI Form & Survey Creator,https://raay.io/,-1,"Cannot connect to host raay.io:443 ssl:default [nodename nor servname provided, or not known]"
+Backendflow,AI App Builder,https://backendflow.io/,-1,Cannot connect to host backendflow.io:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+ReviewMy.Design,AI Website Builder,https://www.reviewmy.design/,-1,"Cannot connect to host www.reviewmy.design:443 ssl:default [nodename nor servname provided, or not known]"
+Hailabs,AI Education Assistant,https://hailabs.ai/,-1,"Cannot connect to host hailabs.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Decorify.app,AI Interior & Room Designer,https://decorify.app/,404,
+digha.app,AI Task Manager,https://digha.app/,404,
+MeaningIn.Chat,Research Tool,https://www.meaningin.chat/,404,
+RoomInterior.Design,AI Interior & Room Designer,https://roominterior.design/,-1,"Cannot connect to host roominterior.design:443 ssl:default [nodename nor servname provided, or not known]"
+PostPad AI,AI Content Generator,https://postpadai.com/,-1,"Cannot connect to host postpadai.com:443 ssl:default [nodename nor servname provided, or not known]"
+PodExtra AI,AI Document Assistant,https://www.podextra.ai/,402,
+Modyfi,AI Website Designer,https://modyfi.com/,-1,"Cannot connect to host modyfi.com:443 ssl:default [nodename nor servname provided, or not known]"
+T4lky,AI Tutorial Creator,https://t4lky.com/,-1,"Cannot connect to host t4lky.com:443 ssl:default [nodename nor servname provided, or not known]"
+Nava AI,AI Consulting Assistant,https://www.trynava.ai/,404,
+CHCKR,AI Checker Essay,https://chckr.io/,-1,"Cannot connect to host chckr.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+CardSense,AI Image Scanner,https://cardsense.online/,-1,"Cannot connect to host cardsense.online:443 ssl:default [nodename nor servname provided, or not known]"
+Crivando,AI Ad Creative Generator,https://crivando.com/,502,
+NexMind,AI SEO Optimizer,https://www.nexmind.ai/,403,
+TravelGPT,AI Trip Planner,https://tragpt.com/,-1,Cannot connect to host tragpt.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+OLOCR,AI Speech Recognition,https://olocr.com/,429,
+Harmon - Your AI Coach,AI Life Coach,https://loo.fm/,-1,"Cannot connect to host loo.fm:443 ssl:default [nodename nor servname provided, or not known]"
+Metaphysic.ai,AI UGC Video Generator,https://www.metaphysic.ai/,-1,Connection timeout to host https://www.metaphysic.ai/
+AutoSEO,AI Content Repurposer,https://auto-seo.ai/,-1,"Cannot connect to host auto-seo.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Backdoms.com,Domain Name Generator,https://backdoms.com/,-1,"Cannot connect to host backdoms.com:443 ssl:default [nodename nor servname provided, or not known]"
+LiarLiar.ai - AI Lie Detector & Heart Rate Monitor,AI Content Detector,https://liarliar.pro/,-1,"Cannot connect to host liarliar.pro:443 ssl:default [nodename nor servname provided, or not known]"
+AI Tweet Generator,AI Twitter Marketing Assistant,https://thechickenapp.com/,-1,"Cannot connect to host thechickenapp.com:443 ssl:default [nodename nor servname provided, or not known]"
+Room Redesigner,AI Interior & Room Designer,https://interiorpup.com/,-1,"Cannot connect to host interiorpup.com:443 ssl:default [Connect call failed ('104.222.253.197', 443)]"
+Mailwave AI,Newsletter Generator,https://mailwave.ai/,-1,"Cannot connect to host mailwave.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Explorerg,AI Trip Planner,https://www.explorerg.com/,502,
+Yoit,AI Search Engine,https://www.yoit.style/,-1,Cannot connect to host www.yoit.style:443 ssl:default [None]
+Mujtama,AI Recruiting Assistant,https://mujtama.ai/en,-1,Connection timeout to host https://mujtama.ai/en
+Ai Prompt Search,Prompt,https://www.aipromptsearch.net/,-1,"Cannot connect to host www.aipromptsearch.net:443 ssl:default [nodename nor servname provided, or not known]"
+Unreal Images,Image to Image Converter,https://unrealimages.com/,403,
+Talkzy,AI Meeting Assistant,https://talkzy.app/,-1,"Cannot connect to host talkzy.app:443 ssl:default [Connect call failed ('138.68.92.24', 443)]"
+GetOnboard,Code Explanation Tool,https://getonboard.dev/,-1,"Cannot connect to host getonboard.dev:443 ssl:default [nodename nor servname provided, or not known]"
+ioAudio,AI Audio Enhancer,https://ioaudio.ai/,-1,Connection timeout to host https://ioaudio.ai/
+Linkable,E-commerce Assistant,https://linkable.so/,404,
+Swiftly AI,AI Recruiting Assistant,https://swiftlyai.co/,-1,"Cannot connect to host swiftlyai.co:443 ssl:default [nodename nor servname provided, or not known]"
+LaunchKnight,AI Monitor & Report Builder,https://launchknight.com/,404,
+Palm - Competency and Career Management Platform,AI Consulting Assistant,https://palm-app.ai/,404,
+RealChar,AI Character,https://realchar.ai/,502,
+Innov8iq,AI Presentation Generator,https://innov8iq.com/,-1,Connection timeout to host https://innov8iq.com/
+AbraJobs,AI Bio Generator,https://abrajobs.cc/,-1,"Cannot connect to host abrajobs.cc:443 ssl:default [nodename nor servname provided, or not known]"
+Cover Letter Copilot,Cover Letter Generator,https://coverlettercopilot.ai/,429,
+Voicefy,AI Celebrity Voice Generator,https://www.voicefy.com.br/,-1,Connection timeout to host https://www.voicefy.com.br/
+INVT AI,Investing Assistant,https://www.invt.ai/,402,
+Sincerely Karen Complaint Email Generator,AI Email Writer,https://sincerelykaren.net/,-1,"Cannot connect to host sincerelykaren.net:443 ssl:default [nodename nor servname provided, or not known]"
+AI Sentence,AI Rewriter,https://aisentence.net/,404,
+Melior AI,AI Contract Management,https://melior.ai/,-1,"Cannot connect to host melior.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AdGenerator.Pro,AI Ad Generator,https://adgenerator.pro/,-1,"Cannot connect to host adgenerator.pro:443 ssl:default [nodename nor servname provided, or not known]"
+Storytailor,AI Story Writing,https://storytailor.ai/,-1,Cannot connect to host storytailor.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+AI Art Images,Image to Image Converter,https://gratisgraphics.com/,403,
+GREMI,AI SEO Optimizer,https://gremi.app/,404,
+Yanshoof,AI Interview Coach,https://yanshoof.ai/,-1,"Cannot connect to host yanshoof.ai:443 ssl:default [nodename nor servname provided, or not known]"
+curioustone,AI Recipe Generator,https://curioustone.io/,-1,"Cannot connect to host curioustone.io:443 ssl:default [nodename nor servname provided, or not known]"
+AI Pet Photos,Image to Image Converter,https://aipetphotos.com/,-1,"Cannot connect to host aipetphotos.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aipetph"
+Dollar Blog,AI Blog Writer,https://dollarblog.ai/,-1,"Cannot connect to host dollarblog.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Smary.Pro,Summarizer,https://smary.pro/,-1,"Cannot connect to host smary.pro:443 ssl:default [nodename nor servname provided, or not known]"
+EazyTrip AI,AI Trip Planner,https://www.easytrip-ai.com/,-1,"Cannot connect to host www.easytrip-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+SeniorDev,Code Explanation Tool,https://www.seniordev.ai/,-1,"Cannot connect to host www.seniordev.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Corvus Link,AI Consulting Assistant,https://www.corvuslink.com/,-1,"Cannot connect to host www.corvuslink.com:443 ssl:default [nodename nor servname provided, or not known]"
+Lingoedit,AI Grammar Checker,https://www.lingoedit.com/,-1,"Cannot connect to host www.lingoedit.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+Aire,AI Interview Coach,https://airebot.live/,-1,"Cannot connect to host airebot.live:443 ssl:default [nodename nor servname provided, or not known]"
+Eazy Editor,AI Background Remover,https://eazyeditor.com/,-1,"Cannot connect to host eazyeditor.com:443 ssl:default [nodename nor servname provided, or not known]"
+Auspicious Recipes,AI Cooking Assistant,https://auspiciousrecipes.com/,-1,"Cannot connect to host auspiciousrecipes.com:443 ssl:default [nodename nor servname provided, or not known]"
+Voice Jacket,AI Celebrity Voice Generator,https://voicejacket.com/,-1,"Cannot connect to host voicejacket.com:443 ssl:default [nodename nor servname provided, or not known]"
+WriteAI.tech,Sales Assistant,https://writeai.tech/,-1,"Cannot connect to host writeai.tech:443 ssl:default [nodename nor servname provided, or not known]"
+Assist Desk,AI Customer Service Assistant,https://www.assistdesk.in/,-1,"Cannot connect to host www.assistdesk.in:443 ssl:default [nodename nor servname provided, or not known]"
+AI-Translate,Translation Assistant,https://ai-translate.pro/,403,
+Magicast.ai,AI Podcast Assistant,https://www.magicast.ai/,-1,"Cannot connect to host www.magicast.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AI Advantage,AI Consulting Assistant,https://aiadvantage.com.au/,404,
+Promptrr.io - AI Prompt Marketplace,Prompt,https://promptrr.io/,526,
+IconAI,AI Icon Designer,https://iconai.co/,404,
+UNIQR,AI Ad Creative Generator,https://uniqr.us/,404,
+PAK'nSAVE Savey Meal-Bot,AI Cooking Assistant,https://saveymeal-bot.co.nz/,-1,"Cannot connect to host saveymeal-bot.co.nz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+Applicate,AI App Builder,https://www.applicate.biz/,-1,"Cannot connect to host www.applicate.biz:443 ssl:default [nodename nor servname provided, or not known]"
+M1-Chat,No-Code & Low-Code Platform,https://m1-chat.com/,-1,"Cannot connect to host m1-chat.com:443 ssl:default [nodename nor servname provided, or not known]"
+askwise.ai,AI Knowledge Base,https://askwise.ai/,-1,"Cannot connect to host askwise.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AI Analytics Platform,AI Data Mining,https://aianalytica.in/,-1,"Cannot connect to host aianalytica.in:443 ssl:default [nodename nor servname provided, or not known]"
+Talk To Your Ex,AI Dating Assistant,https://talktoyourex.com/,404,
+Tango,AI Contract Management,https://www.tangoagreements.com/,-1,Cannot connect to host www.tangoagreements.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Avath App,AI Anime Art Creator,https://avath.app/,-1,"Cannot connect to host avath.app:443 ssl:default [nodename nor servname provided, or not known]"
+GreenSuggest,AI Content Repurposer,https://greensuggest.com/,-1,Connection timeout to host https://greensuggest.com/
+AdCopy,AI Ad Creative Generator,https://www.adcopy.online/,-1,"Cannot connect to host www.adcopy.online:443 ssl:default [nodename nor servname provided, or not known]"
+PosterStudio,AI Ad Creative Generator,https://posterstudio.ai/,-1,"Cannot connect to host posterstudio.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'posters"
+Sonara: Automated Job Search & Applications with AI,AI Interview Coach,https://www.sonara.ai/,-1,Timeout on reading data from socket
+Instancy Learning Platform and Social Learning Network,AI Tutorial Creator,https://instancy.com/,-1,Cannot connect to host instancy.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Chat2Course.com,AI Course Creator,https://aigeneratedcourses.com/,-1,"Cannot connect to host aigeneratedcourses.com:443 ssl:default [nodename nor servname provided, or not known]"
+GhostPosts,AI Response Generator,https://www.ghostposts.ai/,-1,"Cannot connect to host www.ghostposts.ai:443 ssl:default [nodename nor servname provided, or not known]"
+CreateBookAI,AI Book Writing,https://createbookai.com/,-1,Cannot connect to host createbookai.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+SOMA: Research Automation Platform,Research Tool,https://soma.science/,-1,Connection timeout to host https://soma.science/
+Validator,AI Game Assistant,https://tryvalidator.com/,-1,"Cannot connect to host tryvalidator.com:443 ssl:default [nodename nor servname provided, or not known]"
+Geometrik,AI Trip Planner,https://begeometrik.com/,404,
+Schedule AI,AI Customer Service Assistant,https://scheduleai.co/,-1,"Cannot connect to host scheduleai.co:443 ssl:default [nodename nor servname provided, or not known]"
+Car Sales Descriptions AI,AI Lead Generation,https://carlingo.app/,-1,"Cannot connect to host carlingo.app:443 ssl:default [Connect call failed ('217.70.184.38', 443)]"
+VidGenius,Text to Video Generator,https://www.vidgeniusai.com/,-1,Connection timeout to host https://www.vidgeniusai.com/
+Prog.AI,AI Recruiting Assistant,https://prog.ai/,-1,"Cannot connect to host prog.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Aginsi,Research Tool,https://aginsi.com/,-1,"Cannot connect to host aginsi.com:443 ssl:default [nodename nor servname provided, or not known]"
+Leftovers: Endless Recipes using AI,AI Cooking Assistant,https://leftovers-ai.com/,-1,"Cannot connect to host leftovers-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Boost My Resume | Powered by AI,Resume Builder,https://boostmyresume.io/,530,
+Potato,Investing Assistant,https://potato.trade/,-1,"Cannot connect to host potato.trade:443 ssl:default [nodename nor servname provided, or not known]"
+Metapix,AI Photo Restoration,https://metapix.me/,-1,"Cannot connect to host metapix.me:443 ssl:default [nodename nor servname provided, or not known]"
+Arch-E,Image to Image Converter,https://arch-e.ai/,402,
+Sonar,AI Social Media Manager,https://www.sonarinsights.ai/,-1,Cannot connect to host www.sonarinsights.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Connections Hint,AI Content Generator,https://connectionshint.ai/,404,
+Walle - Payments for Agents,Other,https://www.usewalle.com/,-1,"Cannot connect to host www.usewalle.com:443 ssl:default [nodename nor servname provided, or not known]"
+CodeFromImage,AI Code Generator,https://codefromimage.com/,-1,"Cannot connect to host codefromimage.com:443 ssl:default [nodename nor servname provided, or not known]"
+Wonder Dynamics,AI Lip Sync Generator,https://wonderdynamics.com/,-1,Timeout on reading data from socket
+Code Explain,AI Code Assistant,https://whatdoesthiscodedo.com/,404,
+Kairos GPT,Investing Assistant,http://kairosgpt.com/,-1,"Cannot connect to host www.kairosgpt.com:80 ssl:default [nodename nor servname provided, or not known]"
+Fix Blurry Photos,AI Image Enhancer,https://fixblurry.photos/,-1,"Cannot connect to host fixblurry.photos:443 ssl:default [nodename nor servname provided, or not known]"
+TMRA - The Most Ridiculous Adventure ever told,Novel Generator,https://tmra.ai/,-1,Connection timeout to host https://tmra.ai/
+Manga TV,AI Manga & Comic Creator,https://mangatv.shop/,-1,"Cannot connect to host mangatv.shop:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mangatv.sh"
+Ainsys,AI API Designer,https://ainsys.com/,-1,Cannot connect to host ainsys.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Copycop AI,AI Ad Creative Generator,https://copycopai.com/,403,
+CFReview.ai,AI Review Assistant,https://cfreview.ai/,-1,"Cannot connect to host cfreview.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Word Dose,AI Word Processor,https://worddose.app/,-1,"Cannot connect to host worddose.app:443 ssl:default [nodename nor servname provided, or not known]"
+BabaSelo.com,AI Cooking Assistant,https://www.babaselo.com/,404,
+resume-ai,Cover Letter Generator,https://resume-ai.me/,-1,"Cannot connect to host resume-ai.me:443 ssl:default [nodename nor servname provided, or not known]"
+Heartfly,AI Dating Assistant,https://heartfly.app/,403,
+Wingfling,AI Dating Assistant,https://www.wingfling.ai/,-1,"Cannot connect to host www.wingfling.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Plantrips,AI Trip Planner,https://plantrips.net/,-1,"Cannot connect to host plantrips.net:443 ssl:default [nodename nor servname provided, or not known]"
+HealthGPT.Plus,AI Healthcare Advisor,https://healthgpt.plus/,-1,"Cannot connect to host healthgpt.plus:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'healthgp"
+macOS GPT-LLM Playground,Prompt,https://thellm.app/,-1,"Cannot connect to host thellm.app:443 ssl:default [nodename nor servname provided, or not known]"
+Lobby Code - The Most Helpful Coding Assistant on Earth,AI API Designer,https://code.lobby.so/,-1,"Cannot connect to host code.lobby.so:443 ssl:default [nodename nor servname provided, or not known]"
+Simplif.ai,Code Explanation Tool,https://www.mysimplifai.com/,-1,"Cannot connect to host www.mysimplifai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Name Generator,AI Tools Directory,https://namegeneratorplus.com/,-1,Connection timeout to host https://namegeneratorplus.com/
+SQLthroughAI,AI SQL Query Builder,https://sqltroughai.com/,-1,Connection timeout to host https://sqltroughai.com/
+AI Feedback,AI Website Builder,https://simpliux.com/,-1,"Cannot connect to host simpliux.com:443 ssl:default [nodename nor servname provided, or not known]"
+Idea Generator,AI Business Ideas Generator,https://www.ideagenerator.ai/,-1,"Cannot connect to host www.ideagenerator.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Mai Writer,AI Consulting Assistant,https://www.maiwriter.com/,-1,Cannot connect to host www.maiwriter.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+OpenRead,Research Tool,https://www.openread.academy/,429,
+Delineate - Predictive AI for Revenue Teams,Sales Assistant,https://www.delineate.co/,404,
+Joypanner,AI Education Assistant,https://www.joypanner.com/,-1,"Cannot connect to host www.joypanner.com:443 ssl:default [nodename nor servname provided, or not known]"
+Libraria,AI Knowledge Base,https://libraria.dev/,503,
+Fit Learn,AI Tutorial Creator,https://www.fit-learn.com/,-1,"Cannot connect to host www.fit-learn.com:443 ssl:default [nodename nor servname provided, or not known]"
+HowToWrite.io,AI Creative Writing,https://howtowrite.io/,404,
+PromptReply,AI Reply Assistant,https://www.promptreply.ai/,404,
+AI Desk,AI Customer Service Assistant,https://aidesk.pro/,404,
+Trag,AI Code Assistant,https://usetrag.com/,404,
+Code2.AI,AI Code Generator,https://code2.ai/,-1,"Cannot connect to host code2.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'code2.ai'. (_s"
+Magic Meme,AI Content Generator,https://magicmeme.app/,-1,"Cannot connect to host magicmeme.app:443 ssl:default [nodename nor servname provided, or not known]"
+Streamin AI,AI Fun Tools,https://recs.streamin.co/,429,
+ChatGPT O1,AI Content Generator,https://chatgpt-o1.com/,-1,"Cannot connect to host chatgpt-o1.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chatgpt-"
+AI Stage,AI Tools Directory,https://aistage.net/,403,
+Travisnine,AI Twitter Marketing Assistant,https://travisnine.com/,-1,"Cannot connect to host travisnine.com:443 ssl:default [nodename nor servname provided, or not known]"
+Reacti.ai,AI Twitter Marketing Assistant,https://reacti.ai/,-1,"Cannot connect to host reacti.ai:443 ssl:default [nodename nor servname provided, or not known]"
+ClarityClips,AI YouTube Marketing Assistant,https://www.clarityclips.com/,-1,"Cannot connect to host www.clarityclips.com:443 ssl:default [nodename nor servname provided, or not known]"
+SpeakAide - AI teleprompter,AI Video Recording,https://speakaide.com/,-1,"Cannot connect to host speakaide.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Profile Crafter,AI Bio Generator,https://profilecrafter.com/,-1,Connection timeout to host https://profilecrafter.com/
+Socratic,AI Project Manager,https://socraticworks.com/,-1,"Cannot connect to host socraticworks.com:443 ssl:default [nodename nor servname provided, or not known]"
+Calorease,AI Fitness Trainer,https://calorease.in/,-1,"Cannot connect to host calorease.in:443 ssl:default [nodename nor servname provided, or not known]"
+Grafi AI,AI Healthcare Advisor,https://www.grafi.ai/,-1,"Cannot connect to host www.grafi.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Zazzani AI,AI Productivity Tools,https://zazzani.com/,-1,"Cannot connect to host zazzani.com:443 ssl:default [Connect call failed ('185.213.17.143', 443)]"
+Fignel,AI Website Designer,https://www.fignel.com/,-1,"Cannot connect to host www.fignel.com:443 ssl:default [nodename nor servname provided, or not known]"
+InterviewJam,AI Interview Coach,https://interviewjam.io/,404,
+Swoon Chat,AI Dating Assistant,https://www.swoon.chat/,404,
+KlynInterviewer,AI Interview Coach,https://www.klyninterviewer.com/,-1,"Cannot connect to host www.klyninterviewer.com:443 ssl:default [nodename nor servname provided, or not known]"
+AudioNinja,AI Audio Enhancer,https://theaudioninja.com/,-1,"Cannot connect to host theaudioninja.com:443 ssl:default [nodename nor servname provided, or not known]"
+Sentient.email,AI Email Generator,https://sentient.email/,-1,"Cannot connect to host sentient.email:443 ssl:default [nodename nor servname provided, or not known]"
+Warmest.ai,AI Email Marketing Assistant,https://warmest.ai/,-1,Cannot connect to host warmest.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Cover Letter Tools,Cover Letter Generator,https://www.coverletter.tools/,-1,"Cannot connect to host www.coverletter.tools:443 ssl:default [nodename nor servname provided, or not known]"
+Prepar | Intelligent Study Management,AI Project Manager,https://prepar.me/,-1,"Cannot connect to host prepar.me:443 ssl:default [nodename nor servname provided, or not known]"
+AI Color Palette Generator,AI Art Generator,https://aicolors.co/,403,
+More Views AI,AI Thumbnail Maker,https://moreviews.ai/,-1,Connection timeout to host https://moreviews.ai/
+Meetz,AI Scheduling Assistant,https://meetz.ai/,-1,Timeout on reading data from socket
+AI-Adventures,AI Trip Planner,https://ai-adventures.com/,404,
+SommerAI: Your Mental Health Companion,AI Healthcare Advisor,http://www.sommerai.com/,404,
+Naval AI,AI Life Coach,https://navalai.co/,403,
+DebugCode.AI,AI Code Assistant,https://debugcode.ai/,-1,Cannot connect to host debugcode.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Lettergram,AI Creative Writing,https://lettergram.net/,-1,"Cannot connect to host lettergram.net:443 ssl:default [nodename nor servname provided, or not known]"
+Rticolo,Domain Name Generator,https://rticolo.com/,-1,"Cannot connect to host rticolo.com:443 ssl:default [nodename nor servname provided, or not known]"
+Story Generator,AI Story Writing,https://storiesgenerator.com/,-1,Connection timeout to host https://storiesgenerator.com/
+Humans of Generative Art,Newsletter Generator,https://www.hoga.love/,-1,"Cannot connect to host www.hoga.love:443 ssl:default [nodename nor servname provided, or not known]"
+Datr AI,AI Dating Assistant,https://datr.ai/,-1,"Cannot connect to host datr.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+AI Character Headcanon Generator,AI Creative Writing,https://character-headcanon-generator.com/,-1,Cannot connect to host character-headcanon-generator.com:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+SimplyBudget,AI Accounting Assistant,http://simplybudget.me/,-1,"Cannot connect to host simplybudget.me:80 ssl:default [nodename nor servname provided, or not known]"
+Molmo AI,Other,https://molmoai.org/,403,
+ComfyUIAsAPI,AI API Designer,https://comfyuiasapi.com/,-1,"Cannot connect to host comfyuiasapi.com:443 ssl:default [nodename nor servname provided, or not known]"
+PixelDance,AI Animated Video Creator,https://pixeldance.me/,-1,"Cannot connect to host pixeldance.me:443 ssl:default [nodename nor servname provided, or not known]"
+ScriptMe,AI Audio Enhancer,https://scriptme.io/,418,
+Dr.Tail,AI Consulting Assistant,https://www.drtail.us/,403,
+Your AI Wingman,Domain Name Generator,https://www.your-ai-wingman.com/,-1,"Cannot connect to host www.your-ai-wingman.com:443 ssl:default [nodename nor servname provided, or not known]"
+AskEdith,AI SQL Query Builder,https://www.askedith.ai/,-1,Cannot connect to host www.askedith.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Novel,Novel Generator,https://novel.page/,-1,"Cannot connect to host novel.page:443 ssl:default [nodename nor servname provided, or not known]"
+AI-Powered Recruitment,AI Recruiting Assistant,https://www.rework.club/,-1,"Cannot connect to host www.rework.club:443 ssl:default [nodename nor servname provided, or not known]"
+bonMyVoyage,AI Trip Planner,https://bonmyvoyage.com/,404,
+Parallel | AI-Powered Google Ads Co-Pilot,AI Ad Creative Generator,https://www.withparallel.ai/,429,
+Fantoons,AI Character,https://fantoons.xyz/,-1,"Cannot connect to host fantoons.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+Church AI,AI Character,https://churchai.xyz/,-1,"Cannot connect to host churchai.xyz:443 ssl:default [Connect call failed ('138.68.0.205', 443)]"
+Stocked AI,AI Trading Bot,https://www.stockedai.com/,-1,"Cannot connect to host www.stockedai.com:443 ssl:default [nodename nor servname provided, or not known]"
+MapDeduce,AI Documents Assistant,https://mapdeduce.com/,-1,"Cannot connect to host mapdeduce.com:443 ssl:default [nodename nor servname provided, or not known]"
+Faith Forward,AI Religious Guide,https://www.faithforward.app/,-1,"Cannot connect to host www.faithforward.app:443 ssl:default [nodename nor servname provided, or not known]"
+PDF Talk,AI PDF Processor,https://pdf-talk.com/,526,
+PresentWizard,AI Gift Idea Generator,https://www.presentwizard.com/,-1,Connection timeout to host https://www.presentwizard.com/
+MagikSystem,AI Ad Generator,https://magiksystem.com/,-1,"Cannot connect to host magiksystem.com:443 ssl:default [nodename nor servname provided, or not known]"
+EzMail.AI,AI Email Marketing Assistant,https://www.ezmail.ai/,-1,"Cannot connect to host www.ezmail.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Insightful Feedback,AI Form & Survey Creator,https://www.deepreview.io/,-1,"Cannot connect to host www.deepreview.io:443 ssl:default [nodename nor servname provided, or not known]"
+Teaming,AI Team Collaboration Tool,https://www.teaming.com/,-1,Cannot connect to host www.teaming.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Paxo,AI Meeting Assistant,https://www.paxo.ai/,404,
+DataFit.AI,Prompt,http://datafit.ai/,521,
+DatingbyAI,AI Dating Assistant,https://datingbyai.com/,-1,"Cannot connect to host datingbyai.com:443 ssl:default [nodename nor servname provided, or not known]"
+AItinerary,AI Trip Planner,https://www.aitinerary.ai/,-1,"Cannot connect to host www.aitinerary.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Logoscapes.ai,AI Cover Generator,https://logoscapes.ai/,-1,"Cannot connect to host logoscapes.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Grading Copilot,Essay Writer,https://lazyteacher.ai/,-1,"Cannot connect to host lazyteacher.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Hollo Talent Acquisition Suite,AI Recruiting Assistant,https://hollo.io/,404,
+Perfect Resume,Resume Builder,https://perfectresume.app/,-1,"Cannot connect to host perfectresume.app:443 ssl:default [nodename nor servname provided, or not known]"
+RosyWhale,AI Roadmap Generator,https://www.rosywhale.com/,-1,"Cannot connect to host www.rosywhale.com:443 ssl:default [nodename nor servname provided, or not known]"
+ChatGPT,AI Chatbot,https://thechatgpt.ai/,-1,Connection timeout to host https://thechatgpt.ai/
+Patterns,AI App Builder,https://www.patterns.app/,402,
+Barrs AI,AI Rap Generator,https://barrs.cloud/,-1,"Cannot connect to host barrs.cloud:443 ssl:default [nodename nor servname provided, or not known]"
+Outerbase,AI SQL Query Builder,https://www.outerbase.com/,-1,"Cannot connect to host www.outerbase.com:443 ssl:default [nodename nor servname provided, or not known]"
+babs.ai,AI Education Assistant,https://babs.ai/,500,
+AI Album Cover,AI Cover Generator,https://aialbumcover.com/,-1,Cannot connect to host aialbumcover.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Numberly,AI Productivity Tools,https://www.numberly.app/,-1,"Cannot connect to host www.numberly.app:443 ssl:default [nodename nor servname provided, or not known]"
+Spiritme,AI Animated Video Creator,https://spiritme.tech/,-1,Cannot connect to host spiritme.tech:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Neolocus - AI Renders,AI Interior & Room Designer,https://neolocus.ai/account,404,
+Founder Mode Checker,AI Analytics Assistant,https://thewebsiteroast.com/foundermode,-1,"Cannot connect to host thewebsiteroast.com:443 ssl:default [nodename nor servname provided, or not known]"
+Micro SaaS GPT,AI Business Ideas Generator,https://microsaasgpt.com/,-1,Timeout on reading data from socket
+CodeComplete: AI Coding Assistant for Enterprise,AI Code Assistant,https://www.codecomplete.ai/,404,
+WordPlus.ai,AI Response Generator,https://wordplus.ai/,-1,"Cannot connect to host wordplus.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Plexo,AI Project Manager,https://plexo.app/,-1,"Cannot connect to host plexo.app:443 ssl:default [nodename nor servname provided, or not known]"
+Notelier,AI Checker Essay,https://notelierai.com/,-1,Connection timeout to host https://notelierai.com/
+AI Palette,AI Colorizer,https://ai-palettes.com/,-1,"Cannot connect to host ai-palettes.com:443 ssl:default [nodename nor servname provided, or not known]"
+Loulou Investments Limited,AI Trading Bot,https://loulouinvt.com/,-1,Connection timeout to host https://loulouinvt.com/
+Insight Bible,AI Religious Guide,https://insightbible.ai/,-1,"Cannot connect to host insightbible.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Privee - AI NSFW chats,NSFW Content Generator,https://privee.fun/,503,
+Interested In AI,AI Tools Directory,https://www.interestedinai.com/,-1,Connection timeout to host https://www.interestedinai.com/
+wenDues,AI Productivity Tools,https://wendues.com/,-1,"Cannot connect to host wendues.com:443 ssl:default [nodename nor servname provided, or not known]"
+SpellBound,Writing Assistants,https://spellbound.cc/,-1,Connection timeout to host https://spellbound.cc/
+StoryPanda,AI Story Writing,https://storypanda.ai/,-1,"Cannot connect to host storypanda.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Writero,AI Creative Writing,https://www.writero.art/,-1,Cannot connect to host www.writero.art:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Writebot,AI Tutorial Creator,https://writebot.app/,-1,"Cannot connect to host writebot.app:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'writebot.a"
+SpaceSerp,AI API Designer,https://spaceserp.com/,502,
+ChatGPT Gifts,AI Gift Idea Generator,https://findgift.fun/,-1,"Cannot connect to host findgift.fun:443 ssl:default [nodename nor servname provided, or not known]"
+Hey Mike's Beta,AI Mental Health Support,https://sayheymike.com/,-1,"Cannot connect to host sayheymike.com:443 ssl:default [nodename nor servname provided, or not known]"
+Stork,AI Team Collaboration Tool,https://www.stork.ai/,429,
+Captionit - Instagram Caption Generator,AI Instagram Marketing Assistant,https://captionit.ai/,-1,Cannot connect to host captionit.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+A.I. Cover Letter,Cover Letter Generator,https://www.aicoverletter.xyz/,-1,"Cannot connect to host www.aicoverletter.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+Bookmate.ai,AI Book Writing,https://www.bookmateai.me/,-1,"Cannot connect to host www.bookmateai.me:443 ssl:default [nodename nor servname provided, or not known]"
+Pickr,AI Twitter Marketing Assistant,https://pickrsocial.com/,-1,"Cannot connect to host pickrsocial.com:443 ssl:default [Connect call failed ('172.82.161.45', 443)]"
+Comments Analytics,AI Analytics Assistant,https://commentsanalytics.com/,-1,Cannot connect to host commentsanalytics.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Fathom.fm,AI Search Engine,https://fathom.fm/,404,
+Superpowered AI,AI Knowledge Base,https://superpowered.ai/,-1,"Cannot connect to host superpowered.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Standard Retail,AI Monitor & Report Builder,https://standardretail.co/,403,"400, message='Got more than 8190 bytes (8820) when reading Header value is too long.', url='https://x.com/cameronsmith'"
+Pixcap - The design tool powered by 3D and AI,AI Content Generator,https://pixcap.com/,-1,"Cannot connect to host pixcap.com:443 ssl:default [nodename nor servname provided, or not known]"
+ZoomScape.ai,AI Wallpaper Generator,https://zoomscape.ai/,-1,"Cannot connect to host zoomscape.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'zoomscape."
+Docent,AI Knowledge Base,https://www.trydocent.ai/,-1,"Cannot connect to host www.trydocent.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SaleWhale,AI Customer Service Assistant,https://salewhale.chat/,-1,"Cannot connect to host salewhale.chat:443 ssl:default [nodename nor servname provided, or not known]"
+VeedoAI,AI Short Clips Generator,https://veedo.ai/,-1,"Cannot connect to host veedo.ai:443 ssl:default [Connect call failed ('5.161.58.235', 443)]"
+Job Magic Admin,AI Task Manager,https://www.sage.guide/,404,
+Donzo Recorder,AI Video Editor,https://donzorecorder.com/,-1,"Cannot connect to host donzorecorder.com:443 ssl:default [nodename nor servname provided, or not known]"
+Face Analysis for Attractiveness,AI Image Enhancer,https://faceanalysisattractiveness.online/,-1,"Cannot connect to host faceanalysisattractiveness.online:443 ssl:default [nodename nor servname provided, or not known]"
+TikTok Voice Generator,Text-to-Speech Converter,https://tiktokvoiceai.com/,-1,"Cannot connect to host tiktokvoiceai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Ai-Toolify Navigation: Best and Latest AI Tools of 2024,AI Tools Directory,https://ai-toolify.com/,-1,Connection timeout to host https://ai-toolify.com/
+PdfChat,AI Document Assistant,https://chatpdffree.com/,-1,"Cannot connect to host chatpdffree.com:443 ssl:default [nodename nor servname provided, or not known]"
+Visualize,Domain Name Generator,https://verb.art/,-1,"Cannot connect to host verb.art:443 ssl:default [nodename nor servname provided, or not known]"
+Quill AI,Investing Assistant,https://quillai.co/,-1,Connection timeout to host https://quillai.co/
+Barua AI,AI Email Marketing Assistant,https://baruaai.com/,-1,"Cannot connect to host baruaai.com:443 ssl:default [Connect call failed ('49.212.13.201', 443)]"
+Weesify,Bio Link Generator,https://weesify.com/,-1,"Cannot connect to host weesify.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'weesify.com"
+Email Creator,AI Email Generator,https://www.emailcreator.co/,-1,"Cannot connect to host www.emailcreator.co:443 ssl:default [nodename nor servname provided, or not known]"
+Aimbly,AI Meeting Assistant,https://aimbly.co/,404,
+"AI Cover Letters, Examples & Templates | coverletter.app",Cover Letter Generator,https://coverletter.app/,-1,Timeout on reading data from socket
+The Pippin Chrome Extension,Cover Letter Generator,https://pippinshelp.com/,404,
+Detangle,AI Audio Enhancer,https://detangle.ai/,403,
+CustomerReply,Domain Name Generator,https://getscott.io/,-1,Timeout on reading data from socket
+DeskFlow,AI Knowledge Base,https://www.deskflow.ai/,-1,"Cannot connect to host www.deskflow.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Trible,AI App Builder,https://trible.com/,-1,"Cannot connect to host trible.com:443 ssl:default [nodename nor servname provided, or not known]"
+Coohom,AI Interior & Room Designer,https://www.coohom.com/,404,
+OddBooks,AI Script Writing,https://oddbooks.kr/,-1,"Cannot connect to host oddbooks.kr:443 ssl:default [nodename nor servname provided, or not known]"
+Sapient.ai,AI Testing & QA,https://www.sapient.ai/,-1,"Cannot connect to host www.sapient.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Medheed,AI Healthcare Advisor,https://www.medheed.co/,-1,"Cannot connect to host www.medheed.co:443 ssl:default [nodename nor servname provided, or not known]"
+Sococal.ai,AI Social Media Manager,https://sococal.ai/,-1,Connection timeout to host https://sococal.ai/
+DecorAI,AI Interior & Room Designer,https://decorai.xyz/,-1,"Cannot connect to host decorai.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+VideoMuse,AI UGC Video Generator,https://www.videomuse.app/,-1,"Cannot connect to host www.videomuse.app:443 ssl:default [nodename nor servname provided, or not known]"
+ColorpaletteAI,AI Pattern Generator,https://colorpalette-ai.com/,-1,"Cannot connect to host colorpalette-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Takomo.ai,AI API Designer,https://www.takomo.ai/,404,
+MidaFlow,AI Accounting Assistant,https://www.midaflow.com/,-1,"Cannot connect to host www.midaflow.com:443 ssl:default [nodename nor servname provided, or not known]"
+ScholarTurbo,AI PDF Processor,https://scholarturbo.com/,-1,"Cannot connect to host scholarturbo.com:443 ssl:default [nodename nor servname provided, or not known]"
+Stella's Shopping Assistant,AI Gift Idea Generator,https://buysmart.ai/,503,
+Vagabond AI,AI Singing Voice Generator,https://www.vagabondai.com/,-1,"Cannot connect to host www.vagabondai.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+VNSplit,AI Speech Recognition,https://vnsplit.me/,-1,"Cannot connect to host vnsplit.me:443 ssl:default [nodename nor servname provided, or not known]"
+Zoocial,AI Facebook Marketing Assistant,https://zoocial.io/,404,
+Wole.AI,AI Creative Writing,https://wole.ai/,-1,"Cannot connect to host wole.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Craftmail AI,AI Email Generator,https://www.craftmailai.com/,-1,"Cannot connect to host www.craftmailai.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www"
+Prompt Hacker,AI Code Assistant,https://promptlabs.cc/,-1,Connection timeout to host https://promptlabs.cc/
+Kubee,AI Character,https://www.kubee.ai/creative,-1,"Cannot connect to host www.kubee.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Home - made with softr.io,AI Productivity Tools,https://usethisprompt.io/,-1,"Cannot connect to host usethisprompt.io:443 ssl:default [nodename nor servname provided, or not known]"
+Nonbot.org,AI Content Detector,https://nonbot.org/,503,
+Cracked,AI Animated Video Creator,https://www.cracked.so/,-1,"Cannot connect to host www.cracked.so:443 ssl:default [nodename nor servname provided, or not known]"
+AnyParser API,AI Document Assistant,https://www.cambioml.com/sandbox,404,
+StudyPack,AI Education Assistant,https://studypack.co/,-1,"Cannot connect to host studypack.co:443 ssl:default [nodename nor servname provided, or not known]"
+Rubber,AI App Builder,https://hubble.ai/,404,
+WarpSound,AI Music Generator,https://www.warpsound.ai/,404,
+TribalBase,AI Knowledge Base,https://tribalbase.ai/,-1,"Cannot connect to host tribalbase.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Articula,Translation Assistant,https://www.articula.ai/,-1,"Cannot connect to host www.articula.ai:443 ssl:default [Connect call failed ('172.210.249.86', 443)]"
+ClearPhrase,Paraphraser,https://www.clearphrase.io/,-1,"Cannot connect to host www.clearphrase.io:443 ssl:default [nodename nor servname provided, or not known]"
+EsyBlog,AI Blog Writer,https://esyblog.com/,-1,"Cannot connect to host esyblog.com:443 ssl:default [nodename nor servname provided, or not known]"
+TeacherToolsGPT,AI Education Assistant,https://www.quizwizardgpt.com/,-1,"Cannot connect to host www.quizwizardgpt.com:443 ssl:default [nodename nor servname provided, or not known]"
+Xero.AI,AI Data Mining,https://xerodotai.com/,-1,"Cannot connect to host xerodotai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Rangeen,AI Colorizer,https://www.rangeen.studio/,-1,Connection timeout to host https://www.rangeen.studio/
+Jobmind AI: Next-gen business tools,Cover Letter Generator,https://jobmindai.xyz/,-1,"Cannot connect to host jobmindai.xyz:443 ssl:default [Connect call failed ('23.226.8.179', 443)]"
+Quokka,AI Healthcare Advisor,https://www.quokka-ai.com/,-1,Cannot connect to host www.quokka-ai.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Pandarocket,E-commerce Assistant,https://www.pandarocket.ai/,-1,"Cannot connect to host www.pandarocket.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Holo AI,AI Book Writing,https://writeholo.com/,-1,"Cannot connect to host writeholo.com:443 ssl:default [nodename nor servname provided, or not known]"
+AlgoHack,Code Explanation Tool,https://algohack.app/,-1,"Cannot connect to host algohack.app:443 ssl:default [nodename nor servname provided, or not known]"
+Receipt-AI,AI Accounting Assistant,https://receipt-ai.com/,403,
+2pods,Domain Name Generator,https://www.2pods.net/,-1,"Cannot connect to host www.2pods.net:443 ssl:default [nodename nor servname provided, or not known]"
+ADXL,AI Advertising Assistant,https://www.adxl.ai/,-1,"Cannot connect to host www.adxl.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Emblify,AI Logo Generator,https://emblify.ai/,-1,"Cannot connect to host emblify.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Lease Lens,AI Contract Management,https://leaselens.ai/,-1,"Cannot connect to host leaselens.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AIDomainIdeas,Domain Name Generator,https://aidomainideas.com/,-1,"Cannot connect to host aidomainideas.com:443 ssl:default [nodename nor servname provided, or not known]"
+BFF,AI Life Coach,https://textbff.com/,-1,Connection timeout to host https://textbff.com/
+BeC,AI Email Marketing Assistant,https://www.bec-ai.com/,502,
+Formaloo,AI Form & Survey Creator,https://join.formaloo.com/mkwfvvbqfxn2,525,
+Marshmallow,AI Scheduling Assistant,https://marshmallow.lol/,-1,"Cannot connect to host marshmallow.lol:443 ssl:default [nodename nor servname provided, or not known]"
+Reflection 70B,AI Content Generator,https://reflection-ai.net/,-1,"Cannot connect to host reflection-ai.net:443 ssl:default [nodename nor servname provided, or not known]"
+YouTube Transcript,Speech-to-Text Converter,https://youtubetranscript.net/,404,
+Flag AI,AI Design Generator,https://flag-ai.app/,-1,"Cannot connect to host flag-ai.app:443 ssl:default [nodename nor servname provided, or not known]"
+Japanese Name Generator,AI Fun Tools,https://japanesenamegenerators.com/,402,
+Hoody,AI Chatbot,https://hoody.com/hoody-ai,404,
+YEMOai,AI Website Builder,https://yemoai.com/,-1,"Cannot connect to host yemoai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Nabubit,AI Developer Tools,https://nabubit.com/,-1,"Cannot connect to host nabubit.com:443 ssl:default [nodename nor servname provided, or not known]"
+Playground,AI Design Generator,https://playground.com/,403,
+Quicklisting,AI SEO Optimizer,https://quicklist.ing/,-1,"Cannot connect to host quicklist.ing:443 ssl:default [nodename nor servname provided, or not known]"
+AnyToPost,AI Productivity Tools,https://anytopost.com/,403,
+10xlaunch,AI Lead Generation,https://10xlaunch.ai/,404,
+FluxImage,Text to Image Generator,https://www.fluximage.pro/,-1,"Cannot connect to host www.fluximage.pro:443 ssl:default [nodename nor servname provided, or not known]"
+Eververse,AI Project Manager,https://www.eververse.ai/initiatives,404,
+AI Sound Effect Generator,AI Audio Enhancer,https://www.sound-effect-generator.com/,-1,"Cannot connect to host www.sound-effect-generator.com:443 ssl:default [nodename nor servname provided, or not known]"
+Next Alpha,Investing Assistant,https://nextalpha.xyz/,-1,"Cannot connect to host nextalpha.xyz:443 ssl:default [nodename nor servname provided, or not known]"
+Flux AI Image Generator,Text to Image Generator,https://fluxaiimage.net/,-1,"Cannot connect to host fluxaiimage.net:443 ssl:default [nodename nor servname provided, or not known]"
+Encounter AI Advisor,Sales Assistant,https://encounterai.com/advisor,404,
+AI Headshot Generator Free,AI Photo Enhancer,https://aiheadshotgeneratorfree.com/,-1,"Cannot connect to host aiheadshotgeneratorfree.com:443 ssl:default [nodename nor servname provided, or not known]"
+Aicado's GPT,AI Chatbot,https://aicado.ai/custom-chatbot-creator,404,
+FaceTune.ai,AI Music Generator,https://face-tune-fronte.vercel.app/,404,
+Tome,Legal Assistant,https://tome.com/,-1,"Cannot connect to host tome.com:443 ssl:default [nodename nor servname provided, or not known]"
+SUNO中文版,AI Music Generator,https://yourmusic.fun/,-1,Connection timeout to host https://yourmusic.fun/
+AI Chatbot Creator,AI Chatbot,https://chatcat-s1ny.onrender.com/,503,
+GigaBrain,AI Search Engine,https://thegigabrain.com/,-1,Cannot connect to host thegigabrain.com:443 ssl:default [None]
+Suno MP3 Downloader,AI Music Generator,https://suno-mp3-downloader.vercel.app/,404,
+Dome,AI Developer Tools,https://app.trydome.io/signup?flow=ai-sass-launcher&ref=&utm_source=aitooltrek.com&utm_medium=referral,-1,"Cannot connect to host app.trydome.io:443 ssl:default [nodename nor servname provided, or not known]"
+Sora Video AI Generator,AI Video Generator,https://www.soravideoai.net/,-1,"Cannot connect to host www.soravideoai.net:443 ssl:default [nodename nor servname provided, or not known]"
+Turbo Registry,AI Development,https://www.mystic.ai/turbo-registry,-1,Cannot connect to host www.mystic.ai:443 ssl:default [None]
+RegexBot,AI Code Assistant,https://regexbot.xyz/,-1,Connection timeout to host https://regexbot.xyz/
+Smart Chrome Tabs,AI Developer Tools,https://smartchrometabs.com/,-1,"Cannot connect to host smartchrometabs.com:443 ssl:default [Connect call failed ('52.19.175.50', 443)]"
+Trendvideo.ai: AI Video Generator,AI Video Generator,https://trendvideo.ai/,-1,Cannot connect to host trendvideo.ai:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Prompt Hippo,AI Testing & QA,https://prompthippo.net/,-1,"Cannot connect to host prompthippo.net:443 ssl:default [nodename nor servname provided, or not known]"
+MotionX,AI Development Tools,https://beta.motionnx.com/,-1,"Cannot connect to host beta.motionnx.com:443 ssl:default [nodename nor servname provided, or not known]"
+Verbalia | AI Facial Video Generation | Video Translation and Creation API,AI Education Assistant,https://www.verbalia.net/,-1,"Cannot connect to host www.verbalia.net:443 ssl:default [nodename nor servname provided, or not known]"
+The ORCA Network,Investing,https://theorcanetwork.com/home,-1,Connection timeout to host https://theorcanetwork.com/home
+SearchGPT,AI Chatbot,https://chatgpt.com/search,404,
+Alertfor,AI Information Assistant,https://www.alertfor.com/,-1,Cannot connect to host www.alertfor.com:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Narrify AI,AI Sports Analyst,https://narrify.app/,-1,"Cannot connect to host narrify.app:443 ssl:default [nodename nor servname provided, or not known]"
+MyNewLook,AI Photo Editing,https://www.mynewlook.me/,-1,Connection timeout to host https://www.mynewlook.me/
+Gofer,AI Chatbot,https://usegofer.com/,-1,"Cannot connect to host usegofer.com:443 ssl:default [nodename nor servname provided, or not known]"
+Pillser Ask,AI Healthcare Advisor,https://pillser.com/,-1,Cannot connect to host pillser.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Prepfox,AI Interview Coach,https://www.prepfox.io/,-1,"Cannot connect to host www.prepfox.io:443 ssl:default [nodename nor servname provided, or not known]"
+Wow Camera,AI Photography Assistant,https://drawai.aipedias.com/,-1,"Cannot connect to host drawai.aipedias.com:443 ssl:default [nodename nor servname provided, or not known]"
+Hadana AI,AI Trip Planner,https://hadana.io/,403,
+Kling AI,Text to Video Generator,https://klingai.org/,-1,"Cannot connect to host klingai.org:443 ssl:default [nodename nor servname provided, or not known]"
+Invisibility,Other,https://i.inc/,-1,"Cannot connect to host i.inc:443 ssl:default [nodename nor servname provided, or not known]"
+Iconopedia,AI Cover Generator,https://iconopedia.tech/,-1,"Cannot connect to host iconopedia.tech:443 ssl:default [nodename nor servname provided, or not known]"
+Art.ai,AI Cover Generator,https://art.ai/,403,
+StartupSparkAI,AI Business Ideas Generator,https://startupsparkai.bubbleapps.io/,403,
+SmartMeetings.ai,AI Video Recording,https://smartmeetings.ai/,-1,"Cannot connect to host smartmeetings.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'smartm"
+CreatorHub.tools,AI Content Generator,https://creatorhub.tools/,404,
+FXPredator,AI Trading Bot,https://fxpredator.com/,429,
+Text To Resume - Arible,Resume Builder,https://resume.arible.co/,525,
+docbot,AI Knowledge Graph,https://hello.docbot.art/,-1,"Cannot connect to host hello.docbot.art:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hello."
+LANCE - Freelance Income & Expense Tracker App,AI Accounting Assistant,https://www.thefreelance.app/,-1,Cannot connect to host www.thefreelance.app:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+FelixAI-Stock,Investing Assistant,https://aifelixhub.com/,-1,"Cannot connect to host aifelixhub.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aifelixh"
+Chirpley,Blockchain Tools,https://chirpley.ai/,-1,Timeout on reading data from socket
+Relationship 2.0,AI Dating Assistant,https://www.relationship2.pro/,-1,"Cannot connect to host www.relationship2.pro:443 ssl:default [nodename nor servname provided, or not known]"
+Age Detector,AI Selfie & Portrait Editor,https://agedetector.fun/,-1,"Cannot connect to host agedetector.fun:443 ssl:default [nodename nor servname provided, or not known]"
+Alchemyze,AI Data Mining,https://alchemyze.ai/,-1,"Cannot connect to host alchemyze.ai:443 ssl:default [nodename nor servname provided, or not known]"
+TestimonialEasy,AI Ad Generator,https://testimonialeasy.com/,-1,"Cannot connect to host testimonialeasy.com:443 ssl:default [nodename nor servname provided, or not known]"
+Merton,AI Healthcare Advisor,https://merton.app/,-1,Cannot connect to host merton.app:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Repurposly,AI Content Repurposer,https://repurposly.ai/,404,
+Viggle AI,AI Animated Video Creator,https://viggleai.app/,-1,"Cannot connect to host viggleai.app:443 ssl:default [nodename nor servname provided, or not known]"
+Goodnight - Bedtime Stories,AI Story Writing,https://www.goodnightapp.de/,-1,"Cannot connect to host www.goodnightapp.de:443 ssl:default [nodename nor servname provided, or not known]"
+DiffusionAIArt,Text to Image Generator,https://diffusionaiart.com/,403,
+Narafy,AI Note-Taking Assistant,https://narafy.com/,-1,"Cannot connect to host narafy.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'narafy.com'."
+ForgePRO,Sales Assistant,https://forge-pro.com/,-1,Connection timeout to host https://forge-pro.com/
+Brfly,Bio Link Generator,https://brfly.us/,-1,"Cannot connect to host brfly.us:443 ssl:default [nodename nor servname provided, or not known]"
+Had-a Call,AI Voice Assistant,https://hadacall.com/,404,
+Content Butler.io,AI Script Writing,https://www.contentbutler.io/,403,
+Franklin AI,General Writing Assistant,https://franklinai.co/,-1,"Cannot connect to host franklinai.co:443 ssl:default [nodename nor servname provided, or not known]"
+Fix Blur,AI Image Enhancer,https://fixblur.com/,404,
+EliteOlympus,AI Fitness Trainer,https://eliteolympus.com/,503,
+Zendial,AI Voice Assistant,https://zendial.me/,-1,"Cannot connect to host zendial.me:443 ssl:default [nodename nor servname provided, or not known]"
+Kaizen Therapy,AI Mental Health Support,https://www.kaizen-therapy.com/,-1,"Cannot connect to host www.kaizen-therapy.com:443 ssl:default [nodename nor servname provided, or not known]"
+ScaleSuggest,AI SEO Optimizer,https://scalesuggest.com/,-1,Cannot connect to host scalesuggest.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+FluffyShelf,AI Cover Generator,https://www.fluffyshelf.com/,-1,"Cannot connect to host www.fluffyshelf.com:443 ssl:default [nodename nor servname provided, or not known]"
+Snaplet Seed,Other,https://snaplet.dev/,-1,"Cannot connect to host snaplet.dev:443 ssl:default [nodename nor servname provided, or not known]"
+TutorEva,AI Education Assistant,https://www.tutoreva.com/,-1,"Cannot connect to host www.tutoreva.com:443 ssl:default [nodename nor servname provided, or not known]"
+David AI,AI Form & Survey Creator,https://frms.ai/,404,
+Ludis Health,AI Cooking Assistant,https://www.ludishealth.co/,-1,"Cannot connect to host www.ludishealth.co:443 ssl:default [nodename nor servname provided, or not known]"
+Page Writer Pro,AI Website Designer,https://www.pagewriter.pro/,-1,"Cannot connect to host www.pagewriter.pro:443 ssl:default [nodename nor servname provided, or not known]"
+Bubble | No-Code Apps,No-Code & Low-Code Platform,https://ideas.aimomfounders.com/,-1,"Cannot connect to host ideas.aimomfounders.com:443 ssl:default [nodename nor servname provided, or not known]"
+Twitter Video Downloader,Other,https://twitter-video-downloader.com/,404,
+AI Investing Tools,AI Trading Bot,https://ainvesting.tools/,-1,"Cannot connect to host ainvesting.tools:443 ssl:default [nodename nor servname provided, or not known]"
+Rekka,AI Life Coach,https://www.rekka.ai/,-1,"Cannot connect to host www.rekka.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Podcai,AI Podcast Assistant,https://www.podcai.co/,-1,"Cannot connect to host www.podcai.co:443 ssl:default [nodename nor servname provided, or not known]"
+Mosaik News,Newsletter Generator,https://mosaik.news/,-1,Connection timeout to host https://mosaik.news/
+AIeBooks,AI Book Writing,https://aiebooks.app/,-1,"Cannot connect to host aiebooks.app:443 ssl:default [nodename nor servname provided, or not known]"
+Story2Video,AI Hashtag Assistant,https://story2video.online/,-1,Connection timeout to host https://story2video.online/
+Storyville: Bedtime Stories with AI,AI Instagram Marketing Assistant,https://storyville.app/,-1,"Cannot connect to host storyville.app:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'storyvil"
+Taylor Swift AI,Text to Image Generator,https://www.taylor-swift-ai.com/,-1,"Cannot connect to host www.taylor-swift-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Logome,AI Logo Generator,https://logomeai.partnerlinks.io/w07avh4zysc3,404,
+DuckyShot,AI Selfie & Portrait Editor,https://duckyshot.com/,402,
+Validea,Marketing Plan Generator,https://validea.co/,502,
+Received AI,AI Accounting Assistant,https://received.ai/,-1,Cannot connect to host received.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+ShortScripter,Text to Video Generator,https://www.shortscripter.com/,-1,"Cannot connect to host www.shortscripter.com:443 ssl:default [nodename nor servname provided, or not known]"
+meiua,AI Healthcare Advisor,https://meiua.com/,-1,"Cannot connect to host meiua.com:443 ssl:default [nodename nor servname provided, or not known]"
+Acryl,AI Parenting Assistant,https://www.acrylbooks.com/,-1,"Cannot connect to host www.acrylbooks.com:443 ssl:default [nodename nor servname provided, or not known]"
+CoverArtist,AI Cover Generator,https://www.coverartist.ai/,526,
+CartoonGen,AI Anime & Cartoon Generator,https://cartoongen.com/,-1,Connection timeout to host https://cartoongen.com/
+Structurepedia,AI Knowledge Base,https://structurepedia.org/,-1,Connection timeout to host https://structurepedia.org/
+Otto,Bio Link Generator,https://www.landing.ottowrites.co/,-1,"Cannot connect to host www.landing.ottowrites.co:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid fo"
+Huuk.AI,AI Trip Planner,https://huuk.ai/,520,
+Wriiter,AI Checker Essay,https://www.wriiter.co/,-1,"Cannot connect to host www.wriiter.co:443 ssl:default [nodename nor servname provided, or not known]"
+puurl,AI Review Assistant,https://www.getpuurl.com/,-1,"Cannot connect to host www.getpuurl.com:443 ssl:default [nodename nor servname provided, or not known]"
+YTSummarizer,AI YouTube Marketing Assistant,https://ytsummarizer.io/,-1,Connection timeout to host https://ytsummarizer.io/
+Golfmind,AI Sports Analyst,https://golfmind.ai/,404,
+Humble Code,AI Form & Survey Creator,https://www.humblecode.ai/,-1,"Cannot connect to host www.humblecode.ai:443 ssl:default [nodename nor servname provided, or not known]"
+FirstPic,AI Dating Assistant,https://firstpic.ai/,-1,"Cannot connect to host firstpic.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Fluency,AI SOP,https://getfluency.com.au/,404,
+PS2filter.me,AI Game Assistant,https://ps2filter.me/,-1,"Cannot connect to host ps2filter.me:443 ssl:default [Connect call failed ('35.241.106.100', 443)]"
+iyiai,AI Character,https://www.iyiai.com/,525,
+Email Generator AI Tool,AI Email Generator,https://emailgeneratorai.cc/,-1,"Cannot connect to host emailgeneratorai.cc:443 ssl:default [Connect call failed ('198.12.97.149', 443)]"
+KoppieOS,AI Wallpaper Generator,https://koppieos.koppie.ai/,-1,"Cannot connect to host koppieos.koppie.ai:443 ssl:default [nodename nor servname provided, or not known]"
+aiRight,Text to Image Generator,https://airight.io/,502,
+GenAI Community,AI Course Creator,https://genaicourses.com/,-1,"Cannot connect to host genaicourses.com:443 ssl:default [nodename nor servname provided, or not known]"
+Resumer,Resume Builder,https://resumer.cloud/,-1,"Cannot connect to host resumer.cloud:443 ssl:default [nodename nor servname provided, or not known]"
+LowDifficulty.ai,AI Lead Generation,https://lowdifficulty.ai/,404,
+AI Mockup Studio,AI Graphic Design Assistant,https://aimockupstudio.com/,404,
+PostHunt,AI Twitter Marketing Assistant,https://posthunt.ai/,404,
+Thumbnail.BOT,AI YouTube Marketing Assistant,https://thumbnail.bot/,503,
+TradeBX,AI Trading Bot,https://tradebx.info/,-1,"Cannot connect to host tradebx.info:443 ssl:default [nodename nor servname provided, or not known]"
+Sorapix,AI Girlfriend,https://sorapix.ai/home,-1,"Cannot connect to host sorapix.ai:443 ssl:default [nodename nor servname provided, or not known]"
+TIKTOKEMOJI.COM,AI TikTok Marketing Assistant,https://tiktokemoji.com/,525,
+Open Agent Studio,AI App Builder,https://openagent.studio/,404,
+Makeweb.ai,AI Website Designer,https://makeweb.ai/,-1,"Cannot connect to host makeweb.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Kazimir.ai,NSFW Content Generator,https://kazimir.ai/,-1,"Cannot connect to host kazimir.ai:443 ssl:default [nodename nor servname provided, or not known]"
+StockQuakes,Investing Assistant,https://stockquakes.com/,404,
+Genius.AI,Sales Assistant,https://genius.ai/,-1,"Cannot connect to host genius.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AI Checker,AI Plagiarism Checker,https://ai-checker.info/,526,
+MindTrainer,AI Mental Health Support,https://mindtrainer.app/,-1,"Cannot connect to host mindtrainer.app:443 ssl:default [nodename nor servname provided, or not known]"
+VABot,AI Customer Service Assistant,https://vabot.net/,-1,"Cannot connect to host vabot.net:443 ssl:default [nodename nor servname provided, or not known]"
+SnapSite,AI Website Designer,https://snapsite.dev/,-1,"Cannot connect to host snapsite.dev:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Dopplio,AI Personalized Video Creator,https://dopplio.com/,404,
+NilgAI,AI Trip Planner,https://nilgai.travel/,-1,Connection timeout to host https://nilgai.travel/
+Easy With AI - Best AI Tools & Services,AI Tools Directory,https://easywithai.com/,403,
+Jobeiros,Resume Builder,https://jobeiros.com/,-1,"Cannot connect to host jobeiros.com:443 ssl:default [nodename nor servname provided, or not known]"
+BenSafer,AI Speech Synthesis,https://bensafer.com/,-1,"Cannot connect to host bensafer.com:443 ssl:default [nodename nor servname provided, or not known]"
+ConnectFlux.ai,Sales Assistant,https://connectflux.ai/,530,
+Gulf Picasso,AI Logo Generator,https://www.gulfpicasso.com/en,429,
+AI Answer Generator,AI Content Generator,https://aianswergenerator.pro/,-1,"Cannot connect to host aianswergenerator.pro:443 ssl:default [nodename nor servname provided, or not known]"
+Magi-1,AI Video Generator,https://magi-1.video/,404,
+PartyLine,Newsletter Generator,https://www.my-party-line.com/,-1,"Cannot connect to host www.my-party-line.com:443 ssl:default [nodename nor servname provided, or not known]"
+HireHarmony,AI Interview Coach,https://hireharmony.ai/,-1,"Cannot connect to host hireharmony.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Multilanguage AI Domain Name Generator,Domain Name Generator,https://aidomaingpt.com/,-1,Connection timeout to host https://aidomaingpt.com/
+LTX Studio,AI Animated Video Creator,https://ltx.studio/,-1,"400, message='Got more than 8190 bytes (8598) when reading Header value is too long.', url='https://ltx.studio/'"
+FunkyDesigns,AI Cover Generator,https://funkydesigns.xyz/,-1,"Cannot connect to host funkydesigns.xyz:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'funkyd"
+PowerNote.app,AI Note-Taking Assistant,https://powernote.app/,-1,"Cannot connect to host powernote.app:443 ssl:default [nodename nor servname provided, or not known]"
+ChartEye,Other,https://charteye.ai/,-1,"Cannot connect to host charteye.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Briefey AI,AI Meeting Assistant,https://briefeyai.com/,-1,"Cannot connect to host briefeyai.com:443 ssl:default [Connect call failed ('104.143.141.110', 443)]"
+LeadsMe,AI Lead Generation,https://leadsme.pl/,-1,"Cannot connect to host leadsme.pl:443 ssl:default [nodename nor servname provided, or not known]"
+PromoMix,AI UGC Video Generator,https://www.promomix.ai/,-1,"Cannot connect to host www.promomix.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Cangrade,AI Recruiting Assistant,https://cangrade.com/,-1,Cannot connect to host cangrade.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Aitia,AI Healthcare Advisor,https://gnshealthcare.com/,-1,"Cannot connect to host gnshealthcare.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gnshe"
+Hopprz,AI Instagram Marketing Assistant,https://hopprz.com/,-1,"Cannot connect to host hopprz.com:443 ssl:default [nodename nor servname provided, or not known]"
+Hody,AI Life Coach,https://myhody.com/,-1,"Cannot connect to host myhody.com:443 ssl:default [nodename nor servname provided, or not known]"
+Antuit.ai,Other,https://antuit.ai/,-1,Cannot connect to host antuit.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Kustomer,AI CRM Assistant,https://reply.ai/,-1,"400, message='Got more than 8190 bytes (10190) when reading Header value is too long.', url='https://kustomer.com/'"
+wizdom.ai,Research Tool,https://wizdom.ai/,-1,"Cannot connect to host wizdom.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Konverse AI,Sales Assistant,https://konverse.ai/,-1,Connection timeout to host https://konverse.ai/
+The Legal Hans,Legal Assistant,https://www.thelegalhans.com/,-1,"Cannot connect to host www.thelegalhans.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+Humanly,AI Interview Coach,https://humanly.io/,429,
+CallStar,AI Character,https://callstar.ai/,-1,"Cannot connect to host callstar.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SubCap Genie,Captions & Subtitle Generator,https://subcapgenie.com/,-1,Connection timeout to host https://subcapgenie.com/
+Chonki - Travel community and itinerary planner,AI Trip Planner,https://chonki.ai/,-1,"Cannot connect to host chonki.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Grum,AI Hashtag Assistant,https://grum.co/,403,
+Face to Many,AI Cover Generator,https://www.face-to-many.com/,-1,"Cannot connect to host www.face-to-many.com:443 ssl:default [Connect call failed ('104.143.141.73', 443)]"
+Summarize AI,AI YouTube Marketing Assistant,https://www.summarizeai.net/,-1,"Cannot connect to host www.summarizeai.net:443 ssl:default [nodename nor servname provided, or not known]"
+Aitoolbox,AI Facebook Marketing Assistant,https://ai-toolbox.com.sa/,-1,"Cannot connect to host ai-toolbox.com.sa:443 ssl:default [nodename nor servname provided, or not known]"
+EduLLM,AI Course Creator,http://edullm.tech/,-1,Connection timeout to host http://edullm.tech/
+WriteMePoem,AI Gift Idea Generator,https://writemepoem.com/,-1,"Cannot connect to host writemepoem.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'writeme"
+Gifts Finder AI,AI Gift Idea Generator,https://giftsfinder.ai/,-1,"Cannot connect to host giftsfinder.ai:443 ssl:default [nodename nor servname provided, or not known]"
+IdeaMate,AI Business Ideas Generator,https://ideamate.ai/,-1,"Cannot connect to host ideamate.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Managr,Writing Assistants,https://www.managr.ai/,404,
+My AI Startup,AI Photo Restoration,https://myaistartup.com/,-1,"Cannot connect to host myaistartup.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')]"
+Arteus AI Image Generator,Text to Image Generator,https://arteus.ai/,521,
+Code Coach,AI Interview Coach,https://www.trycodecoach.com/,-1,"Cannot connect to host www.trycodecoach.com:443 ssl:default [nodename nor servname provided, or not known]"
+Suno Everything,AI Music Generator,https://suno.works/,-1,Connection timeout to host https://suno.works/
+InterviewBoss,AI Interview Coach,https://interviewboss.ai/,-1,"Cannot connect to host interviewboss.ai:443 ssl:default [nodename nor servname provided, or not known]"
+FinCheck by Trezy,AI Accounting Assistant,https://fincheck.trezy.io/,-1,"Cannot connect to host fincheck.trezy.io:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'finch"
+Contractee,Legal Assistant,https://contractee.net/,-1,"Cannot connect to host contractee.net:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'contract"
+Trout AI,Digital Marketing Generator,https://trout-ai.com/,-1,"Cannot connect to host trout-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+GenAI Art and Animation,Newsletter Generator,https://aiartandanimation.com/,-1,"Cannot connect to host aiartandanimation.com:443 ssl:default [nodename nor servname provided, or not known]"
+Cookly,AI Recipe Generator,https://cookly.co.uk/,-1,Connection timeout to host https://cookly.co.uk/
+Stories By Angris,AI Creative Writing,https://storiesbyangris.com/,-1,"Cannot connect to host storiesbyangris.com:443 ssl:default [Connect call failed ('146.148.220.174', 443)]"
+RhinoWatchlist,Investing Assistant,https://rhinowatchlist.com/,-1,"Cannot connect to host rhinowatchlist.com:443 ssl:default [nodename nor servname provided, or not known]"
+AI Genius,AI Cover Generator,https://aigenius.site/,-1,Connection timeout to host https://aigenius.site/
+SV3D Online,AI 3D Model Generator,https://sv3d.online/,-1,Connection timeout to host https://sv3d.online/
+Grammarize,AI Checker Essay,https://grammarize.talktails.in/,-1,"Cannot connect to host grammarize.talktails.in:443 ssl:default [nodename nor servname provided, or not known]"
+Albert AI,AI Voice Assistant,https://albert-ai.bot/,-1,Connection timeout to host https://albert-ai.bot/
+PixelPerfect,AI Colorizer,https://pixelperfect.ink/,521,
+GradeAssist - The Scantron for Essays,AI Checker Essay,https://gradeassist.tech/,-1,"Cannot connect to host gradeassist.tech:443 ssl:default [nodename nor servname provided, or not known]"
+Translate.email,AI Email Marketing Assistant,https://translate.email/,-1,"Cannot connect to host translate.email:443 ssl:default [nodename nor servname provided, or not known]"
+Atlas,AI Logo Generator,https://atlas.design/,404,
+AIPhoto.Recipes,AI Cooking Assistant,https://aiphoto.recipes/,-1,"Cannot connect to host aiphoto.recipes:443 ssl:default [nodename nor servname provided, or not known]"
+Magic Prompts,Prompt,https://magicprompts.lyzr.ai/,-1,"Cannot connect to host magicprompts.lyzr.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Regex Generator AI,AI Code Generator,https://regex-generator-ai.com/,-1,"Cannot connect to host regex-generator-ai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Empress,AI Accounting Assistant,https://empress.eco/,404,
+Insights - Ayraa,AI Knowledge Base,https://www.ayraa.io/solutions/insights,404,
+Your Private Second Brain,AI Knowledge Graph,https://anyk.tech/,-1,"Cannot connect to host anyk.tech:443 ssl:default [nodename nor servname provided, or not known]"
+StateSet,E-commerce Assistant,https://stateset.io/,429,
+Freemidjourney,Text to Image Generator,https://freemidjourneyai.com/,-1,Connection timeout to host https://freemidjourneyai.com/
+voam,AI CRM Assistant,https://voam.io/,-1,"Cannot connect to host voam.io:443 ssl:default [nodename nor servname provided, or not known]"
+AIFilter.Art,AI Selfie & Portrait Editor,https://www.aifilter.art/,-1,"Cannot connect to host www.aifilter.art:443 ssl:default [nodename nor servname provided, or not known]"
+YourFable,AI Personalized Video Creator,https://yourfable.io/,-1,"Cannot connect to host yourfable.io:443 ssl:default [nodename nor servname provided, or not known]"
+Komo Search,search engine,https://komo.ai/,429,
+PixAI,image generators,https://pixai.art/,403,
+Yoom Legion AI,cartoon generators,https://yoom.com,404,
+Scribble Diffusion,image editing,https://scribblediffusion.com/,-1,"Cannot connect to host scribblediffusion.com:443 ssl:default [nodename nor servname provided, or not known]"
+Dream Interpreter,fun tools,https://dreaminterpreter.ai/,429,
+JanitorAI,ai chatbots,https://janitorai.com/,403,
+Luminar Neo,image editing,https://skylum.com/luminar-ai,403,
+Adobe Photoshop,image editing,https://www.adobe.com/products/photoshop.html,-1,Timeout on reading data from socket
+getimg.ai,image generators,https://getimg.ai/,-1,Cannot connect to host getimg.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Instant Answers,customer support,https://instantanswers.xyz/,-1,Timeout on reading data from socket
+Kustomer,customer support,https://www.kustomer.com/,-1,"400, message='Got more than 8190 bytes (10190) when reading Header value is too long.', url='https://www.kustomer.com/'"
+UpWin,e-commerce,https://upwin.club/,-1,"Cannot connect to host upwin.club:443 ssl:default [nodename nor servname provided, or not known]"
+CapCut Commerce,e-commerce,https://commercepro.capcut.com/,451,
+Moonshot AI,e-commerce,https://www.moonshot-ai.com,502,
+Unify,ai chatbots,https://www.unify.ai/,-1,Cannot connect to host www.unify.ai:443 ssl:default [None]
+ChatROI,ai chatbots,https://www.bryj.ai/chatroi/,403,
+Freepik AI Image Generator,text to image,https://www.freepik.com/ai/image-generator,403,
+Skeep,e-commerce,https://www.skeep.io,-1,"0, message='', url='https://www.skeep.io'"
+Winchat,ai chatbots,https://www.winchat.ai/,-1,Cannot connect to host www.winchat.ai:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Penny AI,e-commerce,https://penny.im/,-1,"Cannot connect to host penny.im:443 ssl:default [nodename nor servname provided, or not known]"
+LookBook AI,fashion,https://lookbookai.io/,-1,"Cannot connect to host www.photoshootingai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Octane AI,sales assistant,https://octaneai.grsm.io/krmx3qtiq2ku,404,
+Ask Layla,travel,https://justasklayla.com/,403,
+Suggest Gift,gift ideas,https://suggest.gift/,-1,"0, message='', url='https://suggest.gift/'"
+Resleeve,fashion,https://resleeve.ai/,-1,Cannot connect to host resleeve.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+WolframAlpha,education,https://www.wolframalpha.com/,404,
+GitaGPT,religion,https://www.gitagpt.in/,402,
+Crossplag,ai detection,https://crossplag.com/ai-content-detector/,404,
+iApply,human resources,https://www.iapply.ai/,-1,Connection timeout to host https://www.iapply.ai/
+EditApp AI,image editing,https://editapp.ai/,-1,"Cannot connect to host editapp.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AgentVerse,ai agents,https://agentverse.ai/,403,
+Cimphony,legal,https://cimphony.ai/,-1,"Cannot connect to host cimphony.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Sloneek,human resources,https://www.sloneek.com/,-1,Cannot connect to host www.sloneek.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Reclaim,personal assistant,https://go.reclaim.ai/Futurepedia,404,
+Pipefy,workflows,https://www.pipefy.com/,403,
+Kwal,human resources,https://www.kwal.ai,-1,"Cannot connect to host www.kwal.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Altera,ai agents,https://altera.al,-1,Cannot connect to host altera.al:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Resign.ai,writing generators,https://www.resign.ai/,-1,Connection timeout to host https://www.resign.ai/
+Scribe,workflows,https://scribehow.com/,-1,Cannot connect to host scribe.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Liarliar,ai detection,https://liarliar.pro/,-1,"Cannot connect to host liarliar.pro:443 ssl:default [nodename nor servname provided, or not known]"
+Free AI Resume Generator,human resources,https://remotepeople.com/tools/resume-generator/,500,
+Sonara,human resources,https://www.sonara.ai/,-1,Timeout on reading data from socket
+AirBrush AI Headshots,image editing,https://campaign.airbrush.io/aiheadshots/,-1,"Cannot connect to host campaign.airbrush.io:443 ssl:default [nodename nor servname provided, or not known]"
+Photomyne,image editing,https://photomyne.com/,404,
+SydeLabs,ai detection,https://www.sydelabs.ai,-1,"Cannot connect to host www.sydelabs.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Synthetaic,ai detection,https://www.synthetaic.com,-1,"Cannot connect to host www.synthetaic.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Doppel,ai detection,https://www.doppel.com,403,
+GEES,design generators,https://gees.com/,-1,"Cannot connect to host gees.com:443 ssl:default [nodename nor servname provided, or not known]"
+Dreamina,text to image,https://dreamina.capcut.com/,451,
+Imagen AI,image editing,https://imagen-ai.com/,403,
+Lightricks,image editing,http://lightricks.pxf.io/Mm1av2,-1,"400, message='Got more than 8190 bytes (8578) when reading Header value is too long.', url='https://www.facetuneapp.com/?irclickid=zzDSsZ0cUxyZThPX993vC3eBUkuxO02rCTgKVY0&sharedid=&irpid=4792963&utm_s"
+magify.design,design generators,https://www.magify.design/,-1,"Cannot connect to host www.magify.design:443 ssl:default [nodename nor servname provided, or not known]"
+ImageCreator,image editing,https://imagecreator.alkaidvision.com/,-1,"Cannot connect to host imagecreator.alkaidvision.com:443 ssl:default [Connect call failed ('154.201.76.233', 443)]"
+Lazy Cards,gift ideas,https://lazy.cards/,-1,"Cannot connect to host lazy.cards:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lazy.cards'."
+Taranify,music,https://taranify.app/,429,
+Dream Decoder,health,https://dreamdecoder.me/chat,403,
+SEMAI,SEO,https://semai.ai/,404,
+Aktiia,health,https://aktiia.com,-1,Cannot connect to host hilo.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Opkit,health,https://www.opkit.co,-1,"Cannot connect to host www.opkit.co:443 ssl:default [nodename nor servname provided, or not known]"
+NeuroClues,health,https://p3lab.com,-1,"Cannot connect to host p3lab.com:443 ssl:default [Connect call failed ('213.186.33.5', 443)]"
+GoodFriend AI,fun tools,https://goodfriend.ai/,404,
+Lucidpic,image generators,https://lucidpic.com,403,
+Realtor Blogs,real estate,https://www.realtor-blogs.com/,404,
+Social Wonder,social media,https://social-wonder.com,-1,Connection timeout to host https://social-wonder.com
+Folderr,project management,https://folderr.com,-1,"Cannot connect to host folderr.com:443 ssl:default [nodename nor servname provided, or not known]"
+Looka,logo generator,https://looka.grsm.io/futurepedia,404,
+Wuri,video editing,https://www.wuri.ai/,402,
+ElevenLabs,text to speech,https://try.elevenlabs.io/byzhm82qidtr,404,
+Namy.ai,startup tools,https://namy.ai/,-1,"Cannot connect to host namy.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AI.Fashion,fashion,https://www.ai.fashion,404,
+Color Palette Flow,fashion,https://lightricks.pxf.io/c/4792963/2882510/22319,-1,"400, message='Got more than 8190 bytes (8578) when reading Header value is too long.', url='https://www.facetuneapp.com/lp/color-palette-flow?irclickid=zzDSsZ0cUxyZThPX993vC3eBUkuxO02qCTgKVY0&sharedid"
+CapCut,video editing,https://capcutaffiliateprogram.pxf.io/MAN7Qo,451,
+Hour One,video generators,https://hourone.ai/,-1,Connection timeout to host https://hourone.ai/
+Adobe Premiere Pro,video editing,https://www.adobe.com/products/premiere.html,-1,Timeout on reading data from socket
+iZotope RX,audio editing,https://www.izotope.com/en/products/rx.html,403,
+Videoleap,video editing,https://www.videoleapapp.com/,-1,"400, message='Got more than 8190 bytes (8561) when reading Header value is too long.', url='https://www.videoleapapp.com/'"
+Fy! Studio,image generators,https://www.iamfy.co/studio,404,
+Splutter AI,ai chatbots,https://www.splutter.ai/,403,
+Knibble,customer support,https://knibble.ai/,-1,"Cannot connect to host knibble.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SpinDoc,ai chatbots,https://spindoc.ai/,-1,Connection timeout to host https://spindoc.ai/
+BrandBastion,social media,https://www.brandbastion.com/lite,404,
+WorkRex,customer support,https://www.workrex.io,-1,Cannot connect to host www.workrex.io:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Vendorful,project management,https://vendorful.ai/,-1,Connection timeout to host https://vendorful.ai/
+Azara,ai agents,https://www.azara.ai,-1,"Cannot connect to host www.azara.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Tipis AI,marketing,https://tipis.ai/,-1,"Cannot connect to host tipis.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Bringg,customer support,https://www.bringg.com,403,
+JIQ,customer support,https://jiq.ai,-1,"Cannot connect to host jiq.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Stackbear,customer support,https://stackbear.com/,-1,"0, message='', url='https://stackbear.com/'"
+Playground AI,image generators,https://playgroundai.com/,403,
+Singify,music,https://singify.fineshare.com/,-1,"Cannot connect to host singify.fineshare.com:443 ssl:default [nodename nor servname provided, or not known]"
+Fineshare,text to speech,https://www.fineshare.com/,-1,"Cannot connect to host www.fineshare.com:443 ssl:default [nodename nor servname provided, or not known]"
+Shownotes,transcriber,https://shownotes.io,-1,"0, message='', url='https://shownotes.io'"
+FineShare FineCam,text to speech,https://www.fineshare.com/finecam/,-1,"Cannot connect to host www.fineshare.com:443 ssl:default [nodename nor servname provided, or not known]"
+Noisee AI,audio editing,https://kaiber.ai,-1,Cannot connect to host www.kaiber.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Midjourney,text to image,https://www.midjourney.com/home/,-1,Cannot connect to host www.midjourney.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Ariha.ai,ai chatbots,https://ariha.ai/,-1,Cannot connect to host ariha.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Softr Studio,low-code/no-code,https://softrplatformsgmbh.grsm.io/futurepedia,404,
+MarketingBlocks,website builders,https://questionreality--snapilabs.thrivecart.com/marketingblocks-bundle-unlimited/,403,
+CogiX,writing generators,https://cogix.io/,-1,"Cannot connect to host cogix.io:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cogix.io'. (_s"
+AI Pet Photos,image generators,http://aipetphotos.com/,404,
+IntellibizzAI,personal assistant,https://app.intellibizzai.com/,-1,"Cannot connect to host app.intellibizzai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Wepik,image generators,https://wepik.com/ai,403,
+Catbird,image generators,https://www.catbird.ai/,-1,Connection timeout to host https://www.catbird.ai/
+Thumbly,social media,https://www.thumbly.io/,-1,"Cannot connect to host www.thumbly.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Blacktooth AI,ai chatbots,https://www.blacktooth.ai/,-1,"Cannot connect to host www.blacktooth.ai:443 ssl:default [nodename nor servname provided, or not known]"
+ZMO,image generators,https://imgcreator.zmo.ai,-1,"Cannot connect to host imgcreator.zmo.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Docuo,website builders,https://www.spreading.ai/,-1,"Cannot connect to host www.spreading.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Meta AI,ai chatbots,https://www.meta.ai/,403,
+Imagine Anything,text to image,https://www.imagineanything.ai,-1,"Cannot connect to host www.imagineanything.ai:443 ssl:default [nodename nor servname provided, or not known]"
+TheB.AI,ai chatbots,https://theb.ai/,-1,"Cannot connect to host theb.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Dora AI,website builders,https://a.dora.run/futurepedia,-1,Cannot connect to host a.dora.run:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Prompt Refine,prompt generators,https://promptrefine.com/,503,
+Adobe Firefly,image generators,https://www.adobe.com/products/firefly/,-1,Timeout on reading data from socket
+PromptROI,prompt generators,https://app.promptroi.io/,404,
+InsightBase,low-code/no-code,https://insightbase.ai/,-1,Cannot connect to host insightbase.ai:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Browse AI,research,https://partners.browse.ai/futurepedia,404,
+Chromox,image generators,https://chromox.alkaidvision.com/,-1,"Cannot connect to host chromox.alkaidvision.com:443 ssl:default [nodename nor servname provided, or not known]"
+Tome,sales assistant,https://tome.app/lp/ai-presentations/,404,
+Murf,text to speech,https://get.murf.ai/14tctt7yqlir,404,
+Lookup,research,https://app.uselookup.com/,404,
+Lumen5,video editing,https://lumen5.com/,-1,Cannot connect to host lumen5.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Uptrends.ai,finance,https://app.uptrends.ai/trending,404,
+Option Alpha,finance,https://join.optionalpha.com/l2uv4ghey7yl,404,
+MindStudio,low-code/no-code,https://get.youai.ai/9vnzsz2ifxzh,404,
+AvanazAI,finance,https://avanz.ai/,404,
+Promptly,low-code/no-code,https://trypromptly.com,-1,Cannot connect to host trypromptly.com:443 ssl:default [None]
+PilotDesk,marketing,https://www.pilotdesk.ai,-1,Cannot connect to host www.pilotdesk.ai:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Trading Literacy,finance,https://tradingliteracy.com/,403,
+Jestor,project management,https://jestor.com/,403,
+AILayer,finance,https://anvm.io,-1,"Cannot connect to host anvm.io:443 ssl:default [nodename nor servname provided, or not known]"
+QashBoard,finance,https://qashboard.com/,-1,"Cannot connect to host qashboard.com:443 ssl:default [nodename nor servname provided, or not known]"
+DataSnipper,finance,https://www.datasnipper.com,-1,"400, message='Got more than 8190 bytes (11069) when reading Header value is too long.', url='https://www.datasnipper.com'"
+Dojah,finance,https://www.dojah.io,-1,"Cannot connect to host www.dojah.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')]"
+BashSenpai,code assistant,https://bashsenpai.com/,-1,"Cannot connect to host bashsenpai.com:443 ssl:default [Connect call failed ('5.78.46.106', 443)]"
+CodeWiz,code assistant,https://codewiz.app/,-1,Connection timeout to host https://codewiz.app/
+Pezzo,code assistant,https://pezzo.ai/,404,
+CodeStory,code assistant,https://codestory.ai,404,
+Danelfin,stock trading,https://danelfin.com/,429,
+Atlas,education,https://www.atlas.org/,-1,Cannot connect to host www.atlas.org:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Dola,ai chatbots,http://hidola.ai/,-1,"Cannot connect to host hidola.ai:80 ssl:default [nodename nor servname provided, or not known]"
+Book Summaries,summarizer,https://books.audioread.com/,-1,Cannot connect to host books.audioread.com:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Paperclips Web,education,https://www.paperclips.app/,-1,Cannot connect to host www.paperclips.app:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Doctrina,education,https://www.doctrina.ai/,503,
+Flash,email assistant,https://us.flash.co/,-1,"Cannot connect to host us.flash.co:443 ssl:default [nodename nor servname provided, or not known]"
+ClickUp,project management,https://try.web.clickup.com/Futurepedia,404,
+Phind,search engine,https://phind.com/,404,
+Papercup,translator,https://www.papercup.com/,404,
+Google SGE,search engine,https://labs.google/sge/,404,
+Embedditor,search engine,https://embedditor.ai/,-1,"Cannot connect to host embedditor.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Ztalk.ai,translator,https://ztalk.ai/,404,
+AlbertBro,education,https://photo2math.com/,-1,"Cannot connect to host photo2math.com:443 ssl:default [nodename nor servname provided, or not known]"
+Podcast,storyteller,https://podcast.ai/,-1,"Cannot connect to host podcast.ai:443 ssl:default [nodename nor servname provided, or not known]"
+MeetGeek,personal assistant,https://get.meetgeek.ai/futurepedia,404,
+Glasp,social media,https://glasp.co/ai-writing,-1,Cannot connect to host glasp.co:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Adcreative.ai,copywriting,https://free-trial.adcreative.ai/futurepedia,404,
+Kaiber,video generators,https://kaiber.ai/,-1,Cannot connect to host www.kaiber.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Writesparkle.ai,writing generators,https://writesparkle.ai/,-1,Connection timeout to host https://writesparkle.ai/
+WanderGenie,travel,https://www.wandergenie.app/,-1,"Cannot connect to host www.wandergenie.app:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www"
+Feedeo,video generators,https://feedeo.spreading.ai/,-1,"Cannot connect to host feedeo.spreading.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Wanderboat,travel,https://wanderboat.ai,429,
+ChatNBX,writing generators,https://chat.nbox.ai/,-1,"Cannot connect to host chat.nbox.ai:443 ssl:default [nodename nor servname provided, or not known]"
+TopCreator,marketing,https://topcreator.com/,402,
+Moji Writing Assistant,writing generators,https://app.mojiai.io/,503,
+VideoShorts,social media,https://www.videoshorts.ai/,-1,"Cannot connect to host www.videoshorts.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Pth.AI,project management,https://pth.ai/,-1,"Cannot connect to host pth.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Mogic AI,marketing,https://www.mogic.ai,-1,"Cannot connect to host www.mogic.ai:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mogic."
+WhatDo,travel,https://whatdo.in,429,
+Automata,social media,https://byautomata.io,-1,Cannot connect to host byautomata.io:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+Pippit AI,social media,https://pippit.capcut.com/,451,
+Steamship,marketing,https://www.steamship.com/build/prompt-apis,404,
+Lunaa,social media,https://www.lunaa.io/,-1,"Cannot connect to host www.lunaa.io:443 ssl:default [nodename nor servname provided, or not known]"
+Fork,sales assistant,https://www.fork.ai/,-1,"Cannot connect to host www.fork.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Vidnami Pro,video generators,https://vidnamipro.com/,-1,"Cannot connect to host vidnamipro.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vidnamip"
+Olympia,email assistant,https://olympia.chat/,404,
+Sentient Email,email assistant,https://www.sentient.email/,-1,"Cannot connect to host www.sentient.email:443 ssl:default [nodename nor servname provided, or not known]"
+Blend AI,marketing,https://blend-ai.com,403,
+Leap,startup tools,https://leapml.dev/,-1,"Cannot connect to host leapml.dev:443 ssl:default [nodename nor servname provided, or not known]"
+Aurora,research,https://tryaurora.io/,-1,"Cannot connect to host tryaurora.io:443 ssl:default [nodename nor servname provided, or not known]"
+Backlink Management,SEO,https://backlinkmanagement.io/,503,
+ByteCap,video generators,https://www.bytecap.io/,-1,"400, message='Got more than 8190 bytes (8222) when reading Header value is too long.', url='https://www.bytecap.io/'"
+Wispr Flow,transcriber,https://ref.flowvoice.ai/fp,-1,"Cannot connect to host ref.flowvoice.ai:443 ssl:default [nodename nor servname provided, or not known]"
+PlayHT,text to speech,https://play.ht/,-1,Timeout on reading data from socket
+Traivl,travel,https://www.traivl.com/,-1,Connection timeout to host https://www.traivl.com/
+Notion AI,writing generators,https://affiliate.notion.so/futurepedia,404,
+Summit,personal assistant,https://www.summit.im/,404,
+Tailor,summarizer,https://tailor.news/,-1,"Cannot connect to host tailor.news:443 ssl:default [nodename nor servname provided, or not known]"
+Airs AI,sales assistant,https://airs.ai,-1,"Cannot connect to host airs.ai:443 ssl:default [nodename nor servname provided, or not known]"
+PlanTrips,travel,https://plantrips.net/,-1,"Cannot connect to host plantrips.net:443 ssl:default [nodename nor servname provided, or not known]"
+Hey Internet,personal assistant,https://heyinternet.ai/,-1,"Cannot connect to host heyinternet.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Luzia,personal assistant,https://luzia.com,-1,Cannot connect to host www.luzia.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Plumb,ai agents,https://useplumb.com/,-1,Cannot connect to host useplumb.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)]
+Kintext,personal assistant,https://kintext.com/,-1,"Cannot connect to host kintext.com:443 ssl:default [nodename nor servname provided, or not known]"
+Convergence,personal assistant,https://convergence.ai/,403,
+Thinkforce,ai chatbots,https://www.thinkforce.ai/,-1,Cannot connect to host www.thinkforce.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Sagen.ai,personal assistant,https://sagen.ai,402,
+Rytr,copywriting,https://rytr.me/,500,
+Quillbot,paraphrasing,https://try.quillbot.com/futurepedia,404,
+SuperAGI Cloud,ai agents,https://superagi.com/docs/Installation/cloud/,404,
+Setapp,workflows,https://setapp.com/ai,404,
+PackPack,summarizer,https://packpack.ai/,-1,"Cannot connect to host packpack.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SiteExplainer,summarizer,https://siteexplainer.com/,-1,"Cannot connect to host siteexplainer.com:443 ssl:default [nodename nor servname provided, or not known]"
+BrainyPDF,research,https://brainypdf.com/,502,
+Resoomer,summarizer,https://resoomer.com/,-1,Connection timeout to host https://resoomer.ai/
+ChatMap,summarizer,https://chat.mymap.ai/,-1,"Cannot connect to host www.gpts2d.com:443 ssl:default [nodename nor servname provided, or not known]"
+Outread,research,https://out-read.com,429,
+Composable Prompts,ai agents,https://composableprompts.com,-1,Cannot connect to host composableprompts.com:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+ServiceNow,workflows,https://www.servicenow.com,-1,Timeout on reading data from socket
+Code Coach,ai chatbots,https://www.trycodecoach.com,-1,"Cannot connect to host www.trycodecoach.com:443 ssl:default [nodename nor servname provided, or not known]"
+Clinc,ai chatbots,https://clinc.com,-1,"Cannot connect to host clinc.com:443 ssl:True [SSLCertVerificationError: (1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'clinc.com'. ("
+Eduaide.Ai,education,https://www.eduaide.ai/,429,
+Bizway,startup tools,https://www.bizway.io/,404,
+Where To,travel,https://www.wheretoai.com/,-1,"Cannot connect to host www.wheretoai.com:443 ssl:default [nodename nor servname provided, or not known]"
+Bidlytics,legal,https://www.bidlytics.co/,-1,"Cannot connect to host www.bidlytics.co:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+Bench IQ,legal,https://benchiq.com,451,
+Roamaround,project management,https://www.roamaround.io/,403,
+Stellaris AI,research,https://www.stellaris-ai.com/,404,
+Salespeak AI Website Grader,SEO,https://www.isyourwebsiteready.ai/,421,
+Autodesk Forma,design generators,https://www.autodesk.com/products/forma/,-1,Timeout on reading data from socket
+Wonder Studio,video editing,https://wonderdynamics.com/,-1,Timeout on reading data from socket
+Polyhive,3D,https://www.polyhive.ai/,-1,"Cannot connect to host www.polyhive.ai:443 ssl:default [nodename nor servname provided, or not known]"
+SupplyScope,project management,https://supplyscope.io,-1,Cannot connect to host supplyscope.io:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+CSM,3D,https://csm.ai/,404,
+Analogenie,writing generators,https://analogenie.com/,-1,"Cannot connect to host analogenie.com:443 ssl:default [nodename nor servname provided, or not known]"
+Cognosys,ai agents,https://www.cognosys.ai/,402,
+Loci,3D,https://www.loci.ai/,-1,"Cannot connect to host www.loci.ai:443 ssl:default [nodename nor servname provided, or not known]"
+Qureight,research,https://qureight.com,-1,Cannot connect to host qureight.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Exa Websets,research,https://websets.exa.ai/,429,
+Leonardo AI,3D,https://app.leonardo.ai/,429,
+Sortium,3D,https://www.sortium.com,403,
+Atlas Design,3D,https://atlas.design,404,
+Rustic AI,design generators,https://www.rusticai.art/,-1,"Cannot connect to host www.rusticai.art:443 ssl:default [nodename nor servname provided, or not known]"
+Pikto AI Studio,design generators,https://piktochart.com/pikto-ai-studio/,-1,Cannot connect to host piktochart.com:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+ProposalIQ,writing generators,https://proposaliq.io/,-1,Connection timeout to host https://proposaliq.io/
+Jamix,ai agents,https://www.jamix.ai,-1,"Cannot connect to host www.jamix.ai:443 ssl:default [nodename nor servname provided, or not known]"
+AilaFlow,ai agents,https://ailaflow.com,-1,"Cannot connect to host ailaflow.com:443 ssl:default [nodename nor servname provided, or not known]"
+Artisan,ai agents,https://artisan.co/,-1,Cannot connect to host artisan.co:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+Cadea,ai agents,https://www.cadea.ai,503,
+Mistral Vibe CLI,code assistant,https://github.com/mistralai/vibe-cli,404,
+Sweeper,code assistant,https://github.com/nichochar/sweeper,404,
+1mind,ai agents,https://1mind.ai,-1,Cannot connect to host 1mind.ai:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]
+NVIDIA Alpamayo,ai agents,https://github.com/nvidia/alpamayo,404,
+NVIDIA AlpaSim,ai agents,https://github.com/nvidia/alpasim,404,

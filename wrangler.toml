@@ -1,0 +1,14 @@
+name = "ai-tools-directory"
+main = "src/worker.js"
+compatibility_date = "2026-02-17"
+workers_dev = true
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ai_tools_directory"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+migrations_dir = "migrations"

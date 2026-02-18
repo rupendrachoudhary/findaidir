@@ -1,0 +1,18 @@
+{
+  "name": "ai-tools-directory-cloudflare",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "dev:pages": "wrangler pages dev public --d1=DB=ai_tools_directory",
+    "deploy": "wrangler deploy",
+    "deploy:pages": "wrangler pages deploy public",
+    "db:migrate": "wrangler d1 migrations apply ai_tools_directory",
+    "db:seed": "wrangler d1 execute ai_tools_directory --file=data/seed.sql",
+    "data:audit": "python3 scripts/audit_links.py --xlsx All_ai_tools.xlsx --out-dir audit",
+    "data:recover": "python3 scripts/recover_links.py --audit-csv audit/tools_with_audit.csv --out-csv audit/recovered_links.csv",
+    "data:enrich": "python3 scripts/enrich_tools.py --existing-csv data/tools_cleaned.csv --out-csv audit/new_tools_verified.csv",
+    "data:build": "python3 scripts/build_dataset.py --audit-csv audit/tools_with_audit.csv --recover-csv audit/recovered_links.csv --new-tools-csv audit/new_tools_verified.csv --out-dir data --xlsx-out All_ai_tools_cleaned_enriched.xlsx --drop-mismatch-score 0.0"
+  }
+}

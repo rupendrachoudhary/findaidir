@@ -1,0 +1,9 @@
+{
+  "final_tool_count": 4513,
+  "seed_tool_count": 4513,
+  "recovered_links_used": 0,
+  "new_scraped_tools_merged": 220,
+  "legacy_mismatch_rows_dropped": 524,
+  "categories": 319,
+  "xlsx_output": "All_ai_tools_cleaned_enriched.xlsx"
+}

@@ -1,0 +1,9 @@
+{
+  "rows":6089.0,
+  "unique_urls":6042.0,
+  "ok_urls":4888.0,
+  "bad_urls":1154.0,
+  "ok_rows":4930.0,
+  "bad_rows":1159.0,
+  "elapsed_sec":194.34
+}
