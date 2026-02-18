@@ -84,7 +84,11 @@ function renderTools(items) {
     li.className = "tool-card";
 
     const title = document.createElement("h2");
-    title.textContent = item.name;
+    const titleLink = document.createElement("a");
+    titleLink.href = `/tool/${encodeURIComponent(item.slug)}`;
+    titleLink.textContent = item.name;
+    titleLink.rel = "bookmark";
+    title.appendChild(titleLink);
 
     const metaRow = document.createElement("div");
     metaRow.className = "meta-row";
@@ -98,13 +102,21 @@ function renderTools(items) {
     const description = document.createElement("p");
     description.textContent = truncate(item.description, 165);
 
+    const actions = document.createElement("div");
+    actions.className = "meta-row";
+
+    const details = document.createElement("a");
+    details.href = `/tool/${encodeURIComponent(item.slug)}`;
+    details.textContent = "View details";
+
     const link = document.createElement("a");
     link.href = item.website_url;
     link.target = "_blank";
     link.rel = "noopener noreferrer nofollow";
     link.textContent = "Visit website";
 
-    li.append(title, metaRow, description, link);
+    actions.append(details, link);
+    li.append(title, metaRow, description, actions);
     els.toolGrid.appendChild(li);
   }
 }

@@ -233,6 +233,15 @@ a:focus-visible {
   font-family: "Space Grotesk", "Avenir Next", sans-serif;
 }
 
+.tool-card h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.tool-card h2 a:hover {
+  text-decoration: underline;
+}
+
 .meta-row {
   display: flex;
   gap: 0.45rem;
