@@ -49,10 +49,20 @@ function normalizeExternalUrl(input) {
   return "#";
 }
 
-function logoUrl(domain, websiteUrl) {
-  const source = String(domain || "").trim() || String(websiteUrl || "").trim();
-  if (!source) return "";
-  return `https://www.google.com/s2/favicons?domain=${encodeURIComponent(source)}&sz=128`;
+function logoSources(domain, websiteUrl) {
+  const raw = String(domain || "").trim() || String(websiteUrl || "").trim();
+  if (!raw) return { primary: "", fallback: "" };
+  let host = raw;
+  try {
+    host = new URL(raw.startsWith("http://") || raw.startsWith("https://") ? raw : `https://${raw}`).hostname;
+  } catch (_) {
+    host = raw;
+  }
+  const safeHost = host.replace(/^www\./i, "");
+  return {
+    primary: `https://logo.clearbit.com/${encodeURIComponent(safeHost)}`,
+    fallback: `https://www.google.com/s2/favicons?domain=${encodeURIComponent(safeHost)}&sz=128`,
+  };
 }
 
 function createPill(text) {
@@ -65,20 +75,37 @@ function createPill(text) {
 function createToolLogo(item) {
   const wrapper = document.createElement("span");
   wrapper.className = "tool-logo";
+  const fallback = document.createElement("strong");
+  fallback.hidden = true;
+  fallback.textContent = String(item.name || "?").slice(0, 1).toUpperCase();
+  wrapper.appendChild(fallback);
 
-  const source = logoUrl(item.domain, item.website_url);
-  if (source) {
+  const sources = logoSources(item.domain, item.website_url);
+  if (sources.primary) {
     const img = document.createElement("img");
-    img.src = source;
+    img.src = sources.primary;
     img.alt = `${item.name} logo`;
     img.loading = "lazy";
     img.decoding = "async";
-    wrapper.appendChild(img);
+    img.addEventListener("error", () => {
+      if (img.dataset.fallbackApplied === "1") {
+        img.remove();
+        fallback.hidden = false;
+        return;
+      }
+      if (!sources.fallback) {
+        img.remove();
+        fallback.hidden = false;
+        return;
+      }
+      img.dataset.fallbackApplied = "1";
+      img.src = sources.fallback;
+    });
+    wrapper.prepend(img);
     return wrapper;
   }
 
-  const fallback = document.createElement("strong");
-  fallback.textContent = String(item.name || "?").slice(0, 1).toUpperCase();
+  fallback.hidden = false;
   wrapper.appendChild(fallback);
   return wrapper;
 }

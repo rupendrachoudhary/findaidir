@@ -28,10 +28,38 @@ function normalizeExternalUrl(input) {
   return "";
 }
 
-function logoUrl(domain, websiteUrl) {
-  const source = String(domain || "").trim() || String(websiteUrl || "").trim();
-  if (!source) return "";
-  return `https://www.google.com/s2/favicons?domain=${encodeURIComponent(source)}&sz=128`;
+function escapeJsString(value) {
+  return String(value).replace(/\\/g, "\\\\").replace(/'/g, "\\'");
+}
+
+function logoSources(domain, websiteUrl) {
+  const raw = String(domain || "").trim() || String(websiteUrl || "").trim();
+  if (!raw) return { primary: "", fallback: "" };
+  let host = raw;
+  try {
+    host = new URL(raw.startsWith("http://") || raw.startsWith("https://") ? raw : `https://${raw}`).hostname;
+  } catch (_) {
+    host = raw;
+  }
+  const safeHost = host.replace(/^www\./i, "");
+  return {
+    primary: `https://logo.clearbit.com/${encodeURIComponent(safeHost)}`,
+    fallback: `https://www.google.com/s2/favicons?domain=${encodeURIComponent(safeHost)}&sz=128`,
+  };
+}
+
+function renderLogoMarkup(name, domain, websiteUrl, wrapperClass, fallbackClass) {
+  const sources = logoSources(domain, websiteUrl);
+  const fallbackChar = escapeHtml(String(name || "?").slice(0, 1).toUpperCase());
+  if (!sources.primary) {
+    return `<span class="${escapeHtml(wrapperClass)}"><span class="${escapeHtml(fallbackClass)}" style="display:flex">${fallbackChar}</span></span>`;
+  }
+
+  const onErrorHandler = `if(!this.dataset.fallback){this.dataset.fallback='1';this.src='${escapeJsString(sources.fallback)}';}else{this.remove();this.nextElementSibling.style.display='flex';}`;
+  return `<span class="${escapeHtml(wrapperClass)}">
+    <img src="${escapeHtml(sources.primary)}" alt="${escapeHtml(name)} logo" loading="lazy" decoding="async" onerror="${escapeHtml(onErrorHandler)}" />
+    <span class="${escapeHtml(fallbackClass)}">${fallbackChar}</span>
+  </span>`;
 }
 
 function responseWithHeaders(html, status, cacheControl) {
@@ -79,6 +107,7 @@ function layout({ title, description, canonical, body, noindex = false }) {
       .tool-head{display:grid;grid-template-columns:58px 1fr;gap:.7rem;align-items:center}
       .logo{width:58px;height:58px;border-radius:14px;border:1px solid var(--line);background:#fff;overflow:hidden;display:flex;align-items:center;justify-content:center}
       .logo img{width:100%;height:100%;object-fit:cover}
+      .logo-fallback,.similar-fallback{display:none;align-items:center;justify-content:center;width:100%;height:100%;font-weight:700;color:#35516a}
       h1{font-family:"Space Grotesk","Avenir Next",sans-serif;margin:0;font-size:clamp(1.6rem,4vw,2.3rem);line-height:1.1}
       .subtitle{margin:.5rem 0 0;color:#33485c;line-height:1.45}
       .pills{display:flex;flex-wrap:wrap;gap:.46rem;margin:.7rem 0 0}
@@ -127,10 +156,9 @@ function renderSimilarCards(items) {
   const cards = items
     .map((item) => {
       const normalizedUrl = normalizeExternalUrl(item.website_url);
-      const itemLogo = logoUrl(item.domain, item.website_url);
       return `<li class="similar-card">
         <div class="similar-head">
-          <span class="similar-logo">${itemLogo ? `<img src="${escapeHtml(itemLogo)}" alt="${escapeHtml(item.name)} logo" loading="lazy" decoding="async" />` : ""}</span>
+          ${renderLogoMarkup(item.name, item.domain, item.website_url, "similar-logo", "similar-fallback")}
           <h3><a href="https://findaidir.com/tool/${encodeURIComponent(item.slug)}">${escapeHtml(item.name)}</a></h3>
         </div>
         <p>${escapeHtml(truncate(item.description, 130))}</p>
@@ -234,7 +262,7 @@ export async function onRequestGet(context) {
     </div>
     <article class="panel">
       <div class="tool-head">
-        <span class="logo">${logoUrl(row.domain, row.website_url) ? `<img src="${escapeHtml(logoUrl(row.domain, row.website_url))}" alt="${escapeHtml(row.name)} logo" loading="lazy" decoding="async" />` : ""}</span>
+        ${renderLogoMarkup(row.name, row.domain, row.website_url, "logo", "logo-fallback")}
         <div>
           <h1>${escapeHtml(row.name)}</h1>
           <p class="subtitle">${escapeHtml(row.description || "No description available.")}</p>

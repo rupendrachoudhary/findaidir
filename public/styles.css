@@ -359,6 +359,11 @@ a:focus-visible {
   object-fit: cover;
 }
 
+.tool-logo strong {
+  color: #35516a;
+  font-size: 0.98rem;
+}
+
 .tool-card h2 {
   margin: 0;
   font-size: 1.02rem;
