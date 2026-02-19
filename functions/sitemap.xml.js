@@ -9,7 +9,9 @@ export async function onRequestGet(context) {
   const { env, request } = context;
   const origin = "https://findaidir.com";
 
-  const rows = await env.DB.prepare("SELECT slug, updated_at FROM tools ORDER BY id DESC LIMIT 50000").all();
+  const rows = await env.DB.prepare(
+    "SELECT slug, updated_at FROM tools WHERE quality_status NOT LIKE 'invalid%' ORDER BY id DESC LIMIT 50000"
+  ).all();
   const items = (rows.results || []).filter((row) => /^[a-z0-9-]{1,110}$/.test(String(row.slug || "")));
 
   const urls = [

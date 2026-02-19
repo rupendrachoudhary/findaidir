@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="FindAIDir logo">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b6b59" />
+      <stop offset="100%" stop-color="#1f7fa1" />
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)" />
+  <circle cx="56" cy="56" r="25" fill="none" stroke="#ffffff" stroke-width="9" />
+  <line x1="73" y1="73" x2="95" y2="95" stroke="#ffffff" stroke-width="9" stroke-linecap="round" />
+  <path d="M49 46h14" stroke="#ffffff" stroke-width="7" stroke-linecap="round" />
+  <path d="M49 56h10" stroke="#ffffff" stroke-width="7" stroke-linecap="round" />
+  <path d="M49 66h8" stroke="#ffffff" stroke-width="7" stroke-linecap="round" />
+</svg>

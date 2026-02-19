@@ -70,15 +70,21 @@ body {
 }
 
 .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.46rem;
   font-family: "Space Grotesk", "Avenir Next", sans-serif;
-  font-size: 1.36rem;
+  font-size: 1.3rem;
   font-weight: 700;
   text-decoration: none;
   color: var(--ink);
 }
 
-.brand span {
-  color: var(--accent-strong);
+.brand-logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(12, 22, 36, 0.14);
 }
 
 .top-nav {

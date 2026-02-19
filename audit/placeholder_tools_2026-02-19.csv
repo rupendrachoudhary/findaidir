@@ -1,0 +1,10 @@
+slug,name,website_url,status,final_url,signature_hits,quality_status
+ai-job-board,AI Job Board,https://nextaijobs.com/,200,https://nextaijobs.com/,parking_generic_2,verified
+chatgptsora,ChatGptSora,http://ww38.chatgptsora.co/,200,http://ww38.chatgptsora.co/,parking_generic_3,verified
+commanddash,CommandDash,https://commanddash.io/,200,http://ww38.commanddash.io/,parking_generic_3,verified
+decorion,Decorion,https://decorion.xyz/,200,https://decorion.xyz/,parking_generic_3,verified
+google-antigravity,Google Antigravity,https://antigravity.dev/,200,https://antigravity.dev/,nginx_default_1|nginx_default_2,verified
+replaceanything,ReplaceAnything,http://ww38.replaceanything.click/,200,http://ww38.replaceanything.click/,parking_generic_3,verified
+restore-photos,Restore Photos,https://restorephotos.one/,200,https://restorephotos.one/,parking_generic_2,verified
+succeed-ai,Succeed AI,https://succeedai.live/,200,https://succeedai.live/,nginx_default_1|nginx_default_2,verified
+text2audio,Text2Audio,http://ww38.text2audio.cc/,200,http://ww38.text2audio.cc/,parking_generic_3,verified

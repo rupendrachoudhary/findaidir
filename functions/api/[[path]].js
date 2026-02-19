@@ -190,7 +190,7 @@ async function handleToolsList(request, env) {
     return badRequest("Invalid category.");
   }
 
-  const whereClauses = [];
+  const whereClauses = ["quality_status NOT LIKE 'invalid%'"];
   const binds = [];
   if (q) {
     whereClauses.push("(LOWER(name) LIKE LOWER(?) OR LOWER(tags) LIKE LOWER(?) OR LOWER(description) LIKE LOWER(?))");
@@ -236,7 +236,7 @@ async function handleToolBySlug(slug, env) {
     return badRequest("Invalid slug.");
   }
   const row = await env.DB.prepare(
-    "SELECT slug, name, category, tags, description, website_url, domain, quality_status FROM tools WHERE slug = ? LIMIT 1"
+    "SELECT slug, name, category, tags, description, website_url, domain, quality_status FROM tools WHERE slug = ? AND quality_status NOT LIKE 'invalid%' LIMIT 1"
   )
     .bind(slug)
     .first();
@@ -248,7 +248,7 @@ async function handleToolBySlug(slug, env) {
 
 async function handleCategories(env) {
   const rows = await env.DB.prepare(
-    "SELECT category, COUNT(*) AS count FROM tools GROUP BY category ORDER BY count DESC, category ASC LIMIT 300"
+    "SELECT category, COUNT(*) AS count FROM tools WHERE quality_status NOT LIKE 'invalid%' GROUP BY category ORDER BY count DESC, category ASC LIMIT 300"
   ).all();
   return json({ items: rows.results || [] }, { cache: "public, max-age=300, s-maxage=900" });
 }

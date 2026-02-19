@@ -99,8 +99,8 @@ function layout({ title, description, canonical, body, noindex = false }) {
       body{font-family:"IBM Plex Sans",system-ui,-apple-system,Segoe UI,sans-serif;background:linear-gradient(140deg,#d8e4ca 0%,#f4f6ef 42%,#dce7ec 100%);color:var(--ink);margin:0}
       .wrap{max-width:1060px;margin:0 auto;padding:1rem}
       .top{display:flex;justify-content:space-between;gap:.8rem;align-items:center;margin-bottom:.8rem}
-      .brand{font-weight:700;font-size:1.08rem;color:#0c1624;text-decoration:none}
-      .brand span{color:#0b4f43}
+      .brand{display:inline-flex;align-items:center;gap:.45rem;font-weight:700;font-size:1.08rem;color:#0c1624;text-decoration:none}
+      .brand-logo{width:28px;height:28px;border-radius:7px;box-shadow:0 3px 8px rgba(12,22,36,.15)}
       .nav{display:flex;gap:.5rem;flex-wrap:wrap}
       .nav a{text-decoration:none;color:#0c1624;border:1px solid var(--line);border-radius:999px;padding:.32rem .64rem;font-size:.82rem;background:rgba(255,255,255,.68)}
       .panel{background:rgba(255,255,255,.9);border:1px solid var(--line);border-radius:16px;padding:1rem;box-shadow:0 14px 30px rgba(9,20,34,.1)}
@@ -181,7 +181,7 @@ export async function onRequestGet(context) {
   }
 
   const row = await env.DB.prepare(
-    "SELECT slug, name, category, tags, description, website_url, domain, quality_status FROM tools WHERE slug = ? LIMIT 1"
+    "SELECT slug, name, category, tags, description, website_url, domain, quality_status FROM tools WHERE slug = ? AND quality_status NOT LIKE 'invalid%' LIMIT 1"
   )
     .bind(slug)
     .first();
@@ -193,7 +193,7 @@ export async function onRequestGet(context) {
       title: "Tool Not Found | FindAIDir",
       description: "This tool entry does not exist.",
       canonical,
-      body: `<div class="top"><a class="brand" href="https://findaidir.com/">FindAIDir<span>.com</span></a></div><section class="panel"><h1>Tool not found</h1><p class="subtitle">The requested listing is unavailable. You can continue exploring the directory from the homepage.</p><div class="actions"><a class="btn btn-primary" href="https://findaidir.com/">Back to directory</a></div></section>`,
+      body: `<div class="top"><a class="brand" href="https://findaidir.com/"><img class="brand-logo" src="https://findaidir.com/logo-findaidir.svg" alt="" width="28" height="28" /><span>FindAIDir</span></a></div><section class="panel"><h1>Tool not found</h1><p class="subtitle">The requested listing is unavailable. You can continue exploring the directory from the homepage.</p><div class="actions"><a class="btn btn-primary" href="https://findaidir.com/">Back to directory</a></div></section>`,
       noindex: true,
     });
     return responseWithHeaders(html, 404, "public, max-age=300");
@@ -209,6 +209,7 @@ export async function onRequestGet(context) {
     `SELECT slug, name, category, tags, description, website_url, domain
      FROM tools
      WHERE slug <> ?
+       AND quality_status NOT LIKE 'invalid%'
        AND (category = ? OR tags LIKE ?)
      ORDER BY CASE WHEN category = ? THEN 0 ELSE 1 END, id DESC
      LIMIT 9`
@@ -221,7 +222,7 @@ export async function onRequestGet(context) {
     const seen = new Set(similarTools.map((item) => item.slug));
     seen.add(slug);
     const fallbackResult = await env.DB.prepare(
-      "SELECT slug, name, category, tags, description, website_url, domain FROM tools WHERE slug <> ? ORDER BY id DESC LIMIT 18"
+      "SELECT slug, name, category, tags, description, website_url, domain FROM tools WHERE slug <> ? AND quality_status NOT LIKE 'invalid%' ORDER BY id DESC LIMIT 18"
     )
       .bind(slug)
       .all();
@@ -253,7 +254,10 @@ export async function onRequestGet(context) {
 
   const body = `
     <div class="top">
-      <a class="brand" href="https://findaidir.com/">FindAIDir<span>.com</span></a>
+      <a class="brand" href="https://findaidir.com/">
+        <img class="brand-logo" src="https://findaidir.com/logo-findaidir.svg" alt="" width="28" height="28" />
+        <span>FindAIDir</span>
+      </a>
       <nav class="nav" aria-label="Primary navigation">
         <a href="https://findaidir.com/">Browse tools</a>
         <a href="https://findaidir.com/submit-tool">List your tool</a>

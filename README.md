@@ -32,6 +32,15 @@ Generated outputs:
 # 1) Audit original XLSX links
 python3 scripts/audit_links.py --xlsx All_ai_tools.xlsx --out-dir audit
 
+# 1b) Detect placeholder/parked pages from live export
+npx wrangler d1 execute ai_tools_directory --remote --json --command \
+  "SELECT slug,name,domain,website_url,quality_status FROM tools" \
+  > audit/live_tools_export.json
+python3 scripts/audit_placeholder_pages.py \
+  --d1-json audit/live_tools_export.json \
+  --out-all audit/live_link_audit.csv \
+  --out-flagged audit/live_flagged_placeholder.csv
+
 # 2) Scrape + validate additional tools
 python3 scripts/enrich_tools.py --existing-csv data/tools_cleaned.csv --out-csv audit/new_tools_verified.csv
 
