@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>List Your AI Tool on FindAIDir.com</title>
+    <meta
+      name="description"
+      content="Submit your AI product to FindAIDir.com for review and listing in the directory."
+    />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="canonical" href="https://findaidir.com/submit-tool" />
+    <meta property="og:title" content="Submit a Tool | FindAIDir.com" />
+    <meta
+      property="og:description"
+      content="Founders can submit AI tools to FindAIDir.com using this listing request form."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://findaidir.com/submit-tool" />
+    <meta name="theme-color" content="#0f6f5c" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="bg-overlay"></div>
+    <header class="site-header">
+      <div class="wrap top-row">
+        <a class="brand" href="/" aria-label="FindAIDir home">FindAIDir<span>.com</span></a>
+        <nav class="top-nav" aria-label="Primary navigation">
+          <a href="/">Browse Tools</a>
+          <a href="/submit-tool">List Your Tool</a>
+          <a href="/contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap page-shell">
+      <section class="page-hero">
+        <h1>List your AI tool</h1>
+        <p>
+          Submit your product details for review. Approved tools are added to the directory with profile pages and
+          searchable tags.
+        </p>
+      </section>
+
+      <section class="page-card">
+        <h2>Submission form</h2>
+        <form id="submitToolForm" class="single-col" autocomplete="on">
+          <div class="form-grid">
+            <label>
+              Tool name
+              <input name="tool_name" type="text" maxlength="120" required />
+            </label>
+            <label>
+              Website URL
+              <input name="website_url" type="url" maxlength="240" placeholder="https://example.com" required />
+            </label>
+            <label>
+              Category
+              <input name="category" type="text" maxlength="80" placeholder="Writing, Video, Productivity" required />
+            </label>
+            <label>
+              Tags (comma separated)
+              <input name="tags" type="text" maxlength="220" placeholder="automation, research, analytics" />
+            </label>
+            <label>
+              Your name
+              <input name="submitter_name" type="text" maxlength="120" required />
+            </label>
+            <label>
+              Your email
+              <input name="submitter_email" type="email" maxlength="160" required />
+            </label>
+          </div>
+          <label>
+            Short description
+            <textarea name="description" minlength="30" maxlength="2000" required></textarea>
+          </label>
+
+          <label class="visually-hidden" aria-hidden="true">
+            Company website
+            <input name="website" type="text" tabindex="-1" autocomplete="off" />
+          </label>
+
+          <div class="form-actions">
+            <button id="submitToolBtn" type="submit">Submit for review</button>
+            <p id="submitToolStatus" class="form-status" role="status" aria-live="polite"></p>
+          </div>
+          <p class="helper-text">We review listings before publishing. Please submit accurate information.</p>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer wrap">
+      <p>FindAIDir.com - AI tool discovery directory.</p>
+      <p>
+        <a href="/">Browse tools</a>
+        <a href="/contact">Contact us</a>
+      </p>
+    </footer>
+
+    <script src="/submit-tool.js" defer></script>
+  </body>
+</html>

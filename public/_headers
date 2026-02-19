@@ -12,6 +12,12 @@
 /styles.css
   Cache-Control: public, max-age=300
 
+/contact.js
+  Cache-Control: public, max-age=300
+
+/submit-tool.js
+  Cache-Control: public, max-age=300
+
 /sitemap.xml
   Content-Type: application/xml; charset=utf-8
   Cache-Control: public, max-age=3600

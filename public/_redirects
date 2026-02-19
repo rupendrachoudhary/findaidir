@@ -1,1 +1,3 @@
 https://www.findaidir.com/* https://findaidir.com/:splat 301
+/contact /contact.html 200
+/submit-tool /submit-tool.html 200

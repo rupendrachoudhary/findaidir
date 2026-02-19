@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact FindAIDir.com</title>
+    <meta
+      name="description"
+      content="Contact FindAIDir.com for directory questions, corrections, and partnership requests."
+    />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="canonical" href="https://findaidir.com/contact" />
+    <meta property="og:title" content="Contact FindAIDir.com" />
+    <meta
+      property="og:description"
+      content="Send your question or correction to the FindAIDir.com team."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://findaidir.com/contact" />
+    <meta name="theme-color" content="#0f6f5c" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="bg-overlay"></div>
+    <header class="site-header">
+      <div class="wrap top-row">
+        <a class="brand" href="/" aria-label="FindAIDir home">FindAIDir<span>.com</span></a>
+        <nav class="top-nav" aria-label="Primary navigation">
+          <a href="/">Browse Tools</a>
+          <a href="/submit-tool">List Your Tool</a>
+          <a href="/contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap page-shell">
+      <section class="page-hero">
+        <h1>Contact us</h1>
+        <p>
+          Need to report a broken listing, suggest an improvement, or ask a question? Send us a message and we will
+          review it.
+        </p>
+      </section>
+
+      <section class="page-card">
+        <h2>Send a message</h2>
+        <form id="contactForm" class="single-col" autocomplete="on">
+          <label>
+            Name
+            <input name="name" type="text" maxlength="120" required />
+          </label>
+          <label>
+            Email
+            <input name="email" type="email" maxlength="160" required />
+          </label>
+          <label>
+            Subject
+            <input name="subject" type="text" maxlength="140" required />
+          </label>
+          <label>
+            Message
+            <textarea name="message" minlength="20" maxlength="2000" required></textarea>
+          </label>
+
+          <label class="visually-hidden" aria-hidden="true">
+            Company website
+            <input name="website" type="text" tabindex="-1" autocomplete="off" />
+          </label>
+
+          <div class="form-actions">
+            <button id="contactSubmitBtn" type="submit">Send message</button>
+            <p id="contactStatus" class="form-status" role="status" aria-live="polite"></p>
+          </div>
+          <p class="helper-text">Spam attempts are filtered automatically.</p>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer wrap">
+      <p>FindAIDir.com - AI tool discovery directory.</p>
+      <p>
+        <a href="/">Browse tools</a>
+        <a href="/submit-tool">List your tool</a>
+      </p>
+    </footer>
+
+    <script src="/contact.js" defer></script>
+  </body>
+</html>

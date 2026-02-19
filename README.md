@@ -5,6 +5,8 @@ Production-ready AI tools directory with:
 - Data cleaning + live URL validation.
 - New-tool enrichment via web scraping.
 - Cloudflare Pages/Workers + D1 architecture.
+- Tool logos, detail pages with similar tools, and internal retention links.
+- Public submit-tool and contact forms backed by D1.
 - Security/performance defaults for free-plan launch.
 
 ## Current dataset status
@@ -55,6 +57,8 @@ API endpoints:
 - `GET /api/categories`
 - `GET /api/tools?q=&category=&page=&pageSize=&sort=`
 - `GET /api/tools/:slug`
+- `POST /api/tool-submissions`
+- `POST /api/contact-submissions`
 
 ## Security + performance implemented
 
@@ -62,6 +66,7 @@ API endpoints:
 - Parameterized SQL queries.
 - API input validation and page-size caps.
 - Basic per-IP rate limiting.
+- Form honeypot + stricter write-rate limits.
 - Responsive UI with debounced filters and URL-state sync.
 - Cache headers for static assets + API responses.
 
@@ -125,11 +130,11 @@ If your domain is not yet on Cloudflare DNS, first add the zone and update names
 wrangler deploy
 ```
 
-## Monetization-ready tables
+## User-submitted data tables
 
 These are already in schema:
 
-- `sponsor_slots`
-- `affiliate_links`
+- `tool_submissions`
+- `contact_messages`
 
-Use them for sponsored placements, affiliate routing, and premium listings.
+Use them to review incoming listing requests and contact queries.

@@ -14,6 +14,8 @@ export async function onRequestGet(context) {
 
   const urls = [
     `<url><loc>${origin}/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>`,
+    `<url><loc>${origin}/submit-tool</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>`,
+    `<url><loc>${origin}/contact</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>`,
     ...items.map((row) => {
       const lastmod = formatDate(row.updated_at);
       return `<url><loc>${origin}/tool/${encodeURIComponent(row.slug)}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}<changefreq>weekly</changefreq><priority>0.7</priority></url>`;
